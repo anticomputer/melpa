@@ -1,0 +1,4 @@
+(bind-key
+    :fetcher github
+    :repo "anticomputer/use-package"
+    :files ("bind-key.el"))

@@ -1,0 +1,1 @@
+(ag :repo "anticomputer/ag.el" :fetcher github)

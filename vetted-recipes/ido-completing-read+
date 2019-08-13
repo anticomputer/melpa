@@ -1,0 +1,2 @@
+(ido-completing-read+ :repo "anticomputer/ido-completing-read-plus" :fetcher github
+                      :files ("ido-completing-read+.el"))

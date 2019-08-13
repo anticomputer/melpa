@@ -1,0 +1,1 @@
+(centaur-tabs :repo "anticomputer/centaur-tabs" :fetcher github)

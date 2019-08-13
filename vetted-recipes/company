@@ -1,0 +1,2 @@
+(company :repo "anticomputer/company-mode" :fetcher github)
+
