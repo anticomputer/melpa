@@ -1,0 +1,12 @@
+Recipe vetting workflow:
+
+1: fork recipes/package-recipe into controlled git
+2: point vetted-recipes/package-recipe to fork
+3: run vetted-recipe package through review pipeline pre-install
+   NOTE: toggle safer-package-unpack-skip to nil!
+4: sign off and commit vetted-recipes/package-recipe
+
+Updating packages:
+
+Rebase changes|features you want from upstream package into fork
+and run M-x quelpa-update (see quelpa doc re: stale packages)
