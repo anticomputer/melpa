@@ -1,0 +1,1 @@
+(dash :fetcher github :repo "anticomputer/dash.el" :files ("dash.el"))

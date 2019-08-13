@@ -1,0 +1,2 @@
+(browse-kill-ring :repo "anticomputer/browse-kill-ring" :fetcher github)
+

@@ -1,0 +1,1 @@
+(xml-rpc :fetcher github :repo "anticomputer/xml-rpc-el")

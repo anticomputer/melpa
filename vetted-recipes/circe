@@ -1,0 +1,1 @@
+(circe :repo "anticomputer/circe" :fetcher github)

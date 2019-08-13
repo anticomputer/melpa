@@ -1,0 +1,2 @@
+(memoize :repo "anticomputer/emacs-memoize"
+         :fetcher github)
