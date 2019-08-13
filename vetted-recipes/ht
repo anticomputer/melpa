@@ -1,0 +1,4 @@
+(ht
+ :repo "anticomputer/ht.el"
+ :files ("ht.el")
+ :fetcher github)

@@ -1,0 +1,3 @@
+(paredit :repo "anticomputer/paredit"
+         :fetcher github
+         :files ("paredit.el"))

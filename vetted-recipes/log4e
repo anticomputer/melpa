@@ -1,0 +1,2 @@
+(log4e :repo "anticomputer/log4e"
+       :fetcher github)

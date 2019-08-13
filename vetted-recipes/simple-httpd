@@ -1,0 +1,2 @@
+(simple-httpd :repo "anticomputer/emacs-web-server"
+              :fetcher github)

@@ -1,0 +1,1 @@
+(visual-regexp :repo "anticomputer/visual-regexp.el" :fetcher github)

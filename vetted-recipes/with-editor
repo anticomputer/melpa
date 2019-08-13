@@ -1,0 +1,1 @@
+(with-editor :fetcher github :repo "anticomputer/with-editor")

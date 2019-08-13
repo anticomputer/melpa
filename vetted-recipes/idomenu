@@ -1,0 +1,1 @@
+(idomenu :repo "anticomputer/idomenu" :fetcher github)
