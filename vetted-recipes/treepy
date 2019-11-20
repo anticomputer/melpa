@@ -1,0 +1,1 @@
+(treepy :repo "anticomputer/treepy.el" :fetcher github)
