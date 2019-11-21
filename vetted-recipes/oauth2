@@ -1,0 +1,4 @@
+(oauth2
+ :repo "anticomputer/oauth2"
+ :files ("oauth2.el")
+ :fetcher github)
