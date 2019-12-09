@@ -1,0 +1,1 @@
+(parseclj :repo "anticomputer/parseclj" :fetcher github)
