@@ -1,0 +1,4 @@
+(auth-source-pass
+ :fetcher github
+ :repo "anticomputer/auth-password-store"
+ :old-names (auth-password-store))
