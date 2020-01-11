@@ -1,0 +1,1 @@
+(exec-path-from-shell :fetcher github :repo "anticomputer/exec-path-from-shell")
