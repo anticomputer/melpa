@@ -1,0 +1,1 @@
+(dired-narrow :fetcher github :repo "anticomputer/dired-hacks" :files ("dired-narrow.el"))

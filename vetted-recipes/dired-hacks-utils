@@ -1,0 +1,1 @@
+(dired-hacks-utils :fetcher github :repo "anticomputer/dired-hacks" :files ("dired-hacks-utils.el"))
