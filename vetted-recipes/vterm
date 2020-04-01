@@ -1,0 +1,5 @@
+(vterm :fetcher github
+	:repo "anticomputer/emacs-libvterm"
+    :files ("*"
+        (:exclude ".dir-locals.el" ".gitignore" ".clang-format" ".travis.yml"))
+    )

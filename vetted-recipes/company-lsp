@@ -1,0 +1,1 @@
+(company-lsp :repo "anticomputer/company-lsp" :fetcher github)
