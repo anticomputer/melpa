@@ -1,0 +1,4 @@
+(yasnippet-snippets
+ :repo "anticomputer/yasnippet-snippets"
+ :fetcher github
+ :files ("*.el" "snippets" ".nosearch"))
