@@ -1,0 +1,3 @@
+(flx :repo "anticomputer/flx"
+     :fetcher github
+     :files ("flx.el"))
