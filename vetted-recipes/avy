@@ -1,0 +1,2 @@
+(avy :repo "anticomputer/avy"
+     :fetcher github)
