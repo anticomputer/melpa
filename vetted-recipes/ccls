@@ -1,0 +1,1 @@
+(ccls :repo "anticomputer/emacs-ccls" :fetcher github)
