@@ -1,0 +1,2 @@
+(yaml-mode :repo "anticomputer/yaml-mode" :fetcher github)
+
