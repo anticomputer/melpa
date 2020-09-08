@@ -1,0 +1,3 @@
+(popup :repo "anticomputer/popup-el"
+       :fetcher github
+       :files ("popup.el"))
