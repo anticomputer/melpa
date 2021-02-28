@@ -1,1 +1,1 @@
-(spotify :fetcher github :repo "anticomputer/spotify.el")
+(spotifyel :fetcher github :repo "anticomputer/spotify.el")
