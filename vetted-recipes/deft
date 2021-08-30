@@ -1,0 +1,1 @@
+(deft :repo "anticomputer/deft" :fetcher github)
