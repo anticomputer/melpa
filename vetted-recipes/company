@@ -1,2 +1,1 @@
-(company :repo "anticomputer/company-mode" :fetcher github)
-
+(company :repo "anticomputer/company-mode" :fetcher github :files (:defaults "icons"))
