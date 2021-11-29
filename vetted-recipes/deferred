@@ -1,0 +1,4 @@
+(deferred
+  :repo "anticomputer/emacs-deferred"
+  :fetcher github
+  :files ("deferred.el"))

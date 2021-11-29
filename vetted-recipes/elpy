@@ -1,0 +1,7 @@
+(elpy
+ :fetcher github
+ :repo "anticomputer/elpy"
+ :files ("*.el"
+         "NEWS.rst"
+         "snippets"
+         "elpy"))

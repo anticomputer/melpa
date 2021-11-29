@@ -1,0 +1,2 @@
+(yaml :repo "anticomputer/yaml.el"
+      :fetcher github)

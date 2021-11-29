@@ -1,0 +1,1 @@
+(emojify :fetcher github :repo "anticomputer/emacs-emojify" :files (:defaults "data" "images"))

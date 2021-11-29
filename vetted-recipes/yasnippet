@@ -1,0 +1,3 @@
+(yasnippet :repo "anticomputer/yasnippet"
+           :fetcher github
+           :files ("yasnippet.el" "snippets"))

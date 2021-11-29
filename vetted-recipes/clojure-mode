@@ -1,0 +1,2 @@
+(clojure-mode :repo "anticomputer/clojure-mode" :fetcher github :files
+              ("clojure-mode.el"))

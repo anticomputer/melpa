@@ -1,0 +1,5 @@
+(go-mode
+ :repo "anticomputer/go-mode.el"
+ :fetcher github
+ :files ("go-mode.el"))
+

@@ -1,0 +1,1 @@
+(sesman :repo "anticomputer/sesman" :fetcher github)

@@ -1,0 +1,4 @@
+(all-the-icons
+ :repo "anticomputer/all-the-icons.el"
+ :fetcher github
+ :files (:defaults "data"))

@@ -1,0 +1,1 @@
+(lsp-mode :repo "anticomputer/lsp-mode" :fetcher github)
