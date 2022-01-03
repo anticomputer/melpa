@@ -1,0 +1,1 @@
+(code-review :repo "anticomputer/code-review" :fetcher github)
