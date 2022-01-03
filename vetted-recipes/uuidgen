@@ -1,0 +1,1 @@
+(uuidgen :fetcher github :repo "anticomputer/uuidgen-el")
