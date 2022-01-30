@@ -1,4 +1,3 @@
 (projectile :repo "anticomputer/projectile"
             :fetcher github
             :files ("projectile.el"))
-
