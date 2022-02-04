@@ -1,0 +1,4 @@
+(wgrep
+ :fetcher github
+ :repo "anticomputer/Emacs-wgrep"
+ :files ("wgrep.el"))
