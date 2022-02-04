@@ -1,0 +1,3 @@
+(rg
+ :fetcher github
+ :repo "anticomputer/rg.el")
