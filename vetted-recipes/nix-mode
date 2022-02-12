@@ -1,0 +1,3 @@
+(nix-mode :repo "anticomputer/nix-mode" :fetcher github
+          :files (:defaults
+           (:exclude "nix-company.el" "nix-mode-mmm.el")))
