@@ -1,4 +1,4 @@
-(tsc :repo "anticomputer/elisp-tree-sitter"
+(tsc :repo "anticomputer/elisp-tree-sitter-2"
      :fetcher github
      :branch "anticomputer-ql"
      :files ("core/*.el"
