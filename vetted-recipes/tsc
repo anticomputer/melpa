@@ -1,6 +1,6 @@
 (tsc :repo "anticomputer/elisp-tree-sitter"
      :fetcher github
-     :branch "release"
+     :branch "anticomputer-ql"
      :files ("core/*.el"
              "core/Cargo.toml"
              "core/Cargo.lock"
