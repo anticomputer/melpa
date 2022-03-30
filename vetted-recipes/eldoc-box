@@ -1,1 +1,1 @@
-(eldoc-box :repo "anticomputer/eldoc-box" :fetcher github)
+(eldoc-box :repo "anticomputer/eldoc-box" :fetcher github :branch "hover-fix")
