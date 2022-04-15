@@ -1,0 +1,1 @@
+(deadgrep :repo "anticomputer/deadgrep" :fetcher github)
