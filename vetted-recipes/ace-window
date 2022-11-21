@@ -1,0 +1,2 @@
+(ace-window :repo "anticomputer/ace-window"
+            :fetcher github)
