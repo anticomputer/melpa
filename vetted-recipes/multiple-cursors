@@ -1,0 +1,3 @@
+(multiple-cursors
+ :fetcher github
+ :repo "anticomputer/multiple-cursors.el")
