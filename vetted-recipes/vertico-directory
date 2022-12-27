@@ -1,0 +1,2 @@
+(vertico-directory :fetcher github :repo "anticomputer/vertico" :files ("extensions/vertico-directory.el"))
+  

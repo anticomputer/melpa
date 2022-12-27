@@ -1,0 +1,1 @@
+(corfu :fetcher github :repo "anticomputer/corfu")
