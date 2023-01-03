@@ -1,2 +1,1 @@
-(org-roam :fetcher github
-          :repo "anticomputer/org-roam" :branch "age-support")
+(org-roam :fetcher github :repo "anticomputer/org-roam")
