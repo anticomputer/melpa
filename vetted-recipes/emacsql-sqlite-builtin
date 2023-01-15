@@ -1,0 +1,4 @@
+(emacsql-sqlite-builtin
+ :fetcher github
+ :repo "anticomputer/emacsql"
+ :files ("emacsql-sqlite-builtin.el"))
