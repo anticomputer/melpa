@@ -1,3 +1,4 @@
 (paredit :repo "anticomputer/paredit"
          :fetcher github
+         :stable t
          :files ("paredit.el"))
