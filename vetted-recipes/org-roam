@@ -1,1 +1,3 @@
-(org-roam :fetcher github :repo "anticomputer/org-roam")
+(org-roam :fetcher github
+          :repo "anticomputer/org-roam"
+          :files (:defaults "extensions/*"))
