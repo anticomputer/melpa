@@ -1,0 +1,2 @@
+cat * | rg ':repo "(.*?)".*' -or '$1' | sort | uniq > repos-to-update.txt
+cat repos-to-update.txt | xargs -I{} gh repo sync {}
