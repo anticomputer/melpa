@@ -1,4 +1,4 @@
 (pyim-cangjiedict
  :fetcher github
- :repo "p1uxtar/pyim-cangjiedict"
+ :repo "con5tella/pyim-cangjiedict"
  :files (:defaults "*.pyim"))
