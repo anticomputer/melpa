@@ -1,4 +1,5 @@
 (emacsql-sqlite-builtin
  :fetcher github
  :repo "anticomputer/emacsql"
- :files ("emacsql-sqlite-builtin.el"))
+ :files ("emacsql-sqlite-builtin.el")
+ :version-regexp "no-version")
