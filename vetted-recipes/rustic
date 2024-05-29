@@ -1,0 +1,3 @@
+(rustic
+    :repo "anticomputer/rustic"
+    :fetcher github)
