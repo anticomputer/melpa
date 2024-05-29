@@ -1,0 +1,2 @@
+(rust-mode :repo "anticomputer/rust-mode"
+           :fetcher github)
