@@ -1,0 +1,1 @@
+(edit-indirect :fetcher github :repo "anticomputer/edit-indirect")
