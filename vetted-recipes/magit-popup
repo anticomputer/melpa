@@ -1,0 +1,1 @@
+(magit-popup :fetcher github :repo "anticomputer/magit-popup")
