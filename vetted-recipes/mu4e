@@ -1,2 +1,0 @@
-;; synced to commit for mu 1.12.9
-(mu4e :fetcher github :repo "anticomputer/mu" :commit "60340c525d6c614ea4527de01baa8d926b89bb29" :files ("mu4e/*.el"))
