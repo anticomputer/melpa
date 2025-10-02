@@ -1,0 +1,4 @@
+(llama
+ :fetcher github
+ :repo "anticomputer/llama"
+ :files ("llama.el" ".dir-locals.el"))
