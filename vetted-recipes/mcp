@@ -1,0 +1,1 @@
+(mcp :fetcher github :repo "anticomputer/mcp.el")
