@@ -1,0 +1,1 @@
+(gptel :repo "anticomputer/gptel" :fetcher github)
