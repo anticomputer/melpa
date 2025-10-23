@@ -1,0 +1,1 @@
+(pretty-sha-path :fetcher github :repo "anticomputer/pretty-sha-path.el")

@@ -1,0 +1,4 @@
+(chee
+ :fetcher github
+ :repo "anticomputer/chee"
+ :files ("emacs/*.el"))

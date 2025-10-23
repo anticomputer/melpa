@@ -1,0 +1,2 @@
+(flycheck-d-unittest :repo "anticomputer/flycheck-d-unittest" :fetcher github
+                     :old-names (flycheck-d))

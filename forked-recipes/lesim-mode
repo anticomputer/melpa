@@ -1,0 +1,3 @@
+(lesim-mode
+ :fetcher github
+ :repo "anticomputer/lesim-mode")

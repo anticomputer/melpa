@@ -1,0 +1,3 @@
+(async1
+ :fetcher github
+ :repo "anticomputer/emacs-async1")

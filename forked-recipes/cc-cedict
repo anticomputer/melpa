@@ -1,0 +1,1 @@
+(cc-cedict :fetcher github :repo "anticomputer/cc-cedict.el")

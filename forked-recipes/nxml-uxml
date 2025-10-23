@@ -1,0 +1,2 @@
+(nxml-uxml :fetcher gitlab
+           :repo "anticomputer/nxml-uxml")

@@ -1,0 +1,1 @@
+(faceup :repo "anticomputer/faceup" :fetcher github)

@@ -1,0 +1,1 @@
+(wal-mode :repo "anticomputer/wal-major-mode" :fetcher github)

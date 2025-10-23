@@ -1,0 +1,1 @@
+(stock-tracker :repo "anticomputer/stock-tracker" :fetcher github)

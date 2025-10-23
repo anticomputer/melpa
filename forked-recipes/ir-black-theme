@@ -1,0 +1,1 @@
+(ir-black-theme :repo "anticomputer/ir-black-theme.el" :fetcher github)

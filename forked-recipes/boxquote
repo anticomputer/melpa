@@ -1,0 +1,1 @@
+(boxquote :fetcher github :repo "anticomputer/boxquote.el")

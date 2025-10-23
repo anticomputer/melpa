@@ -1,0 +1,1 @@
+(rivet-mode :fetcher gitlab :repo "anticomputer/rivet-mode")

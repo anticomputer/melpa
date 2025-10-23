@@ -1,0 +1,1 @@
+(goto-last-change :repo "anticomputer/goto-last-change.el" :fetcher github)

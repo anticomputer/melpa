@@ -1,0 +1,1 @@
+(hamburg-theme :repo "anticomputer/hamburg-theme" :fetcher github)

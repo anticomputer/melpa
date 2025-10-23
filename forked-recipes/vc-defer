@@ -1,0 +1,3 @@
+(vc-defer
+ :repo "anticomputer/vc-defer"
+ :fetcher github)

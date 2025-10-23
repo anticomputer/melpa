@@ -1,0 +1,4 @@
+(skewer-mode
+ :fetcher github
+ :repo "anticomputer/skewer-mode"
+ :files ("*.html" "*.js" "*.el"))

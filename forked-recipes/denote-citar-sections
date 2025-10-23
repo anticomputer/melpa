@@ -1,0 +1,4 @@
+(denote-citar-sections
+ :fetcher sourcehut
+ :repo "anticomputer/denote-sections"
+ :files ("denote-citar-sections.el"))

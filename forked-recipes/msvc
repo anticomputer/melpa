@@ -1,0 +1,4 @@
+(msvc
+ :fetcher github
+ :repo "anticomputer/msvc"
+ :files (:defaults "*.cpp" "*.bat" "*.vcxproj"))

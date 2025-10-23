@@ -1,0 +1,1 @@
+(erc-social-graph :repo "anticomputer/erc-social-graph" :fetcher github)

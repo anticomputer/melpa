@@ -1,0 +1,1 @@
+(multi :fetcher github :repo "anticomputer/emacs-multi")

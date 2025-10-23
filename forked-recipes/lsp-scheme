@@ -1,0 +1,4 @@
+(lsp-scheme
+ :fetcher codeberg
+ :repo "anticomputer/emacs-lsp-scheme"
+ :files (:defaults "scripts"))

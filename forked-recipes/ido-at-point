@@ -1,0 +1,1 @@
+(ido-at-point :repo "anticomputer/ido-at-point" :fetcher github)

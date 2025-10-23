@@ -1,0 +1,1 @@
+(strie :fetcher github :repo "anticomputer/strie.el")

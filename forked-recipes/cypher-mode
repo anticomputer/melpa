@@ -1,0 +1,1 @@
+(cypher-mode :repo "anticomputer/cypher-mode" :fetcher github)

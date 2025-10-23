@@ -1,0 +1,3 @@
+(slothbar
+ :fetcher codeberg
+ :repo "anticomputer/slothbar")

@@ -1,0 +1,1 @@
+(emms-state :repo "anticomputer/emms-state.el" :fetcher github)

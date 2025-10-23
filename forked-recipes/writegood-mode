@@ -1,0 +1,1 @@
+(writegood-mode :repo "anticomputer/writegood-mode" :fetcher github)

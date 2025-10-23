@@ -1,0 +1,2 @@
+(dired-filetype-face :repo "anticomputer/dired-filetype-face" :fetcher github)
+

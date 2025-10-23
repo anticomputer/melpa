@@ -1,0 +1,2 @@
+(counsel-notmuch :fetcher github
+              :repo "anticomputer/counsel-notmuch")

@@ -1,0 +1,2 @@
+(daml-mode :repo "anticomputer/daml-mode"
+           :fetcher github)

@@ -1,0 +1,1 @@
+(py-import-check :fetcher github :repo "anticomputer/emacs-py-import-check")

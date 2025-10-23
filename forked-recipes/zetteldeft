@@ -1,0 +1,1 @@
+(zetteldeft :fetcher github :repo "anticomputer/zetteldeft" :files (:defaults "zetteldeft.org"))

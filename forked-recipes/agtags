@@ -1,0 +1,3 @@
+(agtags
+ :repo "anticomputer/agtags"
+ :fetcher github)

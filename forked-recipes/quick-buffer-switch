@@ -1,0 +1,1 @@
+(quick-buffer-switch :fetcher github :repo "anticomputer/quick-buffer-switch")

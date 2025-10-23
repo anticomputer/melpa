@@ -1,0 +1,3 @@
+(glsl-mode
+ :repo "anticomputer/glsl-mode"
+ :fetcher github)

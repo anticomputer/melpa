@@ -1,0 +1,1 @@
+(mentor :repo "anticomputer/mentor" :fetcher github)

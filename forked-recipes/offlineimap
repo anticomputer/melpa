@@ -1,0 +1,1 @@
+(offlineimap :fetcher github :repo "anticomputer/offlineimap.el")

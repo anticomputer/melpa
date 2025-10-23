@@ -1,0 +1,3 @@
+(flymake-ruff
+  :fetcher github
+  :repo "anticomputer/flymake-ruff")

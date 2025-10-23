@@ -1,0 +1,3 @@
+(deno-ts-mode
+ :fetcher github
+ :repo "anticomputer/deno-ts-mode")

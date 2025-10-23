@@ -1,0 +1,3 @@
+(sas-py
+ :repo "anticomputer/sas-py"
+ :fetcher github)

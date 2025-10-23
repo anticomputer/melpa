@@ -1,0 +1,1 @@
+(lsp-origami :repo "anticomputer/lsp-origami" :fetcher github)

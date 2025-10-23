@@ -1,0 +1,1 @@
+(vega-view :repo "anticomputer/emacs-vega-view" :fetcher github)

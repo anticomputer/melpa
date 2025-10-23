@@ -1,0 +1,3 @@
+(tron-legacy-theme
+ :fetcher github
+ :repo "anticomputer/tron-legacy-emacs-theme")

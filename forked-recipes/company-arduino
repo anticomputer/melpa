@@ -1,0 +1,1 @@
+(company-arduino :repo "anticomputer/company-arduino" :fetcher github)

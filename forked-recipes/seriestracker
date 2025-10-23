@@ -1,0 +1,2 @@
+(seriestracker :fetcher github
+               :repo "anticomputer/seriestracker")

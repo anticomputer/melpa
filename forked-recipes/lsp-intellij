@@ -1,0 +1,1 @@
+(lsp-intellij :repo "anticomputer/lsp-intellij" :fetcher github)

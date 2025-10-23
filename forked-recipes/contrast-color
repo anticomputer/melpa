@@ -1,0 +1,1 @@
+(contrast-color :repo "anticomputer/contrast-color-el" :fetcher github)

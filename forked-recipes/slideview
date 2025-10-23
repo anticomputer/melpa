@@ -1,0 +1,2 @@
+(slideview :repo "anticomputer/Emacs-slideview"
+           :fetcher github)

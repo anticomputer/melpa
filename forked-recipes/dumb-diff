@@ -1,0 +1,1 @@
+(dumb-diff :repo "anticomputer/dumb-diff" :fetcher github)

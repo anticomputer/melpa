@@ -1,0 +1,1 @@
+(lit-mode :fetcher github :repo "anticomputer/lit-mode")

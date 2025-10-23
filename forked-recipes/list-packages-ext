@@ -1,0 +1,2 @@
+(list-packages-ext :repo "anticomputer/list-packages-ext" :fetcher github)
+

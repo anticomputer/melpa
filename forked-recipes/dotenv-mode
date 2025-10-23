@@ -1,0 +1,3 @@
+(dotenv-mode
+  :repo "anticomputer/emacs-dotenv-mode"
+  :fetcher github)

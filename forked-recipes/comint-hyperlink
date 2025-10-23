@@ -1,0 +1,1 @@
+(comint-hyperlink :fetcher github :repo "anticomputer/comint-hyperlink")

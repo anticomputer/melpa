@@ -1,0 +1,1 @@
+(srcery-theme :fetcher github :repo "anticomputer/srcery-emacs")

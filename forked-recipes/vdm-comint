@@ -1,0 +1,4 @@
+(vdm-comint
+ :fetcher github
+ :repo "anticomputer/vdm-mode"
+ :files ("vdm-comint.el"))

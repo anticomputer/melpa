@@ -1,0 +1,2 @@
+(angry-police-captain :fetcher github
+                      :repo "anticomputer/angry-police-captain-el")

@@ -1,0 +1,3 @@
+(counsel-fd
+  :repo "anticomputer/counsel-fd"
+  :fetcher github)

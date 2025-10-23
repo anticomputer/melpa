@@ -1,0 +1,1 @@
+(elisp-sandbox :fetcher github :repo "anticomputer/elisp-sandbox" :files ("elisp-sandbox.el"))

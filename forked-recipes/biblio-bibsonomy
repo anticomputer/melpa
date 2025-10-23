@@ -1,0 +1,3 @@
+(biblio-bibsonomy
+ :fetcher github
+ :repo "anticomputer/biblio-bibsonomy.el")

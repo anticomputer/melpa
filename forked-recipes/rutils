@@ -1,0 +1,3 @@
+(rutils
+ :repo "anticomputer/rutils.el"
+ :fetcher github)

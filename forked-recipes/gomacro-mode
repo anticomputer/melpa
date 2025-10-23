@@ -1,0 +1,2 @@
+(gomacro-mode :repo "anticomputer/gomacro-mode"
+        :fetcher github)

@@ -1,0 +1,1 @@
+(chinese-conv :fetcher github :repo "anticomputer/emacs-chinese-conv")

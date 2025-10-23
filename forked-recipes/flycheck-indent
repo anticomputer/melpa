@@ -1,0 +1,2 @@
+(flycheck-indent :fetcher github :repo "anticomputer/indent-lint.el"
+                 :files ("flycheck-indent.el"))

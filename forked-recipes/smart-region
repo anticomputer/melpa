@@ -1,0 +1,1 @@
+(smart-region :repo "anticomputer/smart-region" :fetcher github)

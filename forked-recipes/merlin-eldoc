@@ -1,0 +1,1 @@
+(merlin-eldoc :fetcher github :repo "anticomputer/merlin-eldoc")

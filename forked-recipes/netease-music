@@ -1,0 +1,1 @@
+(netease-music :repo "anticomputer/netease-music" :fetcher github)

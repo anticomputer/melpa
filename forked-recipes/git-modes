@@ -1,0 +1,5 @@
+(git-modes :fetcher github
+           :repo "anticomputer/git-modes"
+           :old-names (gitattributes-mode
+                       gitconfig-mode
+                       gitignore-mode))

@@ -1,0 +1,3 @@
+(systemd :fetcher github
+         :repo "anticomputer/systemd-mode"
+         :files (:defaults "*.txt"))

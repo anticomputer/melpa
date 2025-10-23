@@ -1,0 +1,1 @@
+(ob-diagrams :fetcher github :repo "anticomputer/org-babel-diagrams")

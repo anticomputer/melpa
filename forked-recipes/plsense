@@ -1,0 +1,2 @@
+(plsense :repo "anticomputer/emacs-plsense"
+         :fetcher github)

@@ -1,0 +1,1 @@
+(evil-indent-plus :fetcher github :repo "anticomputer/evil-indent-plus")

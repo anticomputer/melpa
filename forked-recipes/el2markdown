@@ -1,0 +1,1 @@
+(el2markdown :repo "anticomputer/el2markdown" :fetcher github)

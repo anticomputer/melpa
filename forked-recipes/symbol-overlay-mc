@@ -1,0 +1,3 @@
+(symbol-overlay-mc
+ :fetcher github
+ :repo "anticomputer/symbol-overlay-mc")

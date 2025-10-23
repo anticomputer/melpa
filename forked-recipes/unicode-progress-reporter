@@ -1,0 +1,1 @@
+(unicode-progress-reporter :repo "anticomputer/unicode-progress-reporter" :fetcher github)

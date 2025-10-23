@@ -1,0 +1,1 @@
+(tomlparse :fetcher github :repo "anticomputer/tomlparse.el")

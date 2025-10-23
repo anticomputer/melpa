@@ -1,0 +1,1 @@
+(flycheck-lilypond :fetcher github :repo "anticomputer/flycheck-lilypond")

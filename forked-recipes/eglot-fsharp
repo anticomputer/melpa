@@ -1,0 +1,3 @@
+(eglot-fsharp :fetcher github
+	      :repo "anticomputer/emacs-fsharp-mode"
+	      :files ("eglot-fsharp.el"))

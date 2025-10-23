@@ -1,0 +1,1 @@
+(fantom-mode :repo "anticomputer/fantom-mode" :fetcher github)

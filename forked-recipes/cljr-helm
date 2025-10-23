@@ -1,0 +1,3 @@
+(cljr-helm
+ :repo "anticomputer/cljr-helm"
+ :fetcher github)

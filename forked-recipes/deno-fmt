@@ -1,0 +1,1 @@
+(deno-fmt :repo "anticomputer/deno-emacs" :fetcher github)

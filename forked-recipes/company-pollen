@@ -1,0 +1,3 @@
+(company-pollen :fetcher github
+                :repo "anticomputer/pollen-mode"
+                :files ("company-pollen.el"))

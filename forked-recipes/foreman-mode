@@ -1,0 +1,1 @@
+(foreman-mode :repo "anticomputer/foreman-mode" :fetcher github)

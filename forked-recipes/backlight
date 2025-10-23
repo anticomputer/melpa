@@ -1,0 +1,2 @@
+(backlight :fetcher github
+           :repo "anticomputer/backlight.el")

@@ -1,0 +1,1 @@
+(tfsmacs :repo "anticomputer/tfsmacs" :fetcher github)

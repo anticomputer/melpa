@@ -1,0 +1,3 @@
+(mc-extras
+ :fetcher github
+ :repo "anticomputer/mc-extras.el")

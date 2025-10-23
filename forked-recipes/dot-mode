@@ -1,0 +1,1 @@
+(dot-mode :repo "anticomputer/dot-mode" :fetcher github)

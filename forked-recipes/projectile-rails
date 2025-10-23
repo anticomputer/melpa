@@ -1,0 +1,2 @@
+(projectile-rails :repo "anticomputer/projectile-rails"
+                  :fetcher github)

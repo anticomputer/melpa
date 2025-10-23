@@ -1,0 +1,2 @@
+(helm-wikipedia :fetcher github
+                :repo "anticomputer/helm-wikipedia")

@@ -1,0 +1,2 @@
+(helm-describe-modes :fetcher github
+                     :repo "anticomputer/helm-describe-modes")

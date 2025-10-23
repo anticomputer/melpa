@@ -1,0 +1,2 @@
+(helm-projectile :repo "anticomputer/helm-projectile"
+                 :fetcher github)

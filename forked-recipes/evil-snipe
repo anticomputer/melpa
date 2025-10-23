@@ -1,0 +1,1 @@
+(evil-snipe :repo "anticomputer/evil-snipe" :fetcher github)

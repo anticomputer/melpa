@@ -1,0 +1,1 @@
+(mybigword :repo "anticomputer/mybigword" :fetcher github :files ("mybigword.el" "eng.zipf"))

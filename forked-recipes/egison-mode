@@ -1,0 +1,4 @@
+(egison-mode
+ :fetcher github
+ :repo "anticomputer/egison"
+ :files ("elisp/*.el"))

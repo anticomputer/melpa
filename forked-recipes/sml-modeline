@@ -1,0 +1,3 @@
+(sml-modeline
+ :fetcher github
+ :repo "anticomputer/sml-modeline")

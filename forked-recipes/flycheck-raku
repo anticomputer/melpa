@@ -1,0 +1,1 @@
+(flycheck-raku :fetcher github :repo "anticomputer/flycheck-raku")

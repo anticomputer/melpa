@@ -1,0 +1,4 @@
+(elfeed-tube
+ :fetcher github
+ :repo "anticomputer/elfeed-tube"
+ :files (:defaults (:exclude "elfeed-tube-mpv.el")))

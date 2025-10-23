@@ -1,0 +1,1 @@
+(newlisp-mode :fetcher github :repo "anticomputer/newlisp-mode")

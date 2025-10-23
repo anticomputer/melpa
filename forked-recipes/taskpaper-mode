@@ -1,0 +1,3 @@
+(taskpaper-mode
+ :repo "anticomputer/taskpaper-mode"
+ :fetcher github)

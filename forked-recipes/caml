@@ -1,0 +1,1 @@
+(caml :repo "anticomputer/caml-mode" :fetcher github)

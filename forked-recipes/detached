@@ -1,0 +1,4 @@
+(detached
+ :fetcher sourcehut
+ :repo "anticomputer/detached.el"
+ :old-names (dtache))

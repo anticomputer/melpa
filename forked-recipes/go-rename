@@ -1,0 +1,4 @@
+(go-rename
+ :repo "anticomputer/go-mode.el"
+ :fetcher github
+ :files ("go-rename.el"))

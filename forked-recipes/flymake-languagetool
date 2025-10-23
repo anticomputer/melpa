@@ -1,0 +1,1 @@
+(flymake-languagetool :repo "anticomputer/flymake-languagetool" :fetcher github)

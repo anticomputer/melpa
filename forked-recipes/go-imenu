@@ -1,0 +1,3 @@
+(go-imenu
+ :repo "anticomputer/go-imenu.el"
+ :fetcher github)

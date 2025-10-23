@@ -1,0 +1,4 @@
+(ansible
+ :fetcher gitlab
+ :repo "anticomputer/emacs-ansible"
+ :files (:defaults "snippets" "dict"))

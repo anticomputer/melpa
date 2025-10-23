@@ -1,0 +1,1 @@
+(ox-yaow :repo "anticomputer/ox-yaow.el" :fetcher github)

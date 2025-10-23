@@ -1,0 +1,1 @@
+(dired-imenu :fetcher github :repo "anticomputer/dired-imenu")

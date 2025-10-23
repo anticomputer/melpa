@@ -1,0 +1,2 @@
+(with-shell-interpreter :repo "anticomputer/with-shell-interpreter"
+                        :fetcher github)

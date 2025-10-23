@@ -1,0 +1,2 @@
+(artbollocks-mode :repo "anticomputer/artbollocks-mode"
+                  :fetcher github)

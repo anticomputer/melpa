@@ -1,0 +1,1 @@
+(cobalt :fetcher github :repo "anticomputer/cobalt.el")

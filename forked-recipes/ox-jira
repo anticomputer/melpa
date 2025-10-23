@@ -1,0 +1,1 @@
+(ox-jira :repo "anticomputer/ox-jira.el" :fetcher github)

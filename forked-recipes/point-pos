@@ -1,0 +1,1 @@
+(point-pos :repo "anticomputer/point-pos.el" :fetcher github)

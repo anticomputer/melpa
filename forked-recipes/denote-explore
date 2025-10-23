@@ -1,0 +1,4 @@
+(denote-explore
+ :repo "anticomputer/denote-explore"
+ :fetcher github
+ :files (:defaults "*.html"))

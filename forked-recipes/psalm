@@ -1,0 +1,2 @@
+(psalm :fetcher github :repo "anticomputer/psalm.el"
+       :files ("psalm.el"))

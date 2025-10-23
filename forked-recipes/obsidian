@@ -1,0 +1,1 @@
+(obsidian :repo "anticomputer/obsidian.el" :fetcher github)

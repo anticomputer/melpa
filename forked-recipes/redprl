@@ -1,0 +1,4 @@
+(redprl
+ :fetcher github
+ :repo "anticomputer/sml-redprl"
+ :files ("emacs/*.el"))

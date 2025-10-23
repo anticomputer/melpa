@@ -1,0 +1,4 @@
+(lavenderless-theme
+ :fetcher sourcehut
+ :repo "anticomputer/colorless-themes.el"
+ :files ("lavenderless-theme.el"))

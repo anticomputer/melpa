@@ -1,0 +1,1 @@
+(mimetypes :repo "anticomputer/emacs-mimetypes" :fetcher github)

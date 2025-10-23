@@ -1,0 +1,3 @@
+(go-scratch
+ :fetcher github
+ :repo "anticomputer/go-scratch.el")

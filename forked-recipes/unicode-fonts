@@ -1,0 +1,1 @@
+(unicode-fonts :repo "anticomputer/unicode-fonts" :fetcher github)

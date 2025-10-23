@@ -1,0 +1,1 @@
+(ac-mozc :fetcher github :repo "anticomputer/ac-mozc")

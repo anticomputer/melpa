@@ -1,0 +1,1 @@
+(wedge-ws :fetcher github :repo "anticomputer/wedge-ws")

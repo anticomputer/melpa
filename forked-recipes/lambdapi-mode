@@ -1,0 +1,5 @@
+(lambdapi-mode
+ :fetcher github
+ :repo "anticomputer/lambdapi"
+ :files ("editors/emacs/*.el"
+         (:exclude "editors/emacs/lambdapi-site-file.el")))

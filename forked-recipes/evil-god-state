@@ -1,0 +1,2 @@
+(evil-god-state :fetcher github
+                :repo "anticomputer/evil-god-state")

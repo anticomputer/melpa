@@ -1,0 +1,3 @@
+(color-theme-approximate
+ :repo "anticomputer/color-theme-approximate"
+ :fetcher github)

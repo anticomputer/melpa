@@ -1,0 +1,2 @@
+(loopy :fetcher github
+       :repo "anticomputer/loopy")

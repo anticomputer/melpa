@@ -1,0 +1,5 @@
+(nethack
+ :fetcher github
+ :repo "anticomputer/nethack-el"
+ :files ("nethack*.el"
+         "enh-*.patch"))

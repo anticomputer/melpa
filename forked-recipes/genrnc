@@ -1,0 +1,4 @@
+(genrnc
+ :fetcher github
+ :repo "anticomputer/emacs-genrnc"
+ :files ("*.el" "*.jar" "*.xsl"))

@@ -1,0 +1,2 @@
+(helm-descbinds :repo "anticomputer/helm-descbinds"
+                :fetcher github)

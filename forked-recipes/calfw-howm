@@ -1,0 +1,3 @@
+(calfw-howm :repo "anticomputer/emacs-calfw"
+            :fetcher github
+            :files ("calfw-howm.el"))

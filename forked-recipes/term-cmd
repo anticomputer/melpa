@@ -1,0 +1,1 @@
+(term-cmd :fetcher github :repo "anticomputer/term-cmd" :files (:defaults "bin"))

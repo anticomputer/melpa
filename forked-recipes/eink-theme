@@ -1,0 +1,1 @@
+(eink-theme :fetcher github :repo "anticomputer/eink-emacs")

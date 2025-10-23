@@ -1,0 +1,1 @@
+(chatwork :repo "anticomputer/chatwork" :fetcher github)

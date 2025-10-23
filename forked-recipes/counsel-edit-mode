@@ -1,0 +1,1 @@
+(counsel-edit-mode :fetcher github :repo "anticomputer/counsel-edit-mode")

@@ -1,0 +1,1 @@
+(ob-sql-mode :repo "anticomputer/ob-sql-mode" :fetcher github)

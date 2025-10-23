@@ -1,0 +1,3 @@
+(save-visited-files
+ :fetcher github
+ :repo "anticomputer/save-visited-files")

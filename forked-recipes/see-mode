@@ -1,0 +1,1 @@
+(see-mode :repo "anticomputer/see-mode" :fetcher github)

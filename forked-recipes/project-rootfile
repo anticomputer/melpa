@@ -1,0 +1,1 @@
+(project-rootfile :repo "anticomputer/project-rootfile.el" :fetcher github)

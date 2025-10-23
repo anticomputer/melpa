@@ -1,0 +1,2 @@
+(helm-bind-key :repo "anticomputer/helm-bind-key.el"
+               :fetcher github)

@@ -1,0 +1,1 @@
+(nanowrimo :fetcher gitlab :repo "anticomputer/nanowrimo.el")

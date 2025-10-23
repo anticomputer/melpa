@@ -1,0 +1,2 @@
+(semi :repo "anticomputer/semi"
+      :fetcher github)

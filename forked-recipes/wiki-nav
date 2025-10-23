@@ -1,0 +1,1 @@
+(wiki-nav :repo "anticomputer/button-lock" :fetcher github :files ("wiki-nav.el"))

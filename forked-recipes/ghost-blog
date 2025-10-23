@@ -1,0 +1,1 @@
+(ghost-blog :fetcher github :repo "anticomputer/ghost-blog-emacs")

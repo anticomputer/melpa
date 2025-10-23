@@ -1,0 +1,3 @@
+(ready-player
+ :fetcher github
+ :repo "anticomputer/ready-player")

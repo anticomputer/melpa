@@ -1,0 +1,1 @@
+(syntree :repo "anticomputer/syntree" :fetcher github)

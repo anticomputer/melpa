@@ -1,0 +1,1 @@
+(ytdious :repo "anticomputer/ytdious" :fetcher github)

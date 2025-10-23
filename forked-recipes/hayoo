@@ -1,0 +1,2 @@
+(hayoo :repo "anticomputer/hayoo.el"
+       :fetcher github)

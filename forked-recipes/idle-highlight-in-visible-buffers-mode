@@ -1,0 +1,1 @@
+(idle-highlight-in-visible-buffers-mode :repo "anticomputer/idle-highlight-in-visible-buffers-mode" :fetcher github)

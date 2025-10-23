@@ -1,0 +1,1 @@
+(yul-mode :repo "anticomputer/emacs-yul-mode" :fetcher github)

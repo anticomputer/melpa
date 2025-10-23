@@ -1,0 +1,3 @@
+(p4
+ :fetcher github
+ :repo "anticomputer/p4.el")

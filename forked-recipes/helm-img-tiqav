@@ -1,0 +1,3 @@
+(helm-img-tiqav
+ :repo "anticomputer/helm-img-tiqav"
+ :fetcher github)

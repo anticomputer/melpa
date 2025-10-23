@@ -1,0 +1,1 @@
+(ox-wk :fetcher github :repo "anticomputer/ox-wk.el")

@@ -1,0 +1,1 @@
+(gs-mode :fetcher github :repo "anticomputer/emacs-grads" :files ("gs-mode.el"))

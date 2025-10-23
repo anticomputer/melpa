@@ -1,0 +1,2 @@
+(ace-flyspell :repo "anticomputer/ace-flyspell"
+              :fetcher github)

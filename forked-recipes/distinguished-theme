@@ -1,0 +1,2 @@
+(distinguished-theme :repo "anticomputer/distinguished-theme"
+                     :fetcher github)

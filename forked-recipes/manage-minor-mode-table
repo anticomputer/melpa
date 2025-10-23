@@ -1,0 +1,1 @@
+(manage-minor-mode-table :repo "anticomputer/manage-minor-mode-table" :fetcher github)

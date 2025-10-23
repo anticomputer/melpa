@@ -1,0 +1,1 @@
+(ivy-lobsters :repo "anticomputer/ivy-lobsters" :fetcher github)

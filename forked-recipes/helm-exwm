@@ -1,0 +1,3 @@
+(helm-exwm
+ :repo "anticomputer/helm-exwm"
+ :fetcher github)

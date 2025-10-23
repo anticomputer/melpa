@@ -1,0 +1,4 @@
+(consult-spotify
+ :fetcher codeberg
+ :repo "anticomputer/espotify"
+ :files ("consult-spotify.el"))

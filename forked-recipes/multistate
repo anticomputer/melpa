@@ -1,0 +1,1 @@
+(multistate :repo "anticomputer/multistate" :fetcher gitlab)

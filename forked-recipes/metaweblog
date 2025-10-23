@@ -1,0 +1,1 @@
+(metaweblog :fetcher github :repo "anticomputer/org2blog" :files ("metaweblog.el"))

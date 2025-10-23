@@ -1,0 +1,2 @@
+(enotify :repo "anticomputer/enotify"
+         :fetcher github)

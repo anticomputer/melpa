@@ -1,0 +1,3 @@
+(mpv
+ :repo "anticomputer/mpv.el"
+ :fetcher github)

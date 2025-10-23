@@ -1,0 +1,1 @@
+(jack :fetcher github :repo "anticomputer/jack")

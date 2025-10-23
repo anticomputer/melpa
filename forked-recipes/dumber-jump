@@ -1,0 +1,2 @@
+(dumber-jump :fetcher github
+             :repo "anticomputer/dumber-jump")

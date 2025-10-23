@@ -1,0 +1,2 @@
+(ob-uart :repo "anticomputer/ob-uart"
+         :fetcher github)

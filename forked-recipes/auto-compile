@@ -1,0 +1,1 @@
+(auto-compile :repo "anticomputer/auto-compile" :fetcher github)

@@ -1,0 +1,3 @@
+(vhdl-ext :fetcher github
+          :repo "anticomputer/vhdl-ext"
+          :files (:defaults "snippets" "langserver"))

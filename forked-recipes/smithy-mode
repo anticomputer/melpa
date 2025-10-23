@@ -1,0 +1,1 @@
+(smithy-mode :repo "anticomputer/smithy-mode" :fetcher github)

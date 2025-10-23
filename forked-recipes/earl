@@ -1,0 +1,4 @@
+(earl
+ :fetcher github
+ :repo "anticomputer/earl"
+ :old-names (derl))

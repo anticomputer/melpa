@@ -1,0 +1,3 @@
+(helm-chronos
+ :fetcher github
+ :repo "anticomputer/helm-chronos")

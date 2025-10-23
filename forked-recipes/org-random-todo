@@ -1,0 +1,1 @@
+(org-random-todo :fetcher github :repo "anticomputer/org-random-todo")

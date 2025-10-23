@@ -1,0 +1,1 @@
+(flycheck-julia :repo "anticomputer/flycheck-julia" :fetcher github)

@@ -1,0 +1,2 @@
+(elfeed-goodies :repo "anticomputer/elfeed-goodies"
+                :fetcher github)

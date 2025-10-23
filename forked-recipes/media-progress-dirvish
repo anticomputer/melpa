@@ -1,0 +1,4 @@
+(media-progress-dirvish
+ :repo "anticomputer/media-progress"
+ :fetcher github
+ :files ("media-progress-dirvish.el"))

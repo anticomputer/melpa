@@ -1,0 +1,4 @@
+(concurrent
+  :repo "anticomputer/emacs-deferred"
+  :fetcher github
+  :files ("concurrent.el"))

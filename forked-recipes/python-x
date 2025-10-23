@@ -1,0 +1,2 @@
+(python-x :repo "anticomputer/python-x.el"
+          :fetcher gitlab)

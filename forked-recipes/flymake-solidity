@@ -1,0 +1,1 @@
+(flymake-solidity :repo "anticomputer/flymake-solidity" :fetcher github)

@@ -1,0 +1,1 @@
+(jemdoc-mode :repo "anticomputer/jemdoc-mode" :fetcher github)

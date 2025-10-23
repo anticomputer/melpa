@@ -1,0 +1,1 @@
+(ibuffer-projectile :fetcher github :repo "anticomputer/ibuffer-projectile")

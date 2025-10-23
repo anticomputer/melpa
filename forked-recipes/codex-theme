@@ -1,0 +1,2 @@
+(codex-theme :repo "anticomputer/codex-theme"
+                     :fetcher github)

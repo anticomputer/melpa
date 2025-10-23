@@ -1,0 +1,1 @@
+(maruo-macro-mode :fetcher github :repo "anticomputer/maruo-macro-mode.el")

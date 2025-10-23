@@ -1,0 +1,3 @@
+(huecycle
+ :repo "anticomputer/huecycle"
+ :fetcher github)

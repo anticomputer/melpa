@@ -1,0 +1,1 @@
+(mu4e-alert :fetcher github :repo "anticomputer/mu4e-alert")

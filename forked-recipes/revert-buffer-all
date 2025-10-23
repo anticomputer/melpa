@@ -1,0 +1,3 @@
+(revert-buffer-all
+ :fetcher codeberg
+ :repo "anticomputer/emacs-revert-buffer-all")

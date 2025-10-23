@@ -1,0 +1,1 @@
+(latex-table-wizard :repo "anticomputer/latex-table-wizard" :fetcher github)

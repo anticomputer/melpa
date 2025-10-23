@@ -1,0 +1,4 @@
+(nerd-icons
+ :repo "anticomputer/nerd-icons.el"
+ :fetcher github
+ :files (:defaults "data"))

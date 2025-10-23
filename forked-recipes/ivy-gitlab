@@ -1,0 +1,1 @@
+(ivy-gitlab :fetcher github :repo "anticomputer/emacs-gitlab" :files ("ivy-gitlab.el"))

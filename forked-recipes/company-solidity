@@ -1,0 +1,4 @@
+(company-solidity
+    :fetcher github
+    :repo "anticomputer/emacs-solidity"
+    :files ("company-solidity.el"))

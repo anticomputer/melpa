@@ -1,0 +1,3 @@
+(mkdown :fetcher github
+        :repo "anticomputer/mkdown.el"
+        :files ("*.el" "*.css"))

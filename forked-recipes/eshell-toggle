@@ -1,0 +1,1 @@
+(eshell-toggle :repo "anticomputer/eshell-toggle" :fetcher github)

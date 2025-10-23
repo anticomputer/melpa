@@ -1,0 +1,2 @@
+(sudo-utils :fetcher github
+            :repo "anticomputer/sudo-utils")

@@ -1,0 +1,2 @@
+(js3-mode :repo "anticomputer/js3-mode" :fetcher github)
+

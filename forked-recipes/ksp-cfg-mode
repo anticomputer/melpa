@@ -1,0 +1,3 @@
+(ksp-cfg-mode
+ :fetcher github
+ :repo "anticomputer/ksp-cfg-mode")

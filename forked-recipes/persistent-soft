@@ -1,0 +1,1 @@
+(persistent-soft :repo "anticomputer/persistent-soft" :fetcher github)

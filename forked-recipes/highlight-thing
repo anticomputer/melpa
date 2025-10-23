@@ -1,0 +1,1 @@
+(highlight-thing :fetcher github :repo "anticomputer/highlight-thing.el")

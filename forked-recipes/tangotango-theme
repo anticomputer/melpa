@@ -1,0 +1,4 @@
+(tangotango-theme
+ :repo "anticomputer/color-theme-tangotango"
+ :files ("tangotango-theme.el")
+ :fetcher github)

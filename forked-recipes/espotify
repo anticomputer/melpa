@@ -1,0 +1,4 @@
+(espotify
+ :fetcher codeberg
+ :repo "anticomputer/espotify"
+ :files ("espotify.el"))

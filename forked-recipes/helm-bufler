@@ -1,0 +1,2 @@
+(helm-bufler :fetcher github :repo "anticomputer/bufler.el"
+             :files ("helm-bufler.el"))

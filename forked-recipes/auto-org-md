@@ -1,0 +1,1 @@
+(auto-org-md :repo "anticomputer/auto-org-md" :fetcher github)

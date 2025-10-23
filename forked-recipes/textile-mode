@@ -1,0 +1,1 @@
+(textile-mode :repo "anticomputer/textile-mode" :fetcher github)

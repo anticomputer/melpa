@@ -1,0 +1,4 @@
+(yaml-imenu
+ :fetcher github
+ :repo "anticomputer/yaml-imenu.el"
+ :files (:defaults "*.rb"))

@@ -1,0 +1,1 @@
+(build-farm :repo "anticomputer/build-farm.el" :fetcher github)

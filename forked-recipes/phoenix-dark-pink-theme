@@ -1,0 +1,3 @@
+(phoenix-dark-pink-theme
+ :repo "anticomputer/emacs-phoenix-dark-pink-theme"
+ :fetcher sourcehut)

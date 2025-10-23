@@ -1,0 +1,1 @@
+(py-smart-operator :repo "anticomputer/py-smart-operator" :fetcher github)

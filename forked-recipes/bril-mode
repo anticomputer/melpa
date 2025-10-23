@@ -1,0 +1,1 @@
+(bril-mode :repo "anticomputer/bril-mode" :fetcher github)

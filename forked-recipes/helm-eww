@@ -1,0 +1,3 @@
+(helm-eww
+ :repo "anticomputer/helm-eww"
+ :fetcher github)

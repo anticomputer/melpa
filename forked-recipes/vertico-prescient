@@ -1,0 +1,3 @@
+(vertico-prescient :fetcher github
+                 :repo "anticomputer/prescient.el"
+                 :files ("vertico-prescient.el"))

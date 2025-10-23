@@ -1,0 +1,1 @@
+(alert-toast :fetcher github :repo "anticomputer/alert-toast")

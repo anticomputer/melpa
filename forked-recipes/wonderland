@@ -1,0 +1,4 @@
+(wonderland
+ :fetcher github
+ :repo "anticomputer/emacs-wonderland"
+ :files ("source/*.el"))

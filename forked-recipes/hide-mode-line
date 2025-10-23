@@ -1,0 +1,1 @@
+(hide-mode-line :repo "anticomputer/emacs-hide-mode-line" :fetcher github)

@@ -1,0 +1,4 @@
+(take-off
+ :fetcher github
+ :repo "anticomputer/take-off"
+ :files ("*.el" "front"))

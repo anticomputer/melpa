@@ -1,0 +1,1 @@
+(subatomic256-theme :repo "anticomputer/subatomic256" :fetcher github)

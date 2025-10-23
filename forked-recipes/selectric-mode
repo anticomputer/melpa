@@ -1,0 +1,4 @@
+(selectric-mode
+ :fetcher github
+ :repo "anticomputer/selectric-mode"
+ :files (:defaults "*.wav"))

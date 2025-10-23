@@ -1,0 +1,1 @@
+(miasma-theme :fetcher github :repo "anticomputer/miasma-theme.el")

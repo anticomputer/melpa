@@ -1,0 +1,1 @@
+(find-things-fast :fetcher github :repo "anticomputer/find-things-fast")

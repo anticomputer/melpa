@@ -1,0 +1,1 @@
+(coverlay :repo "anticomputer/coverlay.el" :fetcher github)

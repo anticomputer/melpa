@@ -1,0 +1,2 @@
+(dash-docs :repo "anticomputer/dash-docs"
+                 :fetcher github)

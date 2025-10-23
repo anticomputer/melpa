@@ -1,0 +1,1 @@
+(laguna-theme :repo "anticomputer/laguna-theme" :fetcher github)

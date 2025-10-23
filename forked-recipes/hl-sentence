@@ -1,0 +1,2 @@
+(hl-sentence :repo "anticomputer/hl-sentence" :fetcher github)
+

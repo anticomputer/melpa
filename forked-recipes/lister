@@ -1,0 +1,2 @@
+(lister :repo "anticomputer/lister"
+	:fetcher github)

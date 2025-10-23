@@ -1,0 +1,1 @@
+(compile-multi :fetcher github :repo "anticomputer/compile-multi")

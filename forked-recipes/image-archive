@@ -1,0 +1,2 @@
+(image-archive :repo "anticomputer/Emacs-image-archive"
+               :fetcher github)

@@ -1,0 +1,1 @@
+(yagist :repo "anticomputer/yagist.el" :fetcher github)

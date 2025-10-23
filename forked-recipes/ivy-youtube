@@ -1,0 +1,1 @@
+(ivy-youtube :fetcher github :repo "anticomputer/ivy-youtube")

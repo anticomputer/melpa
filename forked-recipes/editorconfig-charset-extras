@@ -1,0 +1,2 @@
+(editorconfig-charset-extras :fetcher github
+                             :repo "anticomputer/editorconfig-charset-extras-el")

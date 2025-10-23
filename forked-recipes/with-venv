@@ -1,0 +1,1 @@
+(with-venv :repo "anticomputer/with-venv-el" :fetcher github)

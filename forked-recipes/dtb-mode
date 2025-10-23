@@ -1,0 +1,2 @@
+(dtb-mode :repo "anticomputer/dtb-mode"
+          :fetcher github)

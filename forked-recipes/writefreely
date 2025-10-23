@@ -1,0 +1,1 @@
+(writefreely :repo "anticomputer/writefreely.el" :fetcher github)

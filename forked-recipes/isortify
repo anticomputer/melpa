@@ -1,0 +1,1 @@
+(isortify :fetcher github :repo "anticomputer/isortify")

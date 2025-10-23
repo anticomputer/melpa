@@ -1,0 +1,1 @@
+(xwwp-follow-link-helm :fetcher github :repo "anticomputer/xwwp" :files ("xwwp-follow-link-helm.el"))

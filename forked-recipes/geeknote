@@ -1,0 +1,1 @@
+(geeknote :repo "anticomputer/emacs-geeknote" :fetcher github)

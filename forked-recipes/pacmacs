@@ -1,0 +1,7 @@
+(pacmacs :fetcher github
+         :repo "anticomputer/pacmacs.el"
+         :files (:defaults
+                 "maps"
+                 "signs"
+                 ("sprites" "sprites/*.json")
+                 ("sprites" "sprites/*.xpm")))

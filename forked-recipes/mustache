@@ -1,0 +1,1 @@
+(mustache :fetcher github :repo "anticomputer/mustache.el")

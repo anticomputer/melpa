@@ -1,0 +1,3 @@
+(simple-modeline
+ :repo "anticomputer/simple-modeline"
+ :fetcher github)

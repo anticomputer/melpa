@@ -1,0 +1,2 @@
+(sketch-themes :repo "anticomputer/sketch-themes"
+               :fetcher github)

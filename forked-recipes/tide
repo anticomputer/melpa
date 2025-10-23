@@ -1,0 +1,4 @@
+(tide
+ :fetcher github
+ :repo "anticomputer/tide"
+ :files (:defaults "tsserver"))

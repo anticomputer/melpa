@@ -1,0 +1,1 @@
+(emacs-everywhere :repo "anticomputer/emacs-everywhere" :fetcher github)

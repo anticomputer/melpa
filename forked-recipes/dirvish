@@ -1,0 +1,4 @@
+(dirvish
+ :fetcher github
+ :repo "anticomputer/dirvish"
+ :files (:defaults "extensions/*.el"))

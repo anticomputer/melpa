@@ -1,0 +1,1 @@
+(flymake-json :repo "anticomputer/flymake-json" :fetcher github)

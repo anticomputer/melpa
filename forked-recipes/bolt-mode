@@ -1,0 +1,3 @@
+(bolt-mode
+ :repo "anticomputer/bolt-mode"
+ :fetcher github)

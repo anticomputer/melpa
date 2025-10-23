@@ -1,0 +1,3 @@
+(org-outlook
+ :repo "anticomputer/org-outlook.el"
+ :fetcher github)

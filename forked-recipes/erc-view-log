@@ -1,0 +1,1 @@
+(erc-view-log :fetcher github :repo "anticomputer/erc-view-log")

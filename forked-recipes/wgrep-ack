@@ -1,0 +1,5 @@
+(wgrep-ack
+ :fetcher github
+ :repo "anticomputer/Emacs-wgrep"
+ :files ("wgrep-ack.el")
+ :version-regexp "ack-%v")

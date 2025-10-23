@@ -1,0 +1,2 @@
+(gmpl-mode :repo "anticomputer/gmpl-mode"
+           :fetcher github)

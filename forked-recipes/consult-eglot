@@ -1,0 +1,3 @@
+(consult-eglot
+ :fetcher github
+ :repo "anticomputer/consult-eglot")

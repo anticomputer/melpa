@@ -1,0 +1,2 @@
+(coffee-mode :repo "anticomputer/coffee-mode" :fetcher github)
+

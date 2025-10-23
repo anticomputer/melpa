@@ -1,0 +1,3 @@
+(powerthesaurus
+ :repo "anticomputer/emacs-powerthesaurus"
+ :fetcher github)

@@ -1,0 +1,2 @@
+(clojure-mode-extra-font-locking :repo "anticomputer/clojure-mode" :fetcher github :files
+                                 ("clojure-mode-extra-font-locking.el"))

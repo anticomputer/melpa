@@ -1,0 +1,1 @@
+(dad-joke :fetcher github :repo "anticomputer/dad-joke.el")

@@ -1,0 +1,1 @@
+(evil-ledger :repo "anticomputer/evil-ledger" :fetcher github)

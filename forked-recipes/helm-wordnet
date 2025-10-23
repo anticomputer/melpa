@@ -1,0 +1,1 @@
+(helm-wordnet :repo "anticomputer/helm-wordnet" :fetcher github)

@@ -1,0 +1,2 @@
+(parsec :repo "anticomputer/parsec.el"
+        :fetcher github)

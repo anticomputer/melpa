@@ -1,0 +1,1 @@
+(jira :fetcher github :repo "anticomputer/jira.el")

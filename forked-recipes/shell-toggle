@@ -1,0 +1,1 @@
+(shell-toggle :repo "anticomputer/shell-toggle.el" :fetcher github)

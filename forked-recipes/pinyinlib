@@ -1,0 +1,2 @@
+(pinyinlib :repo "anticomputer/pinyinlib.el"
+           :fetcher github)

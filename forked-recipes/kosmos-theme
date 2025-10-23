@@ -1,0 +1,2 @@
+(kosmos-theme :repo "anticomputer/kosmos-theme"
+              :fetcher github)

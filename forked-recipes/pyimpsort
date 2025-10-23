@@ -1,0 +1,4 @@
+(pyimpsort
+ :fetcher github
+ :repo "anticomputer/pyimpsort"
+ :files ("pyimpsort.el" "pyimpsort.py"))

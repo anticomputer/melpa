@@ -1,0 +1,4 @@
+(python-test
+ :fetcher github
+ :repo "anticomputer/python-test.el"
+ :files ("python-test.el"))

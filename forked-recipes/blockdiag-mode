@@ -1,0 +1,1 @@
+(blockdiag-mode :fetcher github :repo "anticomputer/blockdiag-mode")

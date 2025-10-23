@@ -1,0 +1,2 @@
+(subemacs :fetcher github :repo "anticomputer/subemacs"
+          :files (:defaults (:exclude "*experimental*")))

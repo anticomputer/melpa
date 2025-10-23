@@ -1,0 +1,3 @@
+(brainfuck-mode
+  :repo "anticomputer/brainfuck-mode"
+  :fetcher github)

@@ -1,0 +1,1 @@
+(evil-god-toggle :fetcher github :repo "anticomputer/evil-god-toggle")

@@ -1,0 +1,2 @@
+(gnu-apl-mode :fetcher github
+              :repo "anticomputer/gnu-apl-mode")

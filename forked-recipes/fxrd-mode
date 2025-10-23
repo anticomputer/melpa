@@ -1,0 +1,4 @@
+(fxrd-mode
+ :fetcher github
+ :repo "anticomputer/fxrd-mode"
+ :files (:defaults "fxrd-modes/*el"))

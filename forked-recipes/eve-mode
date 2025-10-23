@@ -1,0 +1,1 @@
+(eve-mode :repo "anticomputer/emacs-eve-mode" :fetcher github)

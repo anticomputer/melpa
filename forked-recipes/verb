@@ -1,0 +1,1 @@
+(verb :repo "anticomputer/verb" :fetcher github)

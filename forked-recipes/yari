@@ -1,0 +1,1 @@
+(yari :repo "anticomputer/yari.el" :fetcher github)

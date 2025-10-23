@@ -1,0 +1,1 @@
+(e2ansi :repo "anticomputer/e2ansi" :fetcher github :files (:defaults "bin"))

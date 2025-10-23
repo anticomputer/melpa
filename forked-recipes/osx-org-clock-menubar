@@ -1,0 +1,4 @@
+(osx-org-clock-menubar
+ :fetcher github
+ :repo "anticomputer/osx-org-clock-menubar"
+ :files (:defaults "*.rb"))

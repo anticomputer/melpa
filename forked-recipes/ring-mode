@@ -1,0 +1,1 @@
+(ring-mode :repo "anticomputer/ring-mode" :fetcher github)

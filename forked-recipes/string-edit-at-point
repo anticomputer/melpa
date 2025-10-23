@@ -1,0 +1,4 @@
+(string-edit-at-point
+ :fetcher github
+ :repo "anticomputer/string-edit.el"
+ :old-names (string-edit))

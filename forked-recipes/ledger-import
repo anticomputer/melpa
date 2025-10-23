@@ -1,0 +1,1 @@
+(ledger-import :fetcher github :repo "anticomputer/ledger-import")

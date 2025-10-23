@@ -1,0 +1,1 @@
+(ns-auto-titlebar :fetcher github :repo "anticomputer/ns-auto-titlebar")

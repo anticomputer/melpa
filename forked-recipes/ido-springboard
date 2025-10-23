@@ -1,0 +1,1 @@
+(ido-springboard :fetcher github :repo "anticomputer/springboard" :files ("ido-springboard.el"))

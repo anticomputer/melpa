@@ -1,0 +1,1 @@
+(isgd :fetcher github :repo "anticomputer/isgd.el")

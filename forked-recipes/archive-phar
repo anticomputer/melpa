@@ -1,0 +1,1 @@
+(archive-phar :repo "anticomputer/archive-phar.el" :fetcher github)

@@ -1,0 +1,1 @@
+(terminal-toggle :fetcher gitlab :repo "anticomputer/terminal-toggle.el")

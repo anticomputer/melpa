@@ -1,0 +1,3 @@
+(jpop :fetcher github
+      :repo "anticomputer/jpop.el"
+      :files (:defaults "create-file-alist.py"))

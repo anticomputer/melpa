@@ -1,0 +1,1 @@
+(graphql-mode :repo "anticomputer/graphql-mode" :fetcher github)

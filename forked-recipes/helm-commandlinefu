@@ -1,0 +1,1 @@
+(helm-commandlinefu :repo "anticomputer/helm-commandlinefu" :fetcher github)

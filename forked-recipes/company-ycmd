@@ -1,0 +1,3 @@
+(company-ycmd :fetcher github
+              :repo "anticomputer/emacs-ycmd"
+              :files ("company-ycmd.el"))

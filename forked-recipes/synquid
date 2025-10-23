@@ -1,0 +1,1 @@
+(synquid :repo "anticomputer/synquid-emacs" :fetcher github)

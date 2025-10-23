@@ -1,0 +1,1 @@
+(myterminal-controls :repo "anticomputer/myterminal-controls" :fetcher github)

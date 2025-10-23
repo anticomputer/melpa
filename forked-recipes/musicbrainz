@@ -1,0 +1,4 @@
+(musicbrainz
+ :repo "anticomputer/metabrainz"
+ :fetcher github
+ :files ("musicbrainz.el"))

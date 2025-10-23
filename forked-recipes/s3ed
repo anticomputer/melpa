@@ -1,0 +1,1 @@
+(s3ed :fetcher github :repo "anticomputer/s3ed")

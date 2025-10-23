@@ -1,0 +1,1 @@
+(aes :repo "anticomputer/emacs-aes" :fetcher github)

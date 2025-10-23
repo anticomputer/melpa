@@ -1,0 +1,1 @@
+(nav :fetcher github :repo "anticomputer/nav" :files ("ack*" "nav.el"))

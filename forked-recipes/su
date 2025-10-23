@@ -1,0 +1,2 @@
+(su :repo "anticomputer/su.el"
+    :fetcher github)

@@ -1,0 +1,1 @@
+(luarocks :fetcher github :repo "anticomputer/luarocks.el")

@@ -1,0 +1,1 @@
+(hotfuzz :repo "anticomputer/hotfuzz" :fetcher github)

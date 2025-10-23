@@ -1,0 +1,4 @@
+(zmq
+ :fetcher github
+ :repo "anticomputer/emacs-zmq"
+ :files (:defaults "Makefile" "src"))

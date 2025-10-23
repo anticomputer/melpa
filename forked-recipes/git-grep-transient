@@ -1,0 +1,1 @@
+(git-grep-transient :repo "anticomputer/git-grep-transient" :fetcher github)

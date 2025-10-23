@@ -1,0 +1,1 @@
+(hardtime :fetcher github :repo "anticomputer/hardtime.el")

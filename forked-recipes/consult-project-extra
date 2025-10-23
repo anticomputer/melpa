@@ -1,0 +1,2 @@
+(consult-project-extra :fetcher github
+                 :repo "anticomputer/consult-project-extra")

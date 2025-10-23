@@ -1,0 +1,2 @@
+(code-stats :fetcher github
+            :repo "anticomputer/code-stats-emacs")

@@ -1,0 +1,1 @@
+(dokuwiki-mode :fetcher github :repo "anticomputer/emacs-dokuwiki-mode")

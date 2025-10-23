@@ -1,0 +1,3 @@
+(ess-smart-underscore
+ :fetcher github
+ :repo "anticomputer/ess-smart-underscore.el")

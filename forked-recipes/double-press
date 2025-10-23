@@ -1,0 +1,4 @@
+(double-press
+ :fetcher github
+ :repo "anticomputer/double-press.el"
+ :files ("double-press.el"))

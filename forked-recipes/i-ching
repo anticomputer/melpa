@@ -1,0 +1,1 @@
+(i-ching :repo "anticomputer/i-ching" :fetcher github)

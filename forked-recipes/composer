@@ -1,0 +1,1 @@
+(composer :fetcher github :repo "anticomputer/composer.el")

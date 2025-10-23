@@ -1,0 +1,1 @@
+(flycheck-cython :fetcher github :repo "anticomputer/emacs-flycheck-cython")

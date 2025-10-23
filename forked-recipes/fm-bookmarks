@@ -1,0 +1,1 @@
+(fm-bookmarks :repo "anticomputer/fm-bookmarks.el" :fetcher github)

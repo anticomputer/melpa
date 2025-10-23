@@ -1,0 +1,1 @@
+(evm-mode :repo "anticomputer/emacs-evm-mode" :fetcher github)

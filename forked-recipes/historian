@@ -1,0 +1,2 @@
+(historian :fetcher github :repo "anticomputer/historian.el"
+           :files ("historian.el"))

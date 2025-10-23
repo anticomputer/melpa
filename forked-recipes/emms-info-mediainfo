@@ -1,0 +1,1 @@
+(emms-info-mediainfo :fetcher github :repo "anticomputer/emms-info-mediainfo")

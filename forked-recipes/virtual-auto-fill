@@ -1,0 +1,1 @@
+(virtual-auto-fill :repo "anticomputer/virtual-auto-fill" :fetcher github)

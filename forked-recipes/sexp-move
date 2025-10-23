@@ -1,0 +1,2 @@
+(sexp-move :repo "anticomputer/sexp-move"
+           :fetcher gitlab)

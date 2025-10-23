@@ -1,0 +1,1 @@
+(omni-log :fetcher github :repo "anticomputer/omni-log.el")

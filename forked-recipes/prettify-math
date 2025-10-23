@@ -1,0 +1,4 @@
+(prettify-math
+ :fetcher github
+ :repo "anticomputer/prettify-math"
+ :files (:defaults "mathjax-jsonrpc.js"))

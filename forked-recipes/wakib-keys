@@ -1,0 +1,3 @@
+(wakib-keys
+ :repo "anticomputer/wakib-keys"
+ :fetcher github)

@@ -1,0 +1,4 @@
+(geiser-mit
+ :fetcher gitlab
+ :repo "anticomputer/mit"
+ :files (:defaults ("src" "src/*")))

@@ -1,0 +1,1 @@
+(counsel-world-clock :repo "anticomputer/counsel-world-clock" :fetcher github)

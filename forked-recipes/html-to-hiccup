@@ -1,0 +1,2 @@
+(html-to-hiccup :repo "anticomputer/html-to-hiccup"
+                :fetcher github)

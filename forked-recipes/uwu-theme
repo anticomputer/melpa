@@ -1,0 +1,3 @@
+(uwu-theme
+ :repo "anticomputer/uwu-theme"
+ :fetcher github)

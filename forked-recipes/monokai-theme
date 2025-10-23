@@ -1,0 +1,3 @@
+(monokai-theme
+ :repo "anticomputer/monokai-emacs"
+ :fetcher github)

@@ -1,0 +1,2 @@
+(web-mode-edit-element :fetcher github
+                       :repo "anticomputer/web-mode-edit-element")

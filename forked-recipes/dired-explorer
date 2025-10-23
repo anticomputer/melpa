@@ -1,0 +1,1 @@
+(dired-explorer :repo "anticomputer/dired-explorer" :fetcher github)

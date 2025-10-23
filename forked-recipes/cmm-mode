@@ -1,0 +1,1 @@
+(cmm-mode :repo "anticomputer/cmm-mode" :fetcher github)

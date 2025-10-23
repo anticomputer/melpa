@@ -1,0 +1,3 @@
+(project-cmake
+ :fetcher github
+ :repo "anticomputer/project-cmake")

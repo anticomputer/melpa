@@ -1,0 +1,1 @@
+(helm-firefox :repo "anticomputer/helm-firefox" :fetcher github)

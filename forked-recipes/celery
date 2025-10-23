@@ -1,0 +1,2 @@
+(celery :fetcher github
+        :repo "anticomputer/emacs-celery")

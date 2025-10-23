@@ -1,0 +1,4 @@
+(vbasense
+ :fetcher github
+ :repo "anticomputer/emacs-vbasense"
+ :files ("*.el" "*.vbs" "*.bat"))

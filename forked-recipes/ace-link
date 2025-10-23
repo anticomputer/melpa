@@ -1,0 +1,2 @@
+(ace-link :repo "anticomputer/ace-link"
+          :fetcher github)

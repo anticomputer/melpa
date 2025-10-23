@@ -1,0 +1,1 @@
+(company-suggest :fetcher github :repo "anticomputer/company-suggest")

@@ -1,0 +1,4 @@
+(pyramid
+ :repo "anticomputer/pyramid.el"
+ :fetcher github
+ :files (:defaults "snippets"))

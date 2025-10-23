@@ -1,0 +1,2 @@
+(ivy-ycmd :fetcher github
+          :repo "anticomputer/emacs-ivy-ycmd")

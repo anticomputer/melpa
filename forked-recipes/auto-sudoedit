@@ -1,0 +1,1 @@
+(auto-sudoedit :repo "anticomputer/auto-sudoedit" :fetcher github)

@@ -1,0 +1,2 @@
+(color-theme-x :repo "anticomputer/color-theme-x"
+:fetcher github)

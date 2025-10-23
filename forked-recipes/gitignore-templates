@@ -1,0 +1,1 @@
+(gitignore-templates :fetcher github :repo "anticomputer/gitignore-templates.el")

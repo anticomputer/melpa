@@ -1,0 +1,4 @@
+(geiser-stklos
+ :fetcher gitlab
+ :repo "anticomputer/stklos"
+ :files (:defaults "geiser.stk"))

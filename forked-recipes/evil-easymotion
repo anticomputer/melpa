@@ -1,0 +1,2 @@
+(evil-easymotion :repo "anticomputer/evil-easymotion"
+                 :fetcher github)

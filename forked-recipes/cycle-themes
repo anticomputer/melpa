@@ -1,0 +1,1 @@
+(cycle-themes :fetcher github :repo "anticomputer/cycle-themes.el")

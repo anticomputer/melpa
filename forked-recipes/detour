@@ -1,0 +1,2 @@
+(detour	:repo "anticomputer/detour"
+        :fetcher github)

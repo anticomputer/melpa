@@ -1,0 +1,4 @@
+(trr :fetcher github
+              :repo "anticomputer/emacs-trr"
+              :files (:defaults "record" "text" "CONTENTS")
+              )

@@ -1,0 +1,2 @@
+(zlc :repo "anticomputer/emacs-zlc" :fetcher github)
+

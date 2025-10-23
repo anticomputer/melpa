@@ -1,0 +1,2 @@
+(hemisu-theme :repo "anticomputer/hemisu-theme"
+	      :fetcher github)

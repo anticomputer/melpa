@@ -1,0 +1,1 @@
+(shrink-path :fetcher gitlab :repo "anticomputer/shrink-path.el")

@@ -1,0 +1,1 @@
+(extempore-mode :fetcher github :repo "anticomputer/extempore-emacs-mode")

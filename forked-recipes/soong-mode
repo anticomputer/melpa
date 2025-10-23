@@ -1,0 +1,2 @@
+(soong-mode :repo "anticomputer/soong-mode"
+            :fetcher github)

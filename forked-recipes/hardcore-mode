@@ -1,0 +1,1 @@
+(hardcore-mode :fetcher github :repo "anticomputer/hardcore-mode.el")

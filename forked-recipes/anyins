@@ -1,0 +1,2 @@
+(anyins :fetcher github
+             :repo "anticomputer/anyins")

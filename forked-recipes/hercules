@@ -1,0 +1,1 @@
+(hercules :repo "anticomputer/hercules" :fetcher github)

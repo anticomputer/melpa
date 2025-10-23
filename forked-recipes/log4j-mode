@@ -1,0 +1,4 @@
+(log4j-mode
+ :repo "anticomputer/log4j-mode"
+ :fetcher github
+ :files ("src/*.el"))

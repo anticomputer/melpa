@@ -1,0 +1,2 @@
+(evil-mark-replace :fetcher github
+                :repo "anticomputer/evil-mark-replace")

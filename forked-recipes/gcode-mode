@@ -1,0 +1,2 @@
+(gcode-mode :repo "anticomputer/gcode-mode.el"
+            :fetcher gitlab)

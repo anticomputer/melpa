@@ -1,0 +1,2 @@
+(e2wm-direx :repo "anticomputer/e2wm-direx"
+            :fetcher github)

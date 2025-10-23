@@ -1,0 +1,3 @@
+(date2name
+  :repo "anticomputer/date2name.el"
+  :fetcher github)

@@ -1,0 +1,3 @@
+(org-caldav
+ :repo "anticomputer/org-caldav"
+ :fetcher github)

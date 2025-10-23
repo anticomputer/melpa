@@ -1,0 +1,1 @@
+(handlebars-sgml-mode :fetcher github :repo "anticomputer/handlebars-sgml-mode")

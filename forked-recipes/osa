@@ -1,0 +1,4 @@
+(osa
+ :fetcher github
+ :repo "anticomputer/osa"
+ :files (:defaults ("scripts" "scripts/*.js" "scripts/*.applescript")))

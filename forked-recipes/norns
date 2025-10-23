@@ -1,0 +1,2 @@
+(norns :repo "anticomputer/norns.el"
+       :fetcher github)

@@ -1,0 +1,4 @@
+(dkdo
+ :fetcher github
+ :repo "anticomputer/dkdo"
+ :files ("*.el" "*.texi" "dir" "*.do"))

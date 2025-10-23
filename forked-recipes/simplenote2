@@ -1,0 +1,1 @@
+(simplenote2 :fetcher github :repo "anticomputer/simplenote2.el")

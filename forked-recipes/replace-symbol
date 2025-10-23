@@ -1,0 +1,1 @@
+(replace-symbol :repo "anticomputer/replace-symbol-el" :fetcher github)

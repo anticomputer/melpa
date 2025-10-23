@@ -1,0 +1,1 @@
+(stem-english :fetcher github :repo "anticomputer/stem-english")

@@ -1,0 +1,3 @@
+(liquid-types
+ :fetcher github
+ :repo "anticomputer/liquid-types.el")

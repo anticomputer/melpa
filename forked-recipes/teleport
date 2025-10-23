@@ -1,0 +1,1 @@
+(teleport :repo "anticomputer/teleport.el" :fetcher github)

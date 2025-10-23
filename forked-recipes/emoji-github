@@ -1,0 +1,1 @@
+(emoji-github :repo "anticomputer/emoji-github" :fetcher github)

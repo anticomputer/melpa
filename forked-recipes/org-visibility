@@ -1,0 +1,2 @@
+(org-visibility :repo "anticomputer/emacs-org-visibility"
+                :fetcher github)

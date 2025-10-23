@@ -1,0 +1,2 @@
+(projectile-git-autofetch :repo "anticomputer/projectile-git-autofetch"
+                          :fetcher github)

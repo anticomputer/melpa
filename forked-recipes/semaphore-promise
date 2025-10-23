@@ -1,0 +1,2 @@
+(semaphore-promise :repo "anticomputer/semaphore.el" :fetcher github
+                   :files ("semaphore-promise.el"))

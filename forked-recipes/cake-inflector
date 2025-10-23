@@ -1,0 +1,1 @@
+(cake-inflector :fetcher github :repo "anticomputer/emacs-cake-inflector")

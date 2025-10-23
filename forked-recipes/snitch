@@ -1,0 +1,3 @@
+(snitch
+ :fetcher github
+ :repo "anticomputer/snitch-el")

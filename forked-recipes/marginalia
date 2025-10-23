@@ -1,0 +1,3 @@
+(marginalia
+ :repo "anticomputer/marginalia"
+ :fetcher github)

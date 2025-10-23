@@ -1,0 +1,1 @@
+(js2-highlight-vars :fetcher github :repo "anticomputer/js2-highlight-vars.el")

@@ -1,0 +1,3 @@
+(elpl
+ :fetcher github
+ :repo "anticomputer/elpl")

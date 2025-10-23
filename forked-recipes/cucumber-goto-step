@@ -1,0 +1,2 @@
+(cucumber-goto-step :repo "anticomputer/cucumber-goto-step"
+              :fetcher github)

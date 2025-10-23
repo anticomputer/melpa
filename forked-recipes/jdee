@@ -1,0 +1,4 @@
+(jdee
+ :fetcher github
+ :repo "anticomputer/jdee"
+ :files ("*.el" "*.info" (:exclude ".dir-locals.el")))

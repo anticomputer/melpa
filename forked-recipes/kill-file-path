@@ -1,0 +1,3 @@
+(kill-file-path
+ :repo "anticomputer/kill-file-path"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(idle-highlight-mode
+ :fetcher codeberg
+ :repo "anticomputer/emacs-idle-highlight-mode")

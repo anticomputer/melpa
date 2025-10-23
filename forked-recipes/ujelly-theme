@@ -1,0 +1,1 @@
+(ujelly-theme :repo "anticomputer/color-theme-ujelly" :fetcher github)

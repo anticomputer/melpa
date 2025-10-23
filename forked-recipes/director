@@ -1,0 +1,2 @@
+(director :fetcher github
+          :repo "anticomputer/emacs-director")

@@ -1,0 +1,3 @@
+(clear-text :fetcher github
+            :repo "anticomputer/clear-text.el"
+            :files (:defaults "*.txt"))

@@ -1,0 +1,1 @@
+(metalheart-theme :repo "anticomputer/MetalHeart-Emacs" :fetcher github)

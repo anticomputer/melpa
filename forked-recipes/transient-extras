@@ -1,0 +1,4 @@
+(transient-extras
+ :fetcher github
+ :repo "anticomputer/transient-extras"
+ :files ("transient-extras.el"))

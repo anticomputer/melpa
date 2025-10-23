@@ -1,0 +1,1 @@
+(load-env-vars :fetcher github :repo "anticomputer/emacs-load-env-vars")

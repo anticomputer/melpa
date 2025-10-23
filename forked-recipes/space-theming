@@ -1,0 +1,2 @@
+(space-theming :repo "anticomputer/space-theming"
+               :fetcher github)

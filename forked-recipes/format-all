@@ -1,0 +1,1 @@
+(format-all :fetcher github :repo "anticomputer/emacs-format-all-the-code")

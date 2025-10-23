@@ -1,0 +1,1 @@
+(init-open-recentf :fetcher github :repo "anticomputer/init-open-recentf.el")

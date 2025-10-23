@@ -1,0 +1,1 @@
+(mess :fetcher github :repo "anticomputer/mess.el")

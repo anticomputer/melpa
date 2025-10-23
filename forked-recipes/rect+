@@ -1,0 +1,1 @@
+(rect+ :repo "anticomputer/Emacs-rectplus" :fetcher github)

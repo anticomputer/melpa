@@ -1,0 +1,2 @@
+(smart-comment :repo "anticomputer/smart-comment"
+               :fetcher github)

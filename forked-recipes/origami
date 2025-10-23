@@ -1,0 +1,1 @@
+(origami :fetcher github :repo "anticomputer/origami.el")

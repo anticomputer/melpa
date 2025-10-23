@@ -1,0 +1,1 @@
+(sideline-flycheck :repo "anticomputer/sideline-flycheck" :fetcher github)

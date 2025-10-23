@@ -1,0 +1,3 @@
+(eshell-syntax-highlighting
+ :fetcher github
+ :repo "anticomputer/eshell-syntax-highlighting")

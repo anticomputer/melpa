@@ -1,0 +1,2 @@
+(gdscript-mode :fetcher github
+               :repo "anticomputer/emacs-gdscript-mode")

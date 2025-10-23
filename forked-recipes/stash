@@ -1,0 +1,2 @@
+(stash :repo "anticomputer/stash.el"
+       :fetcher github)

@@ -1,0 +1,2 @@
+(date-field :repo "anticomputer/emacs-date-field"
+            :fetcher github)

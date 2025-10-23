@@ -1,0 +1,1 @@
+(flymake-hlint :repo "anticomputer/flymake-hlint" :fetcher github)

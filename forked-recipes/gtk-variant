@@ -1,0 +1,1 @@
+(gtk-variant :fetcher github :repo "anticomputer/gtk-variant.el")

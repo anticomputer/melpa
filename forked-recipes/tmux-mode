@@ -1,0 +1,1 @@
+(tmux-mode :repo "anticomputer/tmux-mode" :fetcher github)

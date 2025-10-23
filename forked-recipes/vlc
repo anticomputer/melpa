@@ -1,0 +1,1 @@
+(vlc :fetcher github :repo "anticomputer/vlc.el")

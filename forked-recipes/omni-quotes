@@ -1,0 +1,1 @@
+(omni-quotes :fetcher github :repo "anticomputer/omni-quotes.el")

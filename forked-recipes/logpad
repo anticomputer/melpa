@@ -1,0 +1,2 @@
+(logpad :fetcher github
+        :repo "anticomputer/logpad.el")

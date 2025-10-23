@@ -1,0 +1,1 @@
+(aqi :repo "anticomputer/aqi" :fetcher github)

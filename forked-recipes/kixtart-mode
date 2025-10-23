@@ -1,0 +1,6 @@
+(kixtart-mode
+ :fetcher sourcehut
+ :repo "anticomputer/kixtart-mode"
+ :files ("doc/kixtart-mode.texi"
+         "kixtart-docstrings.el"
+         "kixtart-mode.el"))

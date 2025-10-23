@@ -1,0 +1,1 @@
+(smart-newline :repo "anticomputer/smart-newline.el" :fetcher github)

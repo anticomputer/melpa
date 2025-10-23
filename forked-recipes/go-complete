@@ -1,0 +1,1 @@
+(go-complete :repo "anticomputer/go-complete" :fetcher github)

@@ -1,0 +1,2 @@
+(outline-toc :fetcher github
+             :repo "anticomputer/outline-toc.el")

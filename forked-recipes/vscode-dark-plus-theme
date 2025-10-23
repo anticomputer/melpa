@@ -1,0 +1,3 @@
+(vscode-dark-plus-theme
+ :fetcher github
+ :repo "anticomputer/vscode-dark-plus-emacs-theme")

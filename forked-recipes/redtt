@@ -1,0 +1,4 @@
+(redtt
+ :fetcher github
+ :repo "anticomputer/redtt"
+ :files ("emacs/*.el"))

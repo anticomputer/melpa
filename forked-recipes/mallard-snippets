@@ -1,0 +1,4 @@
+(mallard-snippets
+ :repo "anticomputer/emacs-mallard-snippets"
+ :fetcher github
+ :files ("mallard-snippets.el" "snippets"))

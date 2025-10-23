@@ -1,0 +1,1 @@
+(crystal-playground :fetcher github :repo "anticomputer/crystal-playground")

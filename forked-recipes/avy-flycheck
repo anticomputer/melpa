@@ -1,0 +1,2 @@
+(avy-flycheck :repo "anticomputer/avy-flycheck"
+              :fetcher github)

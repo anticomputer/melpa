@@ -1,0 +1,3 @@
+(omnibox
+  :repo "anticomputer/omnibox"
+  :fetcher github)

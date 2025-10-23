@@ -1,0 +1,2 @@
+(iter2 :repo "anticomputer/iter2"
+       :fetcher github)

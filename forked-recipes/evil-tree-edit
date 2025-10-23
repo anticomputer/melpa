@@ -1,0 +1,1 @@
+(evil-tree-edit :repo "anticomputer/tree-edit" :fetcher github :files ("evil-tree-edit*.el"))

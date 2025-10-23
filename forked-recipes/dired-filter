@@ -1,0 +1,1 @@
+(dired-filter :fetcher github :repo "anticomputer/dired-hacks" :files ("dired-filter.el"))

@@ -1,0 +1,1 @@
+(company-jedi :fetcher github :repo "anticomputer/company-jedi")

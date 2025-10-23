@@ -1,0 +1,3 @@
+(slim-mode
+ :repo "anticomputer/emacs-slim"
+ :fetcher github)

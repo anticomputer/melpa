@@ -1,0 +1,1 @@
+(guru-mode :fetcher github :repo "anticomputer/guru-mode")

@@ -1,0 +1,3 @@
+(hl-indent-scope
+ :fetcher codeberg
+ :repo "anticomputer/emacs-hl-indent-scope")

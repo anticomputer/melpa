@@ -1,0 +1,3 @@
+(terraform-doc
+ :repo "anticomputer/terraform-doc"
+ :fetcher github)

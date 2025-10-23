@@ -1,0 +1,1 @@
+(recentf-remove-sudo-tramp-prefix :fetcher github :repo "anticomputer/recentf-remove-sudo-tramp-prefix")

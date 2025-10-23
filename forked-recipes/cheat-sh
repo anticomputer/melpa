@@ -1,0 +1,1 @@
+(cheat-sh :fetcher github :repo "anticomputer/cheat-sh.el")

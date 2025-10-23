@@ -1,0 +1,4 @@
+(pony-snippets
+ :repo "anticomputer/pony-snippets"
+ :fetcher github
+ :files (:defaults "snippets"))

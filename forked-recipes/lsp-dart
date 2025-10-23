@@ -1,0 +1,1 @@
+(lsp-dart :repo "anticomputer/lsp-dart" :fetcher github )

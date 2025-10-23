@@ -1,0 +1,2 @@
+(gnus-x-gm-raw :repo "anticomputer/gnus-x-gm-raw"
+               :fetcher github)

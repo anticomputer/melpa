@@ -1,0 +1,1 @@
+(save-load-path :repo "anticomputer/save-load-path" :fetcher github)

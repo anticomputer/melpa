@@ -1,0 +1,3 @@
+(fancy-urls-menu
+ :fetcher codeberg
+ :repo "anticomputer/emacs-fancy-urls-menu")

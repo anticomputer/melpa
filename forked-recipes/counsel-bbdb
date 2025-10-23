@@ -1,0 +1,1 @@
+(counsel-bbdb :repo "anticomputer/counsel-bbdb" :fetcher github)

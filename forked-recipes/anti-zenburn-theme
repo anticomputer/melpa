@@ -1,0 +1,1 @@
+(anti-zenburn-theme :repo "anticomputer/anti-zenburn-theme" :fetcher github)

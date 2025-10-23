@@ -1,0 +1,1 @@
+(php-mode :repo "anticomputer/php-mode" :fetcher github)

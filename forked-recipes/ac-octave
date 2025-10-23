@@ -1,0 +1,1 @@
+(ac-octave :fetcher github :repo "anticomputer/ac-octave")

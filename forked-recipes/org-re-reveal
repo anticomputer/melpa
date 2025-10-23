@@ -1,0 +1,3 @@
+(org-re-reveal
+ :repo "anticomputer/org-re-reveal"
+ :fetcher gitlab)

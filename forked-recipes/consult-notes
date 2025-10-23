@@ -1,0 +1,3 @@
+(consult-notes
+:repo "anticomputer/consult-notes"
+:fetcher github)

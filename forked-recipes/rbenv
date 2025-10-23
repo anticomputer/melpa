@@ -1,0 +1,1 @@
+(rbenv :repo "anticomputer/rbenv.el" :fetcher github)

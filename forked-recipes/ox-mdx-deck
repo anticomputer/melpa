@@ -1,0 +1,1 @@
+(ox-mdx-deck :fetcher github :repo "anticomputer/ox-mdx-deck")

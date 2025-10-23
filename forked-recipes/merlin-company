@@ -1,0 +1,4 @@
+(merlin-company
+ :fetcher github
+ :repo "anticomputer/merlin"
+ :files ("emacs/merlin-company.el"))

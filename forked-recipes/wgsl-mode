@@ -1,0 +1,1 @@
+(wgsl-mode :repo "anticomputer/wgsl-mode" :fetcher github)

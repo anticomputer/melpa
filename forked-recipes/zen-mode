@@ -1,0 +1,3 @@
+(zen-mode
+  :repo "anticomputer/zen-mode"
+  :fetcher github)

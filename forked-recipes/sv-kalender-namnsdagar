@@ -1,0 +1,1 @@
+(sv-kalender-namnsdagar :repo "anticomputer/sv-kalender-namnsdagar" :fetcher github)

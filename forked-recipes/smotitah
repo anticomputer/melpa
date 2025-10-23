@@ -1,0 +1,4 @@
+(smotitah
+ :fetcher github
+ :repo "anticomputer/smotitah"
+ :files ("*.el" "templates"))

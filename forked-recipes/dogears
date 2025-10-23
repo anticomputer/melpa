@@ -1,0 +1,3 @@
+(dogears :fetcher github
+         :repo "anticomputer/dogears.el"
+         :files (:defaults (:exclude "helm-dogears.el")))

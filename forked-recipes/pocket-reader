@@ -1,0 +1,1 @@
+(pocket-reader :fetcher github :repo "anticomputer/pocket-reader.el")

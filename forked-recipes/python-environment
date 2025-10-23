@@ -1,0 +1,1 @@
+(python-environment :repo "anticomputer/emacs-python-environment" :fetcher github)

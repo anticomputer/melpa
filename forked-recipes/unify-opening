@@ -1,0 +1,2 @@
+(unify-opening :fetcher github
+               :repo "anticomputer/unify-opening")

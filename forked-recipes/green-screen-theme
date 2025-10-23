@@ -1,0 +1,1 @@
+(green-screen-theme :fetcher github :repo "anticomputer/green-screen-emacs")

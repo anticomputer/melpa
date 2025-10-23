@@ -1,0 +1,1 @@
+(network-watch :repo "anticomputer/network-watch" :fetcher github)

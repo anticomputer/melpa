@@ -1,0 +1,4 @@
+(skewer-reload-stylesheets
+ :fetcher github
+ :repo "anticomputer/skewer-reload-stylesheets"
+ :files (:defaults "*.js"))

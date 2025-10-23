@@ -1,0 +1,2 @@
+(youdao-dictionary :repo "anticomputer/youdao-dictionary.el"
+                   :fetcher github)

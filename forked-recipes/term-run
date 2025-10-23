@@ -1,0 +1,1 @@
+(term-run :repo "anticomputer/term-run-el" :fetcher github)

@@ -1,0 +1,3 @@
+(helm-system-packages
+ :repo "anticomputer/helm-system-packages"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(exwm-modeline :repo "anticomputer/exwm-modeline" :fetcher github)

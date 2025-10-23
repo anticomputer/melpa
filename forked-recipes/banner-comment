@@ -1,0 +1,1 @@
+(banner-comment :repo "anticomputer/banner-comment" :fetcher github)

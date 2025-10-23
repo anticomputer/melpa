@@ -1,0 +1,2 @@
+(use-package-hydra :repo "anticomputer/use-package-hydra"
+                    :fetcher gitlab)

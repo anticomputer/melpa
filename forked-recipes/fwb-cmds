@@ -1,0 +1,1 @@
+(fwb-cmds :repo "anticomputer/fwb-cmds" :fetcher github)

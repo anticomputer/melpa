@@ -1,0 +1,3 @@
+(evil-neo
+ :fetcher sourcehut
+ :repo "anticomputer/evil-neo")

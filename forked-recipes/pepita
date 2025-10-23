@@ -1,0 +1,1 @@
+(pepita :repo "anticomputer/pepita" :fetcher github)

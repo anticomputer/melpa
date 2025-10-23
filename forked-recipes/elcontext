@@ -1,0 +1,2 @@
+(elcontext :repo "anticomputer/elcontext"
+           :fetcher github)

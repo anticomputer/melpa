@@ -1,0 +1,1 @@
+(bpr :repo "anticomputer/emacs-bpr" :fetcher github :files (:defaults (:exclude "test-bpr.el")))

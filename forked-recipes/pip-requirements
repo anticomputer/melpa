@@ -1,0 +1,1 @@
+(pip-requirements :repo "anticomputer/pip-requirements.el" :fetcher github)

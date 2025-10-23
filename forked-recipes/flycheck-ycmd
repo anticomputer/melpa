@@ -1,0 +1,3 @@
+(flycheck-ycmd :fetcher github
+               :repo "anticomputer/emacs-ycmd"
+               :files ("flycheck-ycmd.el"))

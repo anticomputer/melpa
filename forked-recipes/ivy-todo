@@ -1,0 +1,1 @@
+(ivy-todo :repo "anticomputer/ivy-todo" :fetcher github)

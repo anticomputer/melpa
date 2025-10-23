@@ -1,0 +1,1 @@
+(eshell-prompt-extras :fetcher github :repo "anticomputer/eshell-prompt-extras")

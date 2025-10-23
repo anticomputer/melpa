@@ -1,0 +1,1 @@
+(lusty-explorer :repo "anticomputer/lusty-emacs" :fetcher github)

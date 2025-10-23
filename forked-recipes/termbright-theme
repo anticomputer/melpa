@@ -1,0 +1,1 @@
+(termbright-theme :repo "anticomputer/termbright-theme-el" :fetcher github)

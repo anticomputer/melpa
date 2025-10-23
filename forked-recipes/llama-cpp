@@ -1,0 +1,1 @@
+(llama-cpp :fetcher github :repo "anticomputer/llama-cpp.el")

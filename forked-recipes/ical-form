@@ -1,0 +1,3 @@
+(ical-form :fetcher github
+           :repo "anticomputer/maccalfw"
+           :files ("ical-form.el"))

@@ -1,0 +1,4 @@
+(angular-snippets
+ :fetcher github
+ :repo "anticomputer/angular-snippets.el"
+ :files ("*.el" "*.info" "dir" "snippets"))

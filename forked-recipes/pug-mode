@@ -1,0 +1,1 @@
+(pug-mode :repo "anticomputer/emacs-pug-mode" :fetcher github)

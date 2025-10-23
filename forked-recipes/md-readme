@@ -1,0 +1,1 @@
+(md-readme :repo "anticomputer/md-readme" :fetcher github :files (:defaults "bin"))

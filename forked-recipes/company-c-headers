@@ -1,0 +1,1 @@
+(company-c-headers :repo "anticomputer/company-c-headers" :fetcher github)

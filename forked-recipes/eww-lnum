@@ -1,0 +1,1 @@
+(eww-lnum :repo "anticomputer/eww-lnum" :fetcher github)

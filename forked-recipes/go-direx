@@ -1,0 +1,1 @@
+(go-direx :repo "anticomputer/go-direx" :fetcher github)

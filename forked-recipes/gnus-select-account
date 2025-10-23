@@ -1,0 +1,1 @@
+(gnus-select-account :fetcher github :repo "anticomputer/gnus-select-account")

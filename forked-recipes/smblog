@@ -1,0 +1,1 @@
+(smblog :repo "anticomputer/smblog-mode" :fetcher github)

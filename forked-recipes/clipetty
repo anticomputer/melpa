@@ -1,0 +1,1 @@
+(clipetty :repo "anticomputer/clipetty" :fetcher github)

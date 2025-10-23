@@ -1,0 +1,2 @@
+(ivy-historian :fetcher github :repo "anticomputer/historian.el"
+               :files ("ivy-historian.el"))

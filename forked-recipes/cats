@@ -1,0 +1,1 @@
+(cats :fetcher github :repo "anticomputer/emacs-cats")

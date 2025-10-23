@@ -1,0 +1,3 @@
+(filetags
+  :repo "anticomputer/filetags.el"
+  :fetcher github)

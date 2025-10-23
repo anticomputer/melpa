@@ -1,0 +1,5 @@
+(open-in-msvs
+ :fetcher github
+ :repo "anticomputer/open-in-msvs.el"
+ :files (:defaults "*.vbs"))
+

@@ -1,0 +1,1 @@
+(unicode-math-input :fetcher github :repo "anticomputer/unicode-math-input.el")

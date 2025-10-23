@@ -1,0 +1,4 @@
+(el-fetch
+ :fetcher gitlab
+ :repo "anticomputer/emacs-el-fetch"
+ :files ("src/el-fetch/*"))

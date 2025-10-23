@@ -1,0 +1,1 @@
+(hiwin :fetcher github :repo "anticomputer/hiwin-mode")

@@ -1,0 +1,4 @@
+(ebdb-mua-sidecar
+ :fetcher sourcehut
+ :repo "anticomputer/emacs-universal-sidecar"
+ :files ("ebdb-mua-sidecar.el"))

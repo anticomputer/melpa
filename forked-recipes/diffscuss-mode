@@ -1,0 +1,3 @@
+(diffscuss-mode :fetcher github
+                :repo "anticomputer/diffscuss"
+                :files ("diffscuss-mode/*.el"))

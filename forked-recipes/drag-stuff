@@ -1,0 +1,2 @@
+(drag-stuff :repo "anticomputer/drag-stuff.el" :fetcher github)
+

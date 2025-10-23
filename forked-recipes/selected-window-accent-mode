@@ -1,0 +1,3 @@
+(selected-window-accent-mode
+ :fetcher github
+ :repo "anticomputer/selected-window-accent-mode")

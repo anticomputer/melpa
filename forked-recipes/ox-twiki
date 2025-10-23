@@ -1,0 +1,5 @@
+(ox-twiki
+ :fetcher github
+ :repo "anticomputer/org8-wikiexporters"
+ :files ("ox-twiki.el")
+ )

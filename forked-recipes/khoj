@@ -1,0 +1,4 @@
+(khoj
+ :fetcher github
+ :repo "anticomputer/khoj"
+ :files ("src/interface/emacs/*.el"))

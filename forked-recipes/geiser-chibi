@@ -1,0 +1,4 @@
+(geiser-chibi
+ :fetcher gitlab
+ :repo "anticomputer/chibi"
+ :files (:defaults ("src" "src/*")))

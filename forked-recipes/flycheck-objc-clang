@@ -1,0 +1,1 @@
+(flycheck-objc-clang :fetcher github :repo "anticomputer/flycheck-objc-clang")

@@ -1,0 +1,3 @@
+(dut-mode
+ :repo "anticomputer/dut-mode"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(pastelmac-theme :repo "anticomputer/pastelmac-theme-el" :fetcher github)

@@ -1,0 +1,1 @@
+(geolocation :fetcher github :repo "anticomputer/geolocation.el")

@@ -1,0 +1,1 @@
+(nix-update :repo "anticomputer/nix-update-el" :fetcher github)

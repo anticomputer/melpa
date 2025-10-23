@@ -1,0 +1,1 @@
+(elfeed-dashboard :repo "anticomputer/elfeed-dashboard" :fetcher github)

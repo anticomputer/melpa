@@ -1,0 +1,1 @@
+(hlint-refactor :fetcher github :repo "anticomputer/hlint-refactor-mode")

@@ -1,0 +1,1 @@
+(counsel-org-capture-string :fetcher github :repo "anticomputer/counsel-org-capture-string")

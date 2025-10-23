@@ -1,0 +1,3 @@
+(flycheck-tip
+ :repo "anticomputer/flycheck-tip"
+ :fetcher github)

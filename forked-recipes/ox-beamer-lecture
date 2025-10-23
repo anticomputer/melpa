@@ -1,0 +1,3 @@
+(ox-beamer-lecture
+ :fetcher github
+ :repo "anticomputer/ox-beamer-lecture")

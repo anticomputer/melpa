@@ -1,0 +1,1 @@
+(lsp-grammarly :repo "anticomputer/lsp-grammarly" :fetcher github)

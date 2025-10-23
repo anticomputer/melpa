@@ -1,0 +1,2 @@
+(ede-php-autoload-composer-installers :fetcher github
+                                      :repo "anticomputer/ede-php-autoload-composer-installers")

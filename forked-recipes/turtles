@@ -1,0 +1,2 @@
+(turtles :fetcher github
+         :repo "anticomputer/turtles")

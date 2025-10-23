@@ -1,0 +1,1 @@
+(hippo-themes :repo "anticomputer/emacs-hippo-theme" :fetcher github)

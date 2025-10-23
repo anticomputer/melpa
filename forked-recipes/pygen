@@ -1,0 +1,2 @@
+(pygen :repo "anticomputer/pygen"
+       :fetcher github)

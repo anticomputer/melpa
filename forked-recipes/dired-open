@@ -1,0 +1,1 @@
+(dired-open :fetcher github :repo "anticomputer/dired-hacks" :files ("dired-open.el"))

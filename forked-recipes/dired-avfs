@@ -1,0 +1,1 @@
+(dired-avfs :fetcher github :repo "anticomputer/dired-hacks" :files ("dired-avfs.el"))

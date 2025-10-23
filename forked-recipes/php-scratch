@@ -1,0 +1,2 @@
+(php-scratch :fetcher github
+             :repo "anticomputer/php-scratch")

@@ -1,0 +1,1 @@
+(hush :fetcher github :repo "anticomputer/hush")

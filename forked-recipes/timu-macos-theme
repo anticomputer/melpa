@@ -1,0 +1,3 @@
+(timu-macos-theme
+ :repo "anticomputer/timu-macos-theme"
+ :fetcher gitlab)

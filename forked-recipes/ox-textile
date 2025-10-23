@@ -1,0 +1,1 @@
+(ox-textile :fetcher github :repo "anticomputer/org-textile" :files ("ox-textile.el"))

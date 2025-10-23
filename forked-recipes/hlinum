@@ -1,0 +1,1 @@
+(hlinum :repo "anticomputer/hlinum-mode" :fetcher github)

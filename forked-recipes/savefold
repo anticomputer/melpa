@@ -1,0 +1,2 @@
+(savefold :fetcher github :repo "anticomputer/savefold.el")
+

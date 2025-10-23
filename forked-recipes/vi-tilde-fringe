@@ -1,0 +1,1 @@
+(vi-tilde-fringe :repo "anticomputer/vi-tilde-fringe" :fetcher github)

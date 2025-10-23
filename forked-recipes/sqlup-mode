@@ -1,0 +1,2 @@
+(sqlup-mode :fetcher github :repo "anticomputer/sqlup-mode.el")
+

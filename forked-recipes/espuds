@@ -1,0 +1,1 @@
+(espuds :repo "anticomputer/espuds" :fetcher github)

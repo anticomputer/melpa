@@ -1,0 +1,2 @@
+(org-starter-swiper :fetcher github :repo "anticomputer/org-starter"
+                    :files ("org-starter-swiper.el"))

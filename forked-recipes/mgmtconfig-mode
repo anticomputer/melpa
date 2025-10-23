@@ -1,0 +1,4 @@
+(mgmtconfig-mode
+ :fetcher github
+ :repo "anticomputer/mgmt"
+ :files ("misc/emacs/*.el"))

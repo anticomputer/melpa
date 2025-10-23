@@ -1,0 +1,1 @@
+(ucs-utils :repo "anticomputer/ucs-utils" :fetcher github)

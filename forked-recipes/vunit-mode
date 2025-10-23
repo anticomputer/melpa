@@ -1,0 +1,1 @@
+(vunit-mode :fetcher github :repo "anticomputer/vunit-mode")

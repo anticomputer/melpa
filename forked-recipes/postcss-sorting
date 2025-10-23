@@ -1,0 +1,1 @@
+(postcss-sorting :repo "anticomputer/postcss-sorting.el" :fetcher github)

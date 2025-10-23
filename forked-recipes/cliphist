@@ -1,0 +1,2 @@
+(cliphist :fetcher github
+                :repo "anticomputer/cliphist")

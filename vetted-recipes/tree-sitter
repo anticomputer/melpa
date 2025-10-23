@@ -1,5 +1,0 @@
-(tree-sitter :repo "anticomputer/elisp-tree-sitter-2"
-             :fetcher github
-             :branch "anticomputer-ql"
-             :files ("lisp/*.el"
-                     (:exclude "lisp/tree-sitter-tests.el")))

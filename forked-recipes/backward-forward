@@ -1,0 +1,3 @@
+(backward-forward
+ :fetcher gitlab
+ :repo "anticomputer/emacs-backward-forward")

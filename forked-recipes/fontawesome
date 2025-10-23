@@ -1,0 +1,4 @@
+(fontawesome
+ :fetcher github
+ :repo "anticomputer/fontawesome"
+ :old-names (emacs-fontawesome))

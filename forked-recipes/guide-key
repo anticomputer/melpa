@@ -1,0 +1,2 @@
+(guide-key :repo "anticomputer/guide-key" :fetcher github)
+

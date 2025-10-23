@@ -1,0 +1,1 @@
+(ticktick :fetcher github :repo "anticomputer/ticktick.el")

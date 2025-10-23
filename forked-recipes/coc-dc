@@ -1,0 +1,1 @@
+(coc-dc :fetcher github :repo "anticomputer/coc-damage-calculator")

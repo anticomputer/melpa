@@ -1,0 +1,1 @@
+(icomplete-vertical :repo "anticomputer/icomplete-vertical" :fetcher github)

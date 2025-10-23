@@ -1,0 +1,1 @@
+(emms-mode-line-cycle :fetcher github :repo "anticomputer/emms-mode-line-cycle")

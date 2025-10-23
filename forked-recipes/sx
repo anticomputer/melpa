@@ -1,0 +1,2 @@
+(sx :repo "anticomputer/sx.el"
+    :fetcher github)

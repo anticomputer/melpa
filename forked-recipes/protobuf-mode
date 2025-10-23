@@ -1,0 +1,3 @@
+(protobuf-mode :fetcher github
+               :repo "anticomputer/protobuf"
+               :files ("editors/protobuf-mode.el"))

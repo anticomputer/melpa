@@ -1,0 +1,1 @@
+(mode-icons :fetcher github :repo "anticomputer/mode-icons" :files ("*.el" "icons"))

@@ -1,0 +1,1 @@
+(go-expr-completion :repo "anticomputer/emacs-go-expr-completion" :fetcher github)

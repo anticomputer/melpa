@@ -1,0 +1,1 @@
+(cool-mode :repo "anticomputer/cool-mode" :fetcher github)

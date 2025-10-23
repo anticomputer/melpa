@@ -1,0 +1,1 @@
+(github-stars :repo "anticomputer/github-stars.el" :fetcher github)

@@ -1,0 +1,3 @@
+(gnus-recent :fetcher github
+             :repo "anticomputer/gnus-recent"
+             :files ("gnus-recent.el"))

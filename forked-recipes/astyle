@@ -1,0 +1,2 @@
+(astyle :repo "anticomputer/emacs-astyle"
+        :fetcher github)

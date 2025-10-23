@@ -1,0 +1,1 @@
+(weblio :repo "anticomputer/weblio" :fetcher github)

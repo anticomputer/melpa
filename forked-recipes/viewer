@@ -1,0 +1,1 @@
+(viewer :repo "anticomputer/viewer" :fetcher github)

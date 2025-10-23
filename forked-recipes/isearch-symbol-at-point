@@ -1,0 +1,1 @@
+(isearch-symbol-at-point :repo "anticomputer/isearch-symbol-at-point" :fetcher github)

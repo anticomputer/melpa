@@ -1,0 +1,4 @@
+(codic
+ :fetcher github
+ :repo "anticomputer/codic"
+ :files ("*.el" ("dict" "dict/*.csv")))

@@ -1,0 +1,1 @@
+(frog-jump-buffer :repo "anticomputer/frog-jump-buffer" :fetcher github)

@@ -1,0 +1,3 @@
+(ez-query-replace
+ :repo "anticomputer/ez-query-replace"
+ :fetcher github)

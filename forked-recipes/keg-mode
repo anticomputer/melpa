@@ -1,0 +1,2 @@
+(keg-mode :fetcher github :repo "anticomputer/keg.el"
+          :files ("keg-mode.el"))

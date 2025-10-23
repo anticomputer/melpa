@@ -1,0 +1,3 @@
+(sublime-themes :fetcher github
+                :repo "anticomputer/emacs-color-themes"
+                :files ("themes/*.el"))

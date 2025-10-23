@@ -1,0 +1,1 @@
+(wwg :repo "anticomputer/writer-word-goals" :fetcher github)

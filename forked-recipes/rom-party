@@ -1,0 +1,4 @@
+(rom-party
+ :repo "anticomputer/rom-party.el"
+ :fetcher github
+ :files (:defaults "index.extmap.gz"))

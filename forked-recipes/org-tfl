@@ -1,0 +1,4 @@
+(org-tfl
+ :fetcher github
+ :repo "anticomputer/org-tfl"
+ :files (:defaults "*.svg"))

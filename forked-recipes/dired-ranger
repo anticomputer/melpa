@@ -1,0 +1,1 @@
+(dired-ranger :fetcher github :repo "anticomputer/dired-hacks" :files ("dired-ranger.el"))

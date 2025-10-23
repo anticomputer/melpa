@@ -1,0 +1,1 @@
+(wallpreview :repo "anticomputer/wallpreview" :fetcher github)

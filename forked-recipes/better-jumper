@@ -1,0 +1,2 @@
+(better-jumper :repo "anticomputer/better-jumper"
+               :fetcher github)

@@ -1,0 +1,2 @@
+(sysctl :repo "anticomputer/sysctl.el"
+        :fetcher github)

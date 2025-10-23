@@ -1,0 +1,2 @@
+(fzf :repo "anticomputer/fzf.el" :fetcher github)
+

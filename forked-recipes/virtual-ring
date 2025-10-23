@@ -1,0 +1,2 @@
+(virtual-ring :fetcher github
+              :repo "anticomputer/virtual-ring")

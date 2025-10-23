@@ -1,0 +1,1 @@
+(highlight-stages :repo "anticomputer/highlight-stages" :fetcher github)

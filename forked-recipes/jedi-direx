@@ -1,0 +1,1 @@
+(jedi-direx :fetcher github :repo "anticomputer/emacs-jedi-direx")

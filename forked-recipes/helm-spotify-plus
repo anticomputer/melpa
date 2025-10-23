@@ -1,0 +1,2 @@
+(helm-spotify-plus :repo "anticomputer/helm-spotify-plus"
+                   :fetcher github)

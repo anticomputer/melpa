@@ -1,0 +1,4 @@
+(mocha-snippets
+ :fetcher github
+ :repo "anticomputer/mocha-snippets.el"
+ :files ("*.el" "snippets"))

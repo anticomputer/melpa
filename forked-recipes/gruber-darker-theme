@@ -1,0 +1,2 @@
+(gruber-darker-theme :repo "anticomputer/gruber-darker-theme"
+                     :fetcher github)

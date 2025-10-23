@@ -1,0 +1,3 @@
+(exwm-edit
+ :repo "anticomputer/exwm-edit"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(glue :repo "anticomputer/glue" :fetcher sourcehut)

@@ -1,0 +1,1 @@
+(color-moccur :repo "anticomputer/color-moccur.el" :fetcher github)

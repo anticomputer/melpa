@@ -1,0 +1,1 @@
+(jetbrains :fetcher github :repo "anticomputer/jetbrains.el")

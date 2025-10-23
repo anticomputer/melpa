@@ -1,0 +1,1 @@
+(blgrep :repo "anticomputer/blgrep" :fetcher github)

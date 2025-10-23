@@ -1,0 +1,1 @@
+(erc-image :repo "anticomputer/erc-image.el" :fetcher github)

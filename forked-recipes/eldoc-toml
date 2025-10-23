@@ -1,0 +1,1 @@
+(eldoc-toml :repo "anticomputer/eldoc-toml" :fetcher github)

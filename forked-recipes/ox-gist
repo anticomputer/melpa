@@ -1,0 +1,2 @@
+(ox-gist :repo "anticomputer/ox-gist"
+         :fetcher github)

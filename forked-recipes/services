@@ -1,0 +1,1 @@
+(services :fetcher github :repo "anticomputer/services.el")

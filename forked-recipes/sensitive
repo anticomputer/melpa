@@ -1,0 +1,1 @@
+(sensitive :repo "anticomputer/sensitive.el" :fetcher github)

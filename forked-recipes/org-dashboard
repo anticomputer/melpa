@@ -1,0 +1,2 @@
+(org-dashboard :fetcher github
+               :repo "anticomputer/org-dashboard")

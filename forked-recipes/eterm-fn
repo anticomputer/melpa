@@ -1,0 +1,4 @@
+(eterm-fn
+ :fetcher github
+ :repo "anticomputer/eterm-fn"
+ :files (:defaults "*.ti"))

@@ -1,0 +1,2 @@
+(apt-sources-list :fetcher gitlab
+                  :repo "anticomputer/apt-sources-list-mode")

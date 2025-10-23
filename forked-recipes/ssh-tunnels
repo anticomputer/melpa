@@ -1,0 +1,1 @@
+(ssh-tunnels :fetcher github :repo "anticomputer/ssh-tunnels")

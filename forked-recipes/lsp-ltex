@@ -1,0 +1,1 @@
+(lsp-ltex :repo "anticomputer/lsp-ltex" :fetcher github)

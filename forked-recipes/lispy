@@ -1,0 +1,3 @@
+(lispy :repo "anticomputer/lispy"
+       :fetcher github
+       :files (:defaults "lispy-clojure.clj" "lispy-clojure.cljs" "lispy-python.py"))

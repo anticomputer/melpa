@@ -1,0 +1,1 @@
+(el-mock :repo "anticomputer/el-mock.el" :fetcher github)

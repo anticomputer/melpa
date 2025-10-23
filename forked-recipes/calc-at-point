@@ -1,0 +1,1 @@
+(calc-at-point :fetcher github :repo "anticomputer/calc-at-point")

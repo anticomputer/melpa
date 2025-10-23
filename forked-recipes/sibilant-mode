@@ -1,0 +1,2 @@
+(sibilant-mode :repo "anticomputer/sibilant-mode" :fetcher github)
+

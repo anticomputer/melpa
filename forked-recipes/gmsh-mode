@@ -1,0 +1,1 @@
+(gmsh-mode :repo "anticomputer/gmsh-mode" :fetcher gitlab)

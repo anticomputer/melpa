@@ -1,0 +1,4 @@
+(plisp-mode
+ :fetcher github
+ :repo "anticomputer/plisp-mode"
+ :files ("plisp-mode.el" "inferior-plisp.el"))

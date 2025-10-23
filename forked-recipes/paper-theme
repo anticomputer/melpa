@@ -1,0 +1,4 @@
+(paper-theme
+ :fetcher codeberg
+ :repo "anticomputer/elisp"
+ :files ("paper-theme.el"))

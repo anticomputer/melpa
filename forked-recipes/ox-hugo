@@ -1,0 +1,2 @@
+(ox-hugo :fetcher github
+         :repo "anticomputer/ox-hugo")

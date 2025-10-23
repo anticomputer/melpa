@@ -1,0 +1,2 @@
+(vimgolf :repo "anticomputer/vimgolf.el" :fetcher github)
+

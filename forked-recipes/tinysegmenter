@@ -1,0 +1,2 @@
+(tinysegmenter :repo "anticomputer/tinysegmenter.el"
+               :fetcher github)

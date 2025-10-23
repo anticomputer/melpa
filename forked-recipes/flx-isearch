@@ -1,0 +1,2 @@
+(flx-isearch :repo "anticomputer/flx-isearch"
+             :fetcher github)

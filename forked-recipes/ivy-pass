@@ -1,0 +1,1 @@
+(ivy-pass :fetcher github :repo "anticomputer/ivy-pass")

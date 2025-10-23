@@ -1,0 +1,2 @@
+(smartrep :repo "anticomputer/smartrep.el" 
+               :fetcher github)

@@ -1,0 +1,1 @@
+(evil-escape :fetcher github :repo "anticomputer/evil-escape")

@@ -1,0 +1,4 @@
+(media-progress-dired
+ :repo "anticomputer/media-progress"
+ :fetcher github
+ :files ("media-progress-dired.el"))

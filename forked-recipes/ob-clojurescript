@@ -1,0 +1,1 @@
+(ob-clojurescript :repo "anticomputer/ob-clojurescript" :fetcher gitlab)

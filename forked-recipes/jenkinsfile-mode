@@ -1,0 +1,3 @@
+(jenkinsfile-mode
+ :repo "anticomputer/jenkinsfile-mode"
+ :fetcher github)

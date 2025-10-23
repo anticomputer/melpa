@@ -1,0 +1,3 @@
+(erlang-ts
+ :fetcher github
+ :repo "anticomputer/emacs-erlang-ts")

@@ -1,0 +1,3 @@
+(pretty-hydra :repo "anticomputer/major-mode-hydra.el"
+              :fetcher github
+              :files ("pretty-hydra.el"))

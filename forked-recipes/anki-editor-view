@@ -1,0 +1,1 @@
+(anki-editor-view :fetcher gitlab :repo "anticomputer/anki-editor-view")

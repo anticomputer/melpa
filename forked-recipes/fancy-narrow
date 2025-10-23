@@ -1,0 +1,1 @@
+(fancy-narrow :repo "anticomputer/fancy-narrow" :fetcher github)

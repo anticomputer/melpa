@@ -1,0 +1,3 @@
+(flymake-sqlfluff
+  :fetcher github
+  :repo "anticomputer/flymake-sqlfluff")

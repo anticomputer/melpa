@@ -1,0 +1,2 @@
+(wordnut :repo "anticomputer/wordnut"
+	:fetcher github)

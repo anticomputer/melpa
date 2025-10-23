@@ -1,0 +1,1 @@
+(latex-labeler :fetcher github :repo "anticomputer/latex-labeler")

@@ -1,0 +1,1 @@
+(chatu :repo "anticomputer/chatu" :fetcher github)

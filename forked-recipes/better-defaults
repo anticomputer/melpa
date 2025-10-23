@@ -1,0 +1,3 @@
+(better-defaults
+ :fetcher sourcehut
+ :repo "anticomputer/better-defaults")

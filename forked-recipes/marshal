@@ -1,0 +1,1 @@
+(marshal :fetcher github :repo "anticomputer/marshal.el")

@@ -1,0 +1,2 @@
+(temporary-persistent :repo "anticomputer/temporary-persistent"
+                      :fetcher gitlab)

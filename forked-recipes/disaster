@@ -1,0 +1,1 @@
+(disaster :repo "anticomputer/disaster" :fetcher github)

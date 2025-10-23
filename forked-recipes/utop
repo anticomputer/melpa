@@ -1,0 +1,1 @@
+(utop :fetcher github :repo "anticomputer/utop" :files ("src/top/utop.el"))

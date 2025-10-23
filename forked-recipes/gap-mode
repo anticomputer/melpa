@@ -1,0 +1,4 @@
+(gap-mode
+ :fetcher gitlab
+ :repo "anticomputer/gap-mode"
+ :files (:defaults "emacs.gaprc"))

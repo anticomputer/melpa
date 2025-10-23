@@ -1,0 +1,4 @@
+(elixir-yasnippets
+ :repo "anticomputer/elixir-yasnippets"
+ :fetcher github
+ :files (:defaults "snippets"))

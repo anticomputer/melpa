@@ -1,0 +1,1 @@
+(asn1-mode :fetcher github :repo "anticomputer/asn1-mode")

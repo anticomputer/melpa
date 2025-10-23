@@ -1,0 +1,4 @@
+(solidity-flycheck
+    :fetcher github
+    :repo "anticomputer/emacs-solidity"
+    :files ("solidity-flycheck.el"))

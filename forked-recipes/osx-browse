@@ -1,0 +1,1 @@
+(osx-browse :repo "anticomputer/osx-browse" :fetcher github)

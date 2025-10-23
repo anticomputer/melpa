@@ -1,0 +1,4 @@
+(competitive-programming-snippets
+ :repo "anticomputer/competitive-programming-snippets"
+ :fetcher github
+ :files (:defaults "snippets"))

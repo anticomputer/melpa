@@ -1,0 +1,1 @@
+(reveal-in-folder :repo "anticomputer/reveal-in-folder" :fetcher github)

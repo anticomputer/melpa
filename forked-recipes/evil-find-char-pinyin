@@ -1,0 +1,2 @@
+(evil-find-char-pinyin :repo "anticomputer/evil-find-char-pinyin"
+                       :fetcher github)

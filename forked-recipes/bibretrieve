@@ -1,0 +1,1 @@
+(bibretrieve :repo "anticomputer/bibretrieve" :fetcher github)

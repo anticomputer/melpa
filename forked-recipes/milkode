@@ -1,0 +1,1 @@
+(milkode :repo "anticomputer/emacs-milkode" :fetcher github)

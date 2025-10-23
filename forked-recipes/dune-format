@@ -1,0 +1,1 @@
+(dune-format :fetcher github :repo "anticomputer/emacs-dune-format")

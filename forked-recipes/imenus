@@ -1,0 +1,1 @@
+(imenus :repo "anticomputer/imenus.el" :fetcher github)

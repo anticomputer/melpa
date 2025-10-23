@@ -1,0 +1,4 @@
+(company-lua
+ :fetcher github
+ :repo "anticomputer/company-lua"
+ :files (:defaults "lua"))

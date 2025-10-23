@@ -1,0 +1,2 @@
+(org-rich-yank :fetcher github
+               :repo "anticomputer/org-rich-yank")

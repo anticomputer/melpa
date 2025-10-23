@@ -1,0 +1,1 @@
+(auctex-lua :repo "anticomputer/auctex-lua" :fetcher github)

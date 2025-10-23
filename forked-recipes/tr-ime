@@ -1,0 +1,1 @@
+(tr-ime :fetcher github :repo "anticomputer/tr-emacs-ime-module")

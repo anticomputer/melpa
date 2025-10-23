@@ -1,0 +1,1 @@
+(el2org :repo "anticomputer/el2org" :fetcher github)

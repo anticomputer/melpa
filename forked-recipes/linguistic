@@ -1,0 +1,1 @@
+(linguistic :fetcher github :repo "anticomputer/linguistic" :files (:defaults "graphs.org"))

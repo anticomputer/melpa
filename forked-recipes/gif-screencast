@@ -1,0 +1,3 @@
+(gif-screencast
+ :repo "anticomputer/emacs-gif-screencast"
+ :fetcher gitlab)

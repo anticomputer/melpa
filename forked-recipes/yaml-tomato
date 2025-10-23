@@ -1,0 +1,1 @@
+(yaml-tomato :repo "anticomputer/yaml-tomato" :fetcher github)

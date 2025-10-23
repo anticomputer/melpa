@@ -1,0 +1,3 @@
+(pickle
+ :repo "anticomputer/pickle-mode"
+ :fetcher github)

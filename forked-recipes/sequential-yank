@@ -1,0 +1,3 @@
+(sequential-yank
+ :fetcher github
+ :repo "anticomputer/sequential-yank.el")

@@ -1,0 +1,2 @@
+(org2elcomment :repo "anticomputer/org2elcomment"
+               :fetcher github)

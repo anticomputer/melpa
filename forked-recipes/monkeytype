@@ -1,0 +1,1 @@
+(monkeytype :repo "anticomputer/emacs-monkeytype" :fetcher github)

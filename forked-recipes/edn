@@ -1,0 +1,1 @@
+(edn :fetcher github :repo "anticomputer/edn.el")

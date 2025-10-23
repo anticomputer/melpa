@@ -1,0 +1,1 @@
+(evil-org :fetcher github :repo "anticomputer/evil-org-mode")

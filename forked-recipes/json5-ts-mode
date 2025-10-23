@@ -1,0 +1,3 @@
+(json5-ts-mode
+ :fetcher github
+ :repo "anticomputer/json5-ts-mode")

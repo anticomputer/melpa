@@ -1,0 +1,3 @@
+(oceanic-theme
+ :repo "anticomputer/oceanic-theme"
+ :fetcher github)

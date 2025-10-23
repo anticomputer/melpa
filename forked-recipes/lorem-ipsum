@@ -1,0 +1,2 @@
+(lorem-ipsum :fetcher github
+             :repo "anticomputer/emacs-lorem-ipsum")

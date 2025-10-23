@@ -1,0 +1,1 @@
+(shell-history :fetcher github :repo "anticomputer/shell-history")

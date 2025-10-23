@@ -1,0 +1,5 @@
+(sly-macrostep :fetcher github
+                 :repo "anticomputer/sly-macrostep"
+                 :files (:defaults
+                         "*.lisp"
+                         "*.asd"))

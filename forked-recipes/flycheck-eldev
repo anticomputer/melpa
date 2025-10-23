@@ -1,0 +1,2 @@
+(flycheck-eldev :repo "anticomputer/flycheck-eldev"
+                :fetcher github)

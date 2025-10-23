@@ -1,0 +1,1 @@
+(total-lines :repo "anticomputer/total-lines" :fetcher github)

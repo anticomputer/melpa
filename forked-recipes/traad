@@ -1,0 +1,2 @@
+(traad :fetcher github
+       :repo "anticomputer/emacs-traad")

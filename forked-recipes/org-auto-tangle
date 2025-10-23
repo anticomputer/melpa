@@ -1,0 +1,1 @@
+(org-auto-tangle :repo "anticomputer/org-auto-tangle" :fetcher github)

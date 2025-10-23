@@ -1,0 +1,1 @@
+(eldoc-eask :repo "anticomputer/eldoc-eask" :fetcher github)

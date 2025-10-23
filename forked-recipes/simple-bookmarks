@@ -1,0 +1,2 @@
+(simple-bookmarks :fetcher github
+                  :repo "anticomputer/simple-bookmarks")

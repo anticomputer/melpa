@@ -1,0 +1,1 @@
+(flycheck-checkbashisms :repo "anticomputer/flycheck-checkbashisms" :fetcher github)

@@ -1,0 +1,1 @@
+(stylefmt :repo "anticomputer/stylefmt.el" :fetcher github :old-names (cssfmt))

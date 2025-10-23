@@ -1,0 +1,1 @@
+(vc-check-status :fetcher github :repo "anticomputer/vc-check-status")

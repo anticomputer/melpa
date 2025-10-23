@@ -1,0 +1,1 @@
+(perspective-exwm :repo "anticomputer/perspective-exwm.el" :fetcher github)

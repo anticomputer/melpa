@@ -1,0 +1,4 @@
+(ob-ipython
+ :fetcher github
+ :repo "anticomputer/ob-ipython"
+ :files (:defaults "*.py"))

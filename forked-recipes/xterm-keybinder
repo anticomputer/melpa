@@ -1,0 +1,4 @@
+(xterm-keybinder
+ :fetcher github
+ :repo "anticomputer/xterm-keybinder-el"
+ :files ("*.el" "xterm-option" "emacs-urxvt-client"))

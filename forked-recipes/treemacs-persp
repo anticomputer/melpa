@@ -1,0 +1,4 @@
+(treemacs-persp
+ :fetcher github
+ :repo "anticomputer/treemacs"
+ :files ("src/extra/treemacs-persp.el"))

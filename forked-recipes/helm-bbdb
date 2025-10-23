@@ -1,0 +1,1 @@
+(helm-bbdb :repo "anticomputer/helm-bbdb" :fetcher github)

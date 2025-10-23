@@ -1,0 +1,4 @@
+(ox-linuxmag-fr
+ :fetcher github
+ :repo "anticomputer/ox-linuxmag-fr"
+ :files (:defaults "resources"))

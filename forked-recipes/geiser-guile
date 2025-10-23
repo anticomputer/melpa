@@ -1,0 +1,4 @@
+(geiser-guile
+ :fetcher gitlab
+ :repo "anticomputer/guile"
+ :files (:defaults ("src" "src/*")))

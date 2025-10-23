@@ -1,0 +1,4 @@
+(peek-mode
+ :fetcher github
+ :repo "anticomputer/peek-mode"
+ :files ("index.html" "peek-mode.el"))

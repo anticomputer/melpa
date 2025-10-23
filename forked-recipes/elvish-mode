@@ -1,0 +1,1 @@
+(elvish-mode :repo "anticomputer/elvish-mode" :fetcher github)

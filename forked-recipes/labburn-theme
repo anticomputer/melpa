@@ -1,0 +1,1 @@
+(labburn-theme :repo "anticomputer/labburn-theme" :fetcher github)

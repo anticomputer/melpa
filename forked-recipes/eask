@@ -1,0 +1,1 @@
+(eask :repo "anticomputer/eask" :fetcher github)

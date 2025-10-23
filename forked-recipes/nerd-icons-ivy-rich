@@ -1,0 +1,3 @@
+(nerd-icons-ivy-rich
+ :fetcher github
+ :repo "anticomputer/nerd-icons-ivy-rich")

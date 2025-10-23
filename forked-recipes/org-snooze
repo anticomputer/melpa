@@ -1,0 +1,3 @@
+(org-snooze
+ :repo "anticomputer/org-snooze.el"
+ :fetcher github)

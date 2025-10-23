@@ -1,0 +1,1 @@
+(nodejs-repl :fetcher github :repo "anticomputer/nodejs-repl.el")

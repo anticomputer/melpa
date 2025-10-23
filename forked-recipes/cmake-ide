@@ -1,0 +1,1 @@
+(cmake-ide :repo "anticomputer/cmake-ide" :fetcher github)

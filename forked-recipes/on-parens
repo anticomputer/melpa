@@ -1,0 +1,3 @@
+(on-parens
+  :repo "anticomputer/emacs-on-parens"
+  :fetcher github)

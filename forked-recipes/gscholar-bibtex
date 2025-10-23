@@ -1,0 +1,2 @@
+(gscholar-bibtex :repo "anticomputer/gscholar-bibtex"
+                 :fetcher github)

@@ -1,0 +1,3 @@
+(semantic-thrift
+ :fetcher github
+ :repo "anticomputer/semantic-thrift")

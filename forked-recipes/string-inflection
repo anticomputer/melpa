@@ -1,0 +1,1 @@
+(string-inflection :fetcher github :repo "anticomputer/string-inflection")

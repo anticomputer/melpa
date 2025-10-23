@@ -1,0 +1,4 @@
+(org-cite-overlay-sidecar
+ :fetcher sourcehut
+ :repo "anticomputer/org-cite-overlay"
+ :files ("org-cite-overlay-sidecar.el"))

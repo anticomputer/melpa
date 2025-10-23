@@ -1,0 +1,1 @@
+(git-commit-insert-issue :fetcher gitlab :repo "anticomputer/git-commit-insert-issue")

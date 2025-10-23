@@ -1,0 +1,1 @@
+(starlit-theme :repo "anticomputer/starlit-emacs" :fetcher github)

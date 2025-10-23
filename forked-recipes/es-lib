@@ -1,0 +1,2 @@
+(es-lib :repo "anticomputer/es-lib"
+        :fetcher github)

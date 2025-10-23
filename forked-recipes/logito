@@ -1,0 +1,1 @@
+(logito :repo "anticomputer/logito" :fetcher github)

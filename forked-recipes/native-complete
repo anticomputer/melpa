@@ -1,0 +1,3 @@
+(native-complete :fetcher github
+                 :repo "anticomputer/emacs-native-shell-complete"
+                 :files ("native-complete.el"))

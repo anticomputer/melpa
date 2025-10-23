@@ -1,0 +1,1 @@
+(hound :repo "anticomputer/hound.el" :fetcher github)

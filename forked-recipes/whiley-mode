@@ -1,0 +1,1 @@
+(whiley-mode :repo "anticomputer/WhileyEmacsMode" :fetcher github)

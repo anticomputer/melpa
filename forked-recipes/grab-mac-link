@@ -1,0 +1,1 @@
+(grab-mac-link :fetcher github :repo "anticomputer/grab-mac-link.el")

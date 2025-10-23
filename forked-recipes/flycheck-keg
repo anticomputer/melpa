@@ -1,0 +1,2 @@
+(flycheck-keg :fetcher github :repo "anticomputer/keg.el"
+              :files ("flycheck-keg.el"))

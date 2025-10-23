@@ -1,0 +1,1 @@
+(docker-tramp :fetcher github :repo "anticomputer/docker-tramp.el")

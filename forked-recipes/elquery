@@ -1,0 +1,1 @@
+(elquery :fetcher github :repo "anticomputer/elquery")

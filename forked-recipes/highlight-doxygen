@@ -1,0 +1,1 @@
+(highlight-doxygen :repo "anticomputer/highlight-doxygen" :fetcher github)

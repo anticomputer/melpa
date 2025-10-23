@@ -1,0 +1,1 @@
+(gift-mode :fetcher github :repo "anticomputer/gift-mode")

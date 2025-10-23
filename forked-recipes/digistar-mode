@@ -1,0 +1,2 @@
+(digistar-mode :fetcher github :repo "anticomputer/digistar-mode"
+               :files (:defaults "images"))

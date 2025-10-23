@@ -1,0 +1,1 @@
+(ob-mermaid :repo "anticomputer/ob-mermaid" :fetcher github)

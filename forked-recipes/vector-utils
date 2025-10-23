@@ -1,0 +1,1 @@
+(vector-utils :repo "anticomputer/vector-utils" :fetcher github)

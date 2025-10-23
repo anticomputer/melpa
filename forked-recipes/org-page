@@ -1,0 +1,4 @@
+(org-page
+ :fetcher github
+ :repo "anticomputer/org-page"
+ :files ("*.el" "doc" "themes"))

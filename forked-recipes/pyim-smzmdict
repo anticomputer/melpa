@@ -1,0 +1,4 @@
+(pyim-smzmdict
+ :fetcher github
+ :repo "anticomputer/pyim-smzmdict"
+ :files (:defaults "*.pyim"))

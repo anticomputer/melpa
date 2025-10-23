@@ -1,0 +1,2 @@
+(evil-lispy :repo "anticomputer/evil-lispy"
+            :fetcher github)

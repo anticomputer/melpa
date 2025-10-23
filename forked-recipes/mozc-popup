@@ -1,0 +1,2 @@
+(mozc-popup :fetcher github
+            :repo "anticomputer/mozc-popup")

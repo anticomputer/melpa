@@ -1,0 +1,1 @@
+(fraktur-mode :repo "anticomputer/fraktur-mode" :fetcher github)

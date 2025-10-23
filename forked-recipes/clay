@@ -1,0 +1,2 @@
+(clay :fetcher github
+      :repo "anticomputer/clay.el")

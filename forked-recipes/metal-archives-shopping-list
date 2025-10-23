@@ -1,0 +1,1 @@
+(metal-archives-shopping-list :fetcher github :repo "anticomputer/metal-archives.el" :files ("metal-archives-shopping-list.el"))

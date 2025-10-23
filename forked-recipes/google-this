@@ -1,0 +1,1 @@
+(google-this :repo "anticomputer/emacs-google-this" :fetcher github)

@@ -1,0 +1,1 @@
+(helm-ghs :repo "anticomputer/emacs-helm-ghs" :fetcher github)

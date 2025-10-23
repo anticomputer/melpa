@@ -1,0 +1,4 @@
+(basic-mode
+ :repo "anticomputer/basic-mode"
+ :fetcher github
+ :files ("src/*.el"))

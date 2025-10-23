@@ -1,0 +1,1 @@
+(material-theme :fetcher github :repo "anticomputer/emacs-material-theme")

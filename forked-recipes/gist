@@ -1,0 +1,2 @@
+(gist :repo "anticomputer/gist.el" :fetcher github)
+

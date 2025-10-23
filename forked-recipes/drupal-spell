@@ -1,0 +1,4 @@
+(drupal-spell
+ :fetcher github
+ :repo "anticomputer/drupal-spell"
+ :files ("*.el" "dict"))

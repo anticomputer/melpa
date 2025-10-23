@@ -1,0 +1,1 @@
+(asdf-vm :fetcher github :repo "anticomputer/emacs-asdf-vm")

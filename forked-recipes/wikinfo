@@ -1,0 +1,1 @@
+(wikinfo :repo "anticomputer/wikinfo" :fetcher github)

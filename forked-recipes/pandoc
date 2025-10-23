@@ -1,0 +1,2 @@
+(pandoc :repo "anticomputer/pandoc.el"
+        :fetcher github)

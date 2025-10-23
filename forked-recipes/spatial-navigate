@@ -1,0 +1,3 @@
+(spatial-navigate
+ :fetcher codeberg
+ :repo "anticomputer/emacs-spatial-navigate")

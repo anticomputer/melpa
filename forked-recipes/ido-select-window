@@ -1,0 +1,1 @@
+(ido-select-window :fetcher github :repo "anticomputer/ido-select-window")

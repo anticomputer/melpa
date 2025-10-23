@@ -1,0 +1,1 @@
+(shell-here :fetcher codeberg :repo "anticomputer/shell-here")

@@ -1,0 +1,1 @@
+(git-backup-ivy :fetcher github :repo "anticomputer/git-backup-ivy")

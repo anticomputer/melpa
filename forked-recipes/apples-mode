@@ -1,0 +1,4 @@
+(apples-mode
+ :fetcher github
+ :repo "anticomputer/apples-mode"
+ :files ("*.el" "apples-mode"))

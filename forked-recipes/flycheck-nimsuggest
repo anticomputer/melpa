@@ -1,0 +1,1 @@
+(flycheck-nimsuggest :fetcher github :repo "anticomputer/flycheck-nimsuggest")

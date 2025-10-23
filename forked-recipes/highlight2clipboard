@@ -1,0 +1,1 @@
+(highlight2clipboard :repo "anticomputer/highlight2clipboard" :fetcher github :files (:defaults "bin"))

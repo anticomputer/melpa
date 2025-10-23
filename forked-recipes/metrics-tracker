@@ -1,0 +1,2 @@
+(metrics-tracker :repo "anticomputer/emacs-tracker"
+                 :fetcher github)

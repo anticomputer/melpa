@@ -1,0 +1,1 @@
+(ob-elixir :repo "anticomputer/ob-elixir" :fetcher github)

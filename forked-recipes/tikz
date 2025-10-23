@@ -1,0 +1,2 @@
+(tikz :repo "anticomputer/tikz" :fetcher github
+	  :files (:defaults "templates"))

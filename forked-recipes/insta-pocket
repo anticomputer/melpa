@@ -1,0 +1,1 @@
+(insta-pocket :fetcher github :repo "anticomputer/emacs-insta-pocket")

@@ -1,0 +1,4 @@
+(emoji-recall
+ :fetcher github
+ :repo "anticomputer/emoji-recall.el"
+ :files (:defaults "emoji-cheat-sheet/*.png"))

@@ -1,0 +1,3 @@
+(lab-themes
+ :fetcher github
+ :repo "anticomputer/lab-theme")

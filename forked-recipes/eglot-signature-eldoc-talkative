@@ -1,0 +1,3 @@
+(eglot-signature-eldoc-talkative
+ :fetcher codeberg
+ :repo "anticomputer/eglot-signature-eldoc-talkative")

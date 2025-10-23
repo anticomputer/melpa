@@ -1,0 +1,1 @@
+(bats-mode :repo "anticomputer/bats-mode" :fetcher github)

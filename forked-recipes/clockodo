@@ -1,0 +1,1 @@
+(clockodo :repo "anticomputer/clockodo-el" :fetcher github)

@@ -1,0 +1,1 @@
+(letterbox-mode :repo "anticomputer/letterbox-mode" :fetcher github)

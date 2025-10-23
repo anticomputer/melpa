@@ -1,0 +1,1 @@
+(bitpack :fetcher github :repo "anticomputer/bitpack")

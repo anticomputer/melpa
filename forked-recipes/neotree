@@ -1,0 +1,3 @@
+(neotree :repo "anticomputer/emacs-neotree"
+         :fetcher github
+         :files (:defaults "icons"))

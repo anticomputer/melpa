@@ -1,0 +1,2 @@
+(org-link-travis :repo "anticomputer/org-link-travis"
+                 :fetcher github)

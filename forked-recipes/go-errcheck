@@ -1,0 +1,1 @@
+(go-errcheck :repo "anticomputer/go-errcheck.el" :fetcher github)

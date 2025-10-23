@@ -1,0 +1,3 @@
+(counsel-dash
+  :repo "anticomputer/counsel-dash"
+  :fetcher github)

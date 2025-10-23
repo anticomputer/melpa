@@ -1,0 +1,1 @@
+(shelldoc :fetcher github :repo "anticomputer/Emacs-shelldoc")

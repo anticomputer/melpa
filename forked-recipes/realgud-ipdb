@@ -1,0 +1,5 @@
+(realgud-ipdb
+ :fetcher github
+ :repo "anticomputer/realgud-ipdb"
+ :files (:defaults 
+         ("ipdb" "ipdb/*.el")))

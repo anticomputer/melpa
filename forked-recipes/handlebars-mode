@@ -1,0 +1,1 @@
+(handlebars-mode :fetcher github :repo "anticomputer/handlebars-mode")

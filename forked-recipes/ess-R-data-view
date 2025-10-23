@@ -1,0 +1,2 @@
+(ess-R-data-view :repo "anticomputer/ess-R-data-view.el" 
+                 :fetcher github)

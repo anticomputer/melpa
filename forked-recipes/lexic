@@ -1,0 +1,1 @@
+(lexic :repo "anticomputer/lexic" :fetcher github)

@@ -1,0 +1,4 @@
+(gleam-ts-mode
+ :fetcher github
+ :repo "anticomputer/gleam-mode"
+ :files ("gleam-ts-mode.el"))

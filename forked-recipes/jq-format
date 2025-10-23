@@ -1,0 +1,3 @@
+(jq-format
+ :fetcher github
+ :repo "anticomputer/emacs-jq-format")

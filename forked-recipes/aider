@@ -1,0 +1,1 @@
+(aider :fetcher github :repo "anticomputer/aider.el" :files (:defaults "snippets"))

@@ -1,0 +1,1 @@
+(alect-themes :repo "anticomputer/alect-themes" :fetcher github)

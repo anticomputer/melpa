@@ -1,0 +1,2 @@
+(rake :repo "anticomputer/rake"
+      :fetcher github)

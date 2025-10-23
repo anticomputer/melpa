@@ -1,0 +1,1 @@
+(dyncloze :repo "anticomputer/emacs-dyncloze" :fetcher github)

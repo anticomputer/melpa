@@ -1,0 +1,1 @@
+(url-shortener :repo "anticomputer/url-shortener" :fetcher github )

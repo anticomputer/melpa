@@ -1,0 +1,1 @@
+(vertigo :fetcher github :repo "anticomputer/vertigo.el")

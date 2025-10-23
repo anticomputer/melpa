@@ -1,0 +1,2 @@
+(bnf-mode :repo "anticomputer/bnf-mode"
+          :fetcher github)

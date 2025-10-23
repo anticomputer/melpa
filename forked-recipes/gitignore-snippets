@@ -1,0 +1,4 @@
+(gitignore-snippets
+ :fetcher github
+ :repo "anticomputer/gitignore-snippets"
+ :files (:defaults "snippets"))

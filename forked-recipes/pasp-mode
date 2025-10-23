@@ -1,0 +1,1 @@
+(pasp-mode :fetcher github :repo "anticomputer/pasp-mode")

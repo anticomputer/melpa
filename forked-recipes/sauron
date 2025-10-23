@@ -1,0 +1,1 @@
+(sauron :repo "anticomputer/sauron" :fetcher github)

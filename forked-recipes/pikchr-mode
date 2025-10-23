@@ -1,0 +1,2 @@
+(pikchr-mode :fetcher github
+             :repo "anticomputer/pikchr-mode")

@@ -1,0 +1,1 @@
+(mermaid-mode :repo "anticomputer/mermaid-mode" :fetcher github)

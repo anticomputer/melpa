@@ -1,0 +1,4 @@
+(async-backup
+ :fetcher codeberg
+ :repo "anticomputer/async-backup"
+ :branch "development")

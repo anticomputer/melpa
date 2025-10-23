@@ -1,0 +1,4 @@
+(clang-capf
+ :fetcher sourcehut
+ :repo "anticomputer/clang-capf"
+ :old-names (cpp-capf))

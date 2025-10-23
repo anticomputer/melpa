@@ -1,0 +1,1 @@
+(grep-a-lot :fetcher github :repo "anticomputer/emacs-grep-a-lot")

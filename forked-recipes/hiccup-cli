@@ -1,0 +1,4 @@
+(hiccup-cli
+ :fetcher github
+ :repo "anticomputer/hiccup-cli"
+ :files ("elisp/*.el"))

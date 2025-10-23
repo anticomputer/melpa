@@ -1,0 +1,1 @@
+(font-utils :repo "anticomputer/font-utils" :fetcher github)

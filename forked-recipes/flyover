@@ -1,0 +1,4 @@
+(flyover 
+    :fetcher github
+    :repo "anticomputer/flyover" 
+    :files ("flyover.el"))

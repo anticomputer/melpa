@@ -1,0 +1,2 @@
+(phpstan :fetcher github :repo "anticomputer/phpstan.el"
+         :files ("phpstan.el"))

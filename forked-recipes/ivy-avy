@@ -1,0 +1,3 @@
+(ivy-avy :repo "anticomputer/swiper"
+         :fetcher github
+         :files ("ivy-avy.el"))

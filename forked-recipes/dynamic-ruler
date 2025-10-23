@@ -1,0 +1,1 @@
+(dynamic-ruler :fetcher github :repo "anticomputer/dynamic-ruler")

@@ -1,0 +1,1 @@
+(dactyl-mode :fetcher github :repo "anticomputer/dactyl-mode")

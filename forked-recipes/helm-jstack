@@ -1,0 +1,1 @@
+(helm-jstack :repo "anticomputer/helm-jstack" :fetcher github)

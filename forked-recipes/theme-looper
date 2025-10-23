@@ -1,0 +1,1 @@
+(theme-looper :repo "anticomputer/theme-looper" :fetcher github)

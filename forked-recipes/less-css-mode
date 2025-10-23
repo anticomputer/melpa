@@ -1,0 +1,1 @@
+(less-css-mode :repo "anticomputer/less-css-mode" :fetcher github)

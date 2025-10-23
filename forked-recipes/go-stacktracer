@@ -1,0 +1,1 @@
+(go-stacktracer :fetcher github :repo "anticomputer/go-stacktracer.el")

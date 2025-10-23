@@ -1,0 +1,3 @@
+(timesheet :fetcher github
+           :repo "anticomputer/timesheet.el"
+           :files ("*.el" "bin" "share"))

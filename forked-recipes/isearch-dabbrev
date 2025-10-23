@@ -1,0 +1,1 @@
+(isearch-dabbrev :fetcher github :repo "anticomputer/isearch-dabbrev")

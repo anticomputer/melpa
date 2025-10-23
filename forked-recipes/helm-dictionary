@@ -1,0 +1,1 @@
+(helm-dictionary :fetcher github :repo "anticomputer/helm-dictionary")

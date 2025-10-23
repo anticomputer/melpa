@@ -1,0 +1,4 @@
+(evil-textobj-anyblock
+  :fetcher github
+  :repo "anticomputer/evil-textobj-anyblock")
+

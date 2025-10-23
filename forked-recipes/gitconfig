@@ -1,0 +1,1 @@
+(gitconfig :fetcher github :repo "anticomputer/gitconfig.el")

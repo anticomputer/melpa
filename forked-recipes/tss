@@ -1,0 +1,2 @@
+(tss :repo "anticomputer/emacs-tss"
+     :fetcher github)

@@ -1,0 +1,3 @@
+(abs-mode :repo "anticomputer/abs-mode"
+          :fetcher github
+          :files ("abs-mode.el" "snippets"))

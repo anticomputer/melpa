@@ -1,0 +1,3 @@
+(timu-caribbean-theme
+  :repo "anticomputer/timu-caribbean-theme"
+  :fetcher gitlab)

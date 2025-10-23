@@ -1,0 +1,1 @@
+(lirve :repo "anticomputer/lirve.el" :fetcher github)

@@ -1,0 +1,1 @@
+(conda-project :fetcher github :repo "anticomputer/conda-project.el")

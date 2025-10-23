@@ -1,0 +1,4 @@
+(ob-ess-julia
+ :fetcher github
+ :repo "anticomputer/ob-ess-julia"
+ :files ("*.el" "*.jl"))

@@ -1,0 +1,3 @@
+(tree-sitter-ispell
+  :fetcher github
+  :repo "anticomputer/tree-sitter-ispell.el")

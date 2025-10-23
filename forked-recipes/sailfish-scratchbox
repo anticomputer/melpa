@@ -1,0 +1,1 @@
+(sailfish-scratchbox :repo "anticomputer/sailfish-scratchbox.el" :fetcher github)

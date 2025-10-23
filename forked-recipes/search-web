@@ -1,0 +1,1 @@
+(search-web :repo "anticomputer/search-web.el" :fetcher github)

@@ -1,0 +1,2 @@
+(wotd :repo "anticomputer/emacs-word-of-the-day"
+      :fetcher github)

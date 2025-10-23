@@ -1,0 +1,3 @@
+(flymake-margin
+  :repo "anticomputer/flymake-margin"
+  :fetcher github)

@@ -1,0 +1,1 @@
+(strace-mode :repo "anticomputer/strace-mode" :fetcher github)

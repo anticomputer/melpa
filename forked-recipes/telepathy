@@ -1,0 +1,1 @@
+(telepathy :fetcher github :repo "anticomputer/telepathy.el")

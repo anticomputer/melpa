@@ -1,0 +1,1 @@
+(wikinforg :repo "anticomputer/wikinforg" :fetcher github)

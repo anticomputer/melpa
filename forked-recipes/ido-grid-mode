@@ -1,0 +1,1 @@
+(ido-grid-mode :fetcher github :repo "anticomputer/ido-grid-mode.el")

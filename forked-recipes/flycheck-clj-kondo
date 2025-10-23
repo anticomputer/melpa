@@ -1,0 +1,1 @@
+(flycheck-clj-kondo :fetcher github :repo "anticomputer/flycheck-clj-kondo")

@@ -1,0 +1,1 @@
+(ruby-extra-highlight :repo "anticomputer/ruby-extra-highlight" :fetcher github)

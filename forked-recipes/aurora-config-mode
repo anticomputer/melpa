@@ -1,0 +1,1 @@
+(aurora-config-mode :fetcher github :repo "anticomputer/aurora-config-mode.el")

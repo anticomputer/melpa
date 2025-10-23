@@ -1,0 +1,1 @@
+(fmo-mode :fetcher github :repo "anticomputer/fmo-mode.el")

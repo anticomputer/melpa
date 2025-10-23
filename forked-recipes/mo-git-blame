@@ -1,0 +1,1 @@
+(mo-git-blame :repo "anticomputer/mo-git-blame" :fetcher codeberg)

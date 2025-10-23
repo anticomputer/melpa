@@ -1,0 +1,1 @@
+(launch :fetcher github :repo "anticomputer/emacs-launch")

@@ -1,0 +1,3 @@
+(xkb-mode
+ :fetcher github
+ :repo "anticomputer/xkb-mode")

@@ -1,0 +1,4 @@
+(mew
+ :fetcher github
+ :repo "anticomputer/Mew"
+ :files ("elisp/*.el" "etc" "info/*.info*"))

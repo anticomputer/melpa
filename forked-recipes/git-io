@@ -1,0 +1,1 @@
+(git-io :repo "anticomputer/emacs-git-io" :fetcher github)

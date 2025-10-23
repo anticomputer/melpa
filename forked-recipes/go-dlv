@@ -1,0 +1,1 @@
+(go-dlv :repo "anticomputer/go-dlv.el" :fetcher github)

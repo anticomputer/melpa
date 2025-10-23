@@ -1,0 +1,1 @@
+(mode-line-bell :fetcher github :repo "anticomputer/mode-line-bell")

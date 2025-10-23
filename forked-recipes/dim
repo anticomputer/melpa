@@ -1,0 +1,1 @@
+(dim :repo "anticomputer/dim.el" :fetcher github)

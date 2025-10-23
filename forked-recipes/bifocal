@@ -1,0 +1,2 @@
+(bifocal :repo "anticomputer/bifocal-mode"
+         :fetcher github)

@@ -1,0 +1,2 @@
+(mu2tex :fetcher github :repo "anticomputer/mu2tex")
+

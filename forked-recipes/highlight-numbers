@@ -1,0 +1,2 @@
+(highlight-numbers :fetcher github :repo "anticomputer/highlight-numbers"
+                   :old-names (number-font-lock-mode))

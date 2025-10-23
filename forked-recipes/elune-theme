@@ -1,0 +1,2 @@
+(elune-theme :repo "anticomputer/elune-theme"
+              :fetcher github)

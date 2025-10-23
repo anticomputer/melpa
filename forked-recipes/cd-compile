@@ -1,0 +1,1 @@
+(cd-compile :repo "anticomputer/emacs-cd-compile" :fetcher github)

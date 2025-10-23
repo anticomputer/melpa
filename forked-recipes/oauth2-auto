@@ -1,0 +1,1 @@
+(oauth2-auto :fetcher github :repo "anticomputer/emacs-oauth2-auto")

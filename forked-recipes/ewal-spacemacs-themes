@@ -1,0 +1,4 @@
+(ewal-spacemacs-themes
+ :fetcher github
+ :repo "anticomputer/ewal"
+ :files ("spacemacs-themes/*.el"))

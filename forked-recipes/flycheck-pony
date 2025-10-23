@@ -1,0 +1,1 @@
+(flycheck-pony :fetcher github :repo "anticomputer/flycheck-pony")

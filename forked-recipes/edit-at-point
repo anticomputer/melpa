@@ -1,0 +1,1 @@
+(edit-at-point :fetcher github :repo "anticomputer/edit-at-point")

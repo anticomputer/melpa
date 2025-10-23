@@ -1,0 +1,2 @@
+(run-command :fetcher github
+             :repo "anticomputer/emacs-run-command")

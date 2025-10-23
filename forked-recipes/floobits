@@ -1,0 +1,4 @@
+(floobits
+ :fetcher github
+ :repo "anticomputer/floobits-emacs"
+ :files ("floo" "floobits.el" "floobits.py"))

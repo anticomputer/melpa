@@ -1,0 +1,1 @@
+(starhugger :fetcher gitlab :repo "anticomputer/starhugger.el" :files (:defaults "*.py"))

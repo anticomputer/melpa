@@ -1,0 +1,3 @@
+(show-font-mode
+ :fetcher github
+ :repo "anticomputer/show-font-mode")

@@ -1,0 +1,5 @@
+(sly-asdf :fetcher github
+          :repo "anticomputer/sly-asdf"
+          :files (:defaults
+                  "*.lisp"
+                  "*.asd"))

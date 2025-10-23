@@ -1,0 +1,1 @@
+(toml-mode :fetcher github :repo "anticomputer/toml-mode.el")

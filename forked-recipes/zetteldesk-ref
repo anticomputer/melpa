@@ -1,0 +1,3 @@
+(zetteldesk-ref :fetcher github
+	    	:repo "anticomputer/zetteldesk.el"
+	    	:files ("zetteldesk-ref.el"))

@@ -1,0 +1,1 @@
+(sfz-mode :fetcher github :repo "anticomputer/emacs-sfz-mode")

@@ -1,0 +1,1 @@
+(goose-theme :repo "anticomputer/goose-theme" :fetcher github)

@@ -1,0 +1,3 @@
+(doctest
+ :fetcher github
+ :repo "anticomputer/doctest")

@@ -1,0 +1,4 @@
+(libbcel
+ :fetcher github
+ :repo "anticomputer/libbcel"
+ :old-names (libbasecampel))

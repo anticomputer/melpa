@@ -1,0 +1,4 @@
+(ccc
+ :repo "anticomputer/ddskk"
+ :fetcher github
+ :files ("ccc.el"))

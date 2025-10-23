@@ -1,0 +1,2 @@
+(xonsh-mode :repo "anticomputer/xonsh-mode"
+            :fetcher github)

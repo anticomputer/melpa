@@ -1,0 +1,1 @@
+(gnus-summary-ext :fetcher github :repo "anticomputer/gnus-summary-ext")

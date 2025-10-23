@@ -1,0 +1,4 @@
+(org-fancy-priorities
+ :repo "anticomputer/org-fancy-priorities"
+ :fetcher github)
+

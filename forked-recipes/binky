@@ -1,0 +1,4 @@
+(binky
+ :fetcher github
+ :repo "anticomputer/binky.el"
+ :old-names (binky-mode))

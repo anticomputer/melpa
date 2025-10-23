@@ -1,0 +1,2 @@
+(minizinc-mode :repo "anticomputer/minizinc-mode"
+	       :fetcher github)

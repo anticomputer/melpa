@@ -1,0 +1,4 @@
+(ctable
+  :repo "anticomputer/emacs-ctable"
+  :fetcher github
+  :files ("ctable.el"))

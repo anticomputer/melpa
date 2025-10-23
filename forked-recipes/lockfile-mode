@@ -1,0 +1,3 @@
+(lockfile-mode
+  :repo "anticomputer/emacs-lockfile-mode"
+  :fetcher github)

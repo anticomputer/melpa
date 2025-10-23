@@ -1,0 +1,1 @@
+(doct :repo "anticomputer/doct" :fetcher github)

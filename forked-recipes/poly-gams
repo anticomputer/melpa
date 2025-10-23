@@ -1,0 +1,4 @@
+(poly-gams
+ :repo "anticomputer/poly-gams"
+ :fetcher github
+)

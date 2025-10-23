@@ -1,0 +1,1 @@
+(evil-swap-keys :repo "anticomputer/evil-swap-keys" :fetcher github)

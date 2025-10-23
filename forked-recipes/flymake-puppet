@@ -1,0 +1,1 @@
+(flymake-puppet :repo "anticomputer/flymake-puppet" :fetcher github)

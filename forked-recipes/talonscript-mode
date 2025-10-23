@@ -1,0 +1,3 @@
+(talonscript-mode
+ :repo "anticomputer/talonscript-mode"
+ :fetcher github)

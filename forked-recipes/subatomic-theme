@@ -1,0 +1,1 @@
+(subatomic-theme :repo "anticomputer/subatomic-theme" :fetcher github)

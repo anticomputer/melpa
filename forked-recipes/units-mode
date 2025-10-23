@@ -1,0 +1,1 @@
+(units-mode :repo "anticomputer/units-mode" :fetcher github)

@@ -1,0 +1,1 @@
+(cwl-mode :repo "anticomputer/cwl-mode" :fetcher github)

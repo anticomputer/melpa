@@ -1,0 +1,5 @@
+(angular-mode
+ :fetcher github
+ :repo "anticomputer/angular-mode"
+ :files (:defaults "snippets")
+ :old-names (angularjs-mode))

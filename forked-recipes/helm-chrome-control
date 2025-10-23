@@ -1,0 +1,4 @@
+(helm-chrome-control
+ :fetcher github
+ :repo "anticomputer/helm-chrome-control"
+ :files (:defaults "*.js"))

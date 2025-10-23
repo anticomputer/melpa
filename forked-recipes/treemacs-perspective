@@ -1,0 +1,4 @@
+(treemacs-perspective
+ :fetcher github
+ :repo "anticomputer/treemacs"
+ :files ("src/extra/treemacs-perspective.el"))

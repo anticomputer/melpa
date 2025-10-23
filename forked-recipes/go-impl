@@ -1,0 +1,1 @@
+(go-impl :repo "anticomputer/go-impl" :fetcher github)

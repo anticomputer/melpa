@@ -1,0 +1,3 @@
+(org-mac-link
+ :repo "anticomputer/org-mac-link"
+ :fetcher gitlab)

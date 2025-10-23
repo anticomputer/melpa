@@ -1,0 +1,2 @@
+(composable :repo "anticomputer/composable.el"
+            :fetcher github)

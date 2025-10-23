@@ -1,0 +1,2 @@
+(time-uuid-mode :fetcher github
+          :repo "anticomputer/time-uuid-mode")

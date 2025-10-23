@@ -1,0 +1,1 @@
+(pastery :repo "anticomputer/pastery.el" :fetcher github)

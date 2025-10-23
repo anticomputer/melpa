@@ -1,0 +1,4 @@
+(treemacs-magit
+ :fetcher github
+ :repo "anticomputer/treemacs"
+ :files ("src/extra/treemacs-magit.el"))

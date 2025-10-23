@@ -1,0 +1,3 @@
+(ada-ts-mode
+ :fetcher github
+ :repo "anticomputer/ada-ts-mode")

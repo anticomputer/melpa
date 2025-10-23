@@ -1,0 +1,1 @@
+(ebnf-mode :repo "anticomputer/ebnf-mode" :fetcher github)

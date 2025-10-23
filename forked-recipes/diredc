@@ -1,0 +1,3 @@
+(diredc
+ :fetcher github
+ :repo "anticomputer/emacs-diredc")

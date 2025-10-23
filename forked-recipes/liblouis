@@ -1,0 +1,1 @@
+(liblouis :fetcher github :repo "anticomputer/liblouis-mode")

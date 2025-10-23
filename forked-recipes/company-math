@@ -1,0 +1,3 @@
+(company-math
+ :fetcher github
+ :repo "anticomputer/company-math")

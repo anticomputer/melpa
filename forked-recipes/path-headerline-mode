@@ -1,0 +1,1 @@
+(path-headerline-mode :fetcher github :repo "anticomputer/path-headerline-mode")

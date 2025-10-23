@@ -1,0 +1,4 @@
+(rcirc-alert
+ :fetcher github
+ :repo "anticomputer/rcirc-alert"
+ :files ("*.el" "*.sh"))

@@ -1,0 +1,4 @@
+(parrot
+ :fetcher github
+ :repo "anticomputer/parrot"
+ :files (:defaults "img"))

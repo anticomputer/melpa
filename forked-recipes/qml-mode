@@ -1,0 +1,3 @@
+(qml-mode
+ :repo "anticomputer/qml-mode"
+ :fetcher github)

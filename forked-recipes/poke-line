@@ -1,0 +1,4 @@
+(poke-line
+  :fetcher github
+  :repo "anticomputer/poke-line"
+  :files (:defaults "img"))

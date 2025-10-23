@@ -1,0 +1,5 @@
+(ox-tiddly
+ :fetcher github
+ :repo "anticomputer/org8-wikiexporters"
+ :files ("ox-tiddly.el")
+ )

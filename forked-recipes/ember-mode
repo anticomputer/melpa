@@ -1,0 +1,2 @@
+(ember-mode
+ :fetcher github :repo "anticomputer/ember-mode")

@@ -1,0 +1,1 @@
+(cquery :repo "anticomputer/emacs-cquery" :fetcher github)

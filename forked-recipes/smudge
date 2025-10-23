@@ -1,0 +1,3 @@
+(smudge
+	:fetcher github
+	:repo "anticomputer/smudge")

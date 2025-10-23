@@ -1,0 +1,2 @@
+(org-id-cleanup :fetcher github
+                :repo "anticomputer/org-id-cleanup")

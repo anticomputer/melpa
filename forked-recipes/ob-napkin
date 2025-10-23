@@ -1,0 +1,1 @@
+(ob-napkin :repo "anticomputer/ob-napkin" :fetcher github)

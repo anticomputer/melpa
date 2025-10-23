@@ -1,0 +1,3 @@
+(shm :fetcher github
+     :repo "anticomputer/structured-haskell-mode"
+     :files ("elisp/*.el" (:exclude "shm-test.el" "shm-tests.el")))

@@ -1,0 +1,2 @@
+(viking-mode :repo "anticomputer/viking-mode" :fetcher github)
+

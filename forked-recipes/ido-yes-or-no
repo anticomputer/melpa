@@ -1,0 +1,1 @@
+(ido-yes-or-no :fetcher github :repo "anticomputer/ido-yes-or-no")

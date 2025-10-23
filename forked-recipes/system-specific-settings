@@ -1,0 +1,1 @@
+(system-specific-settings :repo "anticomputer/emacs-system-specific-settings" :fetcher github)

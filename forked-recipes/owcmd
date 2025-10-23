@@ -1,0 +1,1 @@
+(owcmd :fetcher github :repo "anticomputer/owcmd")

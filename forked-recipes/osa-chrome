@@ -1,0 +1,4 @@
+(osa-chrome
+ :fetcher github
+ :repo "anticomputer/osa-chrome"
+ :files (:defaults ("scripts" "scripts/*.js")))

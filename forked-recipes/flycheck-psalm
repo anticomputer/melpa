@@ -1,0 +1,2 @@
+(flycheck-psalm :fetcher github :repo "anticomputer/psalm.el"
+                :files ("flycheck-psalm.el"))

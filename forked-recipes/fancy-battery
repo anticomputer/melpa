@@ -1,0 +1,1 @@
+(fancy-battery :repo "anticomputer/fancy-battery" :fetcher github)

@@ -1,0 +1,3 @@
+(helm-catkin
+ :fetcher github
+ :repo "anticomputer/helm-catkin")

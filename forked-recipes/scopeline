@@ -1,0 +1,3 @@
+(scopeline
+  :fetcher github
+  :repo "anticomputer/scopeline.el")

@@ -1,0 +1,1 @@
+(map-regexp :repo "anticomputer/map-regexp" :fetcher github)

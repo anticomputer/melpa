@@ -1,0 +1,4 @@
+(bongo
+ :fetcher github
+ :repo "anticomputer/bongo"
+ :files ("*.el" "*.texi" "images" "*.rb"))

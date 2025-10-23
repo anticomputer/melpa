@@ -1,0 +1,3 @@
+(brazilian-holidays
+ :repo "anticomputer/brazilian-holidays"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(rego-mode
+ :repo "anticomputer/rego-mode"
+ :fetcher github)

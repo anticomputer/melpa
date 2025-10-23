@@ -1,0 +1,1 @@
+(aws-ec2 :fetcher github :repo "anticomputer/aws.el")

@@ -1,0 +1,1 @@
+(pcmpl-args :fetcher github :repo "anticomputer/pcmpl-args.el")

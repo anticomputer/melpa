@@ -1,0 +1,3 @@
+(auth-source-xoauth2
+ :fetcher codeberg
+ :repo "anticomputer/auth-source-xoauth2")

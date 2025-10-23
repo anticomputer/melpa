@@ -1,0 +1,1 @@
+(handoff :repo "anticomputer/handoff.el" :fetcher github)

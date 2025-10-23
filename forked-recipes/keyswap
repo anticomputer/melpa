@@ -1,0 +1,1 @@
+(keyswap :repo "anticomputer/keyswap.el" :fetcher github)

@@ -1,0 +1,2 @@
+(dollaro :repo "anticomputer/dollaro" :fetcher github)
+

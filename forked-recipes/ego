@@ -1,0 +1,3 @@
+(ego :repo "anticomputer/EGO"
+             :fetcher github
+             :files (:defaults "themes"))

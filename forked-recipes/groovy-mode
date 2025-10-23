@@ -1,0 +1,4 @@
+(groovy-mode
+ :fetcher github
+ :repo "anticomputer/groovy-emacs-modes"
+ :files ("*groovy*.el"))

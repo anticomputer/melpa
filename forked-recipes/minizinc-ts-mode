@@ -1,0 +1,3 @@
+(minizinc-ts-mode
+ :fetcher github
+ :repo "anticomputer/minizinc-ts-mode")

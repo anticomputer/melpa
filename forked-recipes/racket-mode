@@ -1,0 +1,8 @@
+(racket-mode
+ :fetcher github
+ :repo "anticomputer/racket-mode"
+ :files (:defaults
+         "*.rkt"
+         ("racket" "racket/*")
+         (:exclude "racket/example/*"
+                   "racket/test/*")))

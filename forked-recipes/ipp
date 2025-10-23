@@ -1,0 +1,3 @@
+(ipp
+ :fetcher github
+ :repo "anticomputer/ipp-el")

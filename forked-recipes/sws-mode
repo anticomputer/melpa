@@ -1,0 +1,1 @@
+(sws-mode :fetcher github :repo "anticomputer/jade-mode" :files ("sws-mode.el"))

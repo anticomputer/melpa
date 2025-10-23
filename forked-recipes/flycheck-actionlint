@@ -1,0 +1,1 @@
+(flycheck-actionlint :fetcher github :repo "anticomputer/flycheck-actionlint")

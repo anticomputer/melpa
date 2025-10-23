@@ -1,0 +1,1 @@
+(counsel-css :repo "anticomputer/emacs-counsel-css" :fetcher github)

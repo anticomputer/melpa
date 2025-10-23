@@ -1,0 +1,4 @@
+(code-compass
+ :fetcher github
+ :repo "anticomputer/code-compass"
+ :files (:defaults "scripts" "pages"))

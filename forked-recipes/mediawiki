@@ -1,0 +1,1 @@
+(mediawiki :repo "anticomputer/mediawiki-el" :fetcher github)

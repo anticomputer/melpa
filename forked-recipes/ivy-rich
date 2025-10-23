@@ -1,0 +1,1 @@
+(ivy-rich :repo "anticomputer/ivy-rich" :fetcher github)

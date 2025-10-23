@@ -1,0 +1,1 @@
+(rails-i18n :repo "anticomputer/rails-i18n.el" :fetcher github)

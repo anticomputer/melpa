@@ -1,0 +1,1 @@
+(named-timer :fetcher github :repo "anticomputer/emacs-named-timer")

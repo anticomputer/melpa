@@ -1,0 +1,2 @@
+(bilibili :fetcher github
+          :repo "anticomputer/bilibili.el")

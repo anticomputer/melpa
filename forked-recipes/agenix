@@ -1,0 +1,1 @@
+(agenix :repo "anticomputer/agenix.el" :fetcher github)

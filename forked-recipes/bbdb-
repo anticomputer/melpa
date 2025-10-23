@@ -1,0 +1,2 @@
+(bbdb- :repo "anticomputer/bbdb-"
+       :fetcher github)

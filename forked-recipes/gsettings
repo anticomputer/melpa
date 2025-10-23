@@ -1,0 +1,3 @@
+(gsettings
+ :fetcher github
+ :repo "anticomputer/emacs-gsettings")

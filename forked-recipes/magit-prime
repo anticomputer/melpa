@@ -1,0 +1,1 @@
+(magit-prime :fetcher github :repo "anticomputer/magit-prime")

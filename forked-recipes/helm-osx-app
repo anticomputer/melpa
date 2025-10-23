@@ -1,0 +1,1 @@
+(helm-osx-app :fetcher github :repo "anticomputer/helm-osx-app")

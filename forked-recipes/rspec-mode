@@ -1,0 +1,1 @@
+(rspec-mode :repo "anticomputer/rspec-mode" :fetcher github :files ("rspec-mode.el" "snippets"))

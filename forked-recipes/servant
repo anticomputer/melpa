@@ -1,0 +1,4 @@
+(servant
+ :fetcher github
+ :repo "anticomputer/servant"
+ :files ("*.el" "bin"))

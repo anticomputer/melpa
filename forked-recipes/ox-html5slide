@@ -1,0 +1,1 @@
+(ox-html5slide :fetcher github :repo "anticomputer/org-html5slide")

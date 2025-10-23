@@ -1,0 +1,1 @@
+(debpaste :repo "anticomputer/debpaste.el" :fetcher github)

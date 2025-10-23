@@ -1,0 +1,1 @@
+(counsel-osx-app :repo "anticomputer/counsel-osx-app" :fetcher github)

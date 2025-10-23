@@ -1,0 +1,2 @@
+(prettier-js :repo "anticomputer/prettier-emacs"
+             :fetcher github)

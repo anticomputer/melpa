@@ -1,0 +1,1 @@
+(live-preview :fetcher github :repo "anticomputer/emacs-live-preview")

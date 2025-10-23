@@ -1,0 +1,1 @@
+(rust-auto-use :repo "anticomputer/rust-auto-use.el" :fetcher github)

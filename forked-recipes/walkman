@@ -1,0 +1,1 @@
+(walkman :repo "anticomputer/walkman" :fetcher github)

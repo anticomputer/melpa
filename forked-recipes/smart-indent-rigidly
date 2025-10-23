@@ -1,0 +1,1 @@
+(smart-indent-rigidly :fetcher github :repo "anticomputer/smart-indent-rigidly")

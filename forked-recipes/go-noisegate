@@ -1,0 +1,1 @@
+(go-noisegate :repo "anticomputer/go-noisegate.el" :fetcher github)

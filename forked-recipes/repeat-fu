@@ -1,0 +1,3 @@
+(repeat-fu
+ :fetcher codeberg
+ :repo "anticomputer/emacs-repeat-fu")

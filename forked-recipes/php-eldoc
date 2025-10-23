@@ -1,0 +1,4 @@
+(php-eldoc
+ :fetcher github
+ :repo "anticomputer/php-eldoc"
+ :files ("*.el" "*.php"))

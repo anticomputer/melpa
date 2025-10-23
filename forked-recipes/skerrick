@@ -1,0 +1,2 @@
+(skerrick :repo "anticomputer/skerrick"
+          :fetcher github)

@@ -1,0 +1,4 @@
+(omtose-phellack-themes
+ :fetcher github
+ :repo "anticomputer/omtose-phellack-themes"
+ :old-names (omtose-phellack-theme))

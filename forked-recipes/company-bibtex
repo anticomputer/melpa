@@ -1,0 +1,1 @@
+(company-bibtex :fetcher github :repo "anticomputer/company-bibtex")

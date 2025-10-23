@@ -1,0 +1,2 @@
+(rinari :repo "anticomputer/rinari" :fetcher github :files ("rinari.el"))
+

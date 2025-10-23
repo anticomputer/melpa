@@ -1,0 +1,2 @@
+(ctxmenu :repo "anticomputer/emacs-ctxmenu"
+         :fetcher github)

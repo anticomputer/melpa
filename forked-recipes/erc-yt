@@ -1,0 +1,2 @@
+(erc-yt :repo "anticomputer/erc-yt" :fetcher github)
+

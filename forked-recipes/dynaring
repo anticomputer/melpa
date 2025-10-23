@@ -1,0 +1,2 @@
+(dynaring :repo "anticomputer/dynaring"
+          :fetcher github)

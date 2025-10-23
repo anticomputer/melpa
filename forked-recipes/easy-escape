@@ -1,0 +1,3 @@
+(easy-escape
+ :repo "anticomputer/easy-escape"
+ :fetcher github)

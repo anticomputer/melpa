@@ -1,0 +1,1 @@
+(ibuffer-rcirc :repo "anticomputer/ibuffer-rcirc" :fetcher github)

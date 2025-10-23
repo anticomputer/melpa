@@ -1,0 +1,3 @@
+(brightscript-mode
+ :repo "anticomputer/brightscript-mode"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(run-command-recipes
+ :fetcher github
+ :repo "anticomputer/emacs-run-command-recipes")

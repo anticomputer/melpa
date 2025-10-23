@@ -1,0 +1,1 @@
+(easy-after-load :fetcher github :repo "anticomputer/easy-after-load")

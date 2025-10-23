@@ -1,0 +1,3 @@
+(totp
+ :fetcher github
+ :repo "anticomputer/emacs-totp")

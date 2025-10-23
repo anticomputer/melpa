@@ -1,0 +1,3 @@
+(jedi-core :fetcher github
+           :repo "anticomputer/emacs-jedi"
+           :files ("jedi-core.el" "jediepcserver.py" "Makefile" "setup.py"))

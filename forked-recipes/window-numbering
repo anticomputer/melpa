@@ -1,0 +1,1 @@
+(window-numbering :fetcher github :repo "anticomputer/window-numbering.el")

@@ -1,0 +1,4 @@
+(tempel-collection
+ :repo "anticomputer/tempel-collection"
+ :fetcher github
+ :files (:defaults "templates"))

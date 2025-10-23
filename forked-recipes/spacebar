@@ -1,0 +1,3 @@
+(spacebar
+ :repo "anticomputer/spacebar"
+ :fetcher github)

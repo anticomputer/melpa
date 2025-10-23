@@ -1,0 +1,1 @@
+(flymake-elisp-config :fetcher github :repo "anticomputer/flymake-elisp-config")

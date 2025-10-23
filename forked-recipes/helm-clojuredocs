@@ -1,0 +1,1 @@
+(helm-clojuredocs :repo "anticomputer/helm-clojuredocs" :fetcher github)

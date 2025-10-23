@@ -1,0 +1,1 @@
+(sixcolors-mode :repo "anticomputer/sixcolors-mode" :fetcher github)

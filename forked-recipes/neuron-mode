@@ -1,0 +1,1 @@
+(neuron-mode :fetcher github :repo "anticomputer/neuron-mode")

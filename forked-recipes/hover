@@ -1,0 +1,1 @@
+(hover :repo "anticomputer/hover.el" :fetcher github)

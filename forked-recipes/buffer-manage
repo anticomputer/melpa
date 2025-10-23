@@ -1,0 +1,1 @@
+(buffer-manage :fetcher github :repo "anticomputer/buffer-manage")

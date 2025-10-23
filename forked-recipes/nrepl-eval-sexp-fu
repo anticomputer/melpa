@@ -1,0 +1,1 @@
+(nrepl-eval-sexp-fu :fetcher github :repo "anticomputer/nrepl-eval-sexp-fu")

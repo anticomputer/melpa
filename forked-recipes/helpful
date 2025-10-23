@@ -1,0 +1,1 @@
+(helpful :repo "anticomputer/helpful" :fetcher github)

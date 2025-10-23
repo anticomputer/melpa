@@ -1,0 +1,1 @@
+(scrollable-quick-peek :repo "anticomputer/scrollable-quick-peek" :fetcher github)

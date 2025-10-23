@@ -1,0 +1,1 @@
+(helm-spaces :repo "anticomputer/helm-spaces" :fetcher github)

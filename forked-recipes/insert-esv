@@ -1,0 +1,1 @@
+(insert-esv :fetcher github :repo "anticomputer/insert-esv")

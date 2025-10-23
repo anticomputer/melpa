@@ -1,0 +1,3 @@
+(org-modern
+ :repo "anticomputer/org-modern"
+ :fetcher github)

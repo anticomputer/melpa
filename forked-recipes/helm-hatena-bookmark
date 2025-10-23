@@ -1,0 +1,1 @@
+(helm-hatena-bookmark :repo "anticomputer/emacs-helm-hatena-bookmark" :fetcher github)

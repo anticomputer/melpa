@@ -1,0 +1,1 @@
+(blamer :repo "anticomputer/blamer.el" :fetcher github)

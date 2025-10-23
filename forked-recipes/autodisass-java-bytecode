@@ -1,0 +1,1 @@
+(autodisass-java-bytecode :fetcher github :repo "anticomputer/autodisass-java-bytecode")

@@ -1,0 +1,4 @@
+(gams-ac
+ :repo "anticomputer/gams-ac"
+ :fetcher github
+)

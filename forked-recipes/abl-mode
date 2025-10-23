@@ -1,0 +1,1 @@
+(abl-mode :fetcher github :repo "anticomputer/abl-mode")

@@ -1,0 +1,3 @@
+(persist-state
+ :fetcher codeberg
+ :repo "anticomputer/emacs-persist-state")

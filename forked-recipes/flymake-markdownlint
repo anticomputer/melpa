@@ -1,0 +1,1 @@
+(flymake-markdownlint :fetcher codeberg :repo "anticomputer/flymake-markdownlint")

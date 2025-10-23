@@ -1,0 +1,4 @@
+(dircmp
+ :fetcher github
+ :repo "anticomputer/dircmp-mode"
+ :files ("*.el" "*.sh"))

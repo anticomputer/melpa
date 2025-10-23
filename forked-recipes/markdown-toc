@@ -1,0 +1,2 @@
+(markdown-toc :fetcher github
+              :repo "anticomputer/markdown-toc")

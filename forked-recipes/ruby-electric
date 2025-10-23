@@ -1,0 +1,1 @@
+(ruby-electric :fetcher github :repo "anticomputer/elisp-ruby-electric")

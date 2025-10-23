@@ -1,0 +1,2 @@
+(prometheus-mode :repo "anticomputer/prometheus-mode" :fetcher gitlab)
+

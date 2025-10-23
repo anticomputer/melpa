@@ -1,0 +1,2 @@
+(all-the-icons-completion :repo "anticomputer/all-the-icons-completion"
+                   :fetcher github)

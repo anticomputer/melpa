@@ -1,0 +1,1 @@
+(mix :fetcher github :repo "anticomputer/mix.el")

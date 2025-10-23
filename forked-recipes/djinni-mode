@@ -1,0 +1,2 @@
+(djinni-mode :repo "anticomputer/djinni-mode"
+             :fetcher github)

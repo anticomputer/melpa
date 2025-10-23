@@ -1,0 +1,1 @@
+(dired-atool :repo "anticomputer/dired-atool" :fetcher github)

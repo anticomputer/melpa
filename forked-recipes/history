@@ -1,0 +1,5 @@
+(history
+ :fetcher github
+ :repo "anticomputer/history"
+ :files (:defaults ("images" "images/*.xpm" "images/*.png")))
+

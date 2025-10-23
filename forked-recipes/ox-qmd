@@ -1,0 +1,1 @@
+(ox-qmd :fetcher github :repo "anticomputer/ox-qmd")

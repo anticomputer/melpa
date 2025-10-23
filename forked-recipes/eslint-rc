@@ -1,0 +1,2 @@
+(eslint-rc :repo "anticomputer/eslint-rc-emacs" :fetcher github)
+

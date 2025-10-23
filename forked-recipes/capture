@@ -1,0 +1,4 @@
+(capture
+ :fetcher github
+ :repo "anticomputer/capture.el"
+ :files ("src/*.el"))

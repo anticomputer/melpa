@@ -1,0 +1,3 @@
+(tmux-pane
+  :fetcher github
+  :repo "anticomputer/emacs-tmux-pane")

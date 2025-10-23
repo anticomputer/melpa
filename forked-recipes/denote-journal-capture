@@ -1,0 +1,3 @@
+(denote-journal-capture
+ :fetcher sourcehut
+ :repo "anticomputer/denote-journal-capture")

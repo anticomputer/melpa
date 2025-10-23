@@ -1,0 +1,1 @@
+(robe :repo "anticomputer/robe" :fetcher github :files ("*robe.el" "lib"))

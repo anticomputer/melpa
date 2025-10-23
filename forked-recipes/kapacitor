@@ -1,0 +1,1 @@
+(kapacitor :repo "anticomputer/kapacitor-el" :fetcher github)

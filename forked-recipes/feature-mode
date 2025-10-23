@@ -1,0 +1,4 @@
+(feature-mode
+ :fetcher github
+ :repo "anticomputer/cucumber.el"
+ :files (:defaults "gherkin-languages.json" "snippets" "support"))

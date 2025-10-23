@@ -1,0 +1,2 @@
+(dime :files ("dime*.el")
+      :fetcher github :repo "anticomputer/dylan-emacs-support")

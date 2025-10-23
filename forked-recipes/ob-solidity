@@ -1,0 +1,1 @@
+(ob-solidity :fetcher github :repo "anticomputer/ob-solidity")

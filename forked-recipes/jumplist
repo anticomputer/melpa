@@ -1,0 +1,1 @@
+(jumplist :repo "anticomputer/jumplist" :fetcher github)

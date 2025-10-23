@@ -1,0 +1,3 @@
+(jekyll-modes
+ :fetcher github
+ :repo "anticomputer/jekyll-modes")

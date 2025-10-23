@@ -1,0 +1,1 @@
+(json-par :repo "anticomputer/json-par" :fetcher github)

@@ -1,0 +1,3 @@
+(python-view-data
+ :repo "anticomputer/python-view-data"
+ :fetcher github)

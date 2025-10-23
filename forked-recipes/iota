@@ -1,0 +1,3 @@
+(iota
+ :fetcher sourcehut
+ :repo "anticomputer/iota.el")

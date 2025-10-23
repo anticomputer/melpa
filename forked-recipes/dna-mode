@@ -1,0 +1,1 @@
+(dna-mode :fetcher github :repo "anticomputer/dna-mode-el")

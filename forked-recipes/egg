@@ -1,0 +1,1 @@
+(egg :repo "anticomputer/egg" :fetcher github)

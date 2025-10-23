@@ -1,0 +1,4 @@
+(tabbar
+ :fetcher github
+ :repo "anticomputer/tabbar"
+ :files ("tabbar.el" "*.png"))

@@ -1,0 +1,4 @@
+(colorless-themes
+ :fetcher sourcehut
+ :repo "anticomputer/colorless-themes.el"
+ :files ("colorless-themes.el"))

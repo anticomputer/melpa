@@ -1,0 +1,1 @@
+(terraform-mode :repo "anticomputer/terraform-mode" :fetcher github)

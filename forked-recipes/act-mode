@@ -1,0 +1,3 @@
+(act-mode
+ :repo "anticomputer/act"
+ :fetcher github)

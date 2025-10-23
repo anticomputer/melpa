@@ -1,0 +1,2 @@
+(elisp-slime-nav :repo "anticomputer/elisp-slime-nav" :fetcher github)
+

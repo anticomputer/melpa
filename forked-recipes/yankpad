@@ -1,0 +1,1 @@
+(yankpad :repo "anticomputer/yankpad" :fetcher github)

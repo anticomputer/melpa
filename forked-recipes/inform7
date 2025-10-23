@@ -1,0 +1,1 @@
+(inform7 :fetcher github :repo "anticomputer/inform7-mode")

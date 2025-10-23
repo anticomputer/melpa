@@ -1,0 +1,1 @@
+(ham-mode :repo "anticomputer/ham-mode" :fetcher github)

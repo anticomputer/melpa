@@ -1,0 +1,1 @@
+(torrent-mode :fetcher github :repo "anticomputer/torrent-mode.el")

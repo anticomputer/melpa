@@ -1,0 +1,1 @@
+(makefile-executor :repo "anticomputer/makefile-executor.el" :fetcher github)

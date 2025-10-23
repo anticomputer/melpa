@@ -1,0 +1,3 @@
+(geben-helm-projectile
+ :repo "anticomputer/geben-helm-projectile"
+ :fetcher github)

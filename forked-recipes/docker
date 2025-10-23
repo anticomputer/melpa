@@ -1,0 +1,1 @@
+(docker :fetcher github :repo "anticomputer/docker.el")

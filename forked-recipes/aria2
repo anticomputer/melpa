@@ -1,0 +1,2 @@
+(aria2 :fetcher github
+       :repo "anticomputer/aria2")

@@ -1,0 +1,3 @@
+(project-persist :fetcher github
+                 :repo "anticomputer/project-persist"
+                 :files ("lib/*"))

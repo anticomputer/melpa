@@ -1,0 +1,1 @@
+(ox-tufte :fetcher github :repo "anticomputer/ox-tufte" :files (:defaults "src"))

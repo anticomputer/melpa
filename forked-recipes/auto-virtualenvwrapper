@@ -1,0 +1,3 @@
+(auto-virtualenvwrapper
+ :fetcher github
+ :repo "anticomputer/auto-virtualenvwrapper.el")

@@ -1,0 +1,3 @@
+(bookmark-in-project
+ :fetcher codeberg
+ :repo "anticomputer/emacs-bookmark-in-project")

@@ -1,0 +1,3 @@
+(flycheck-pkg-config
+ :repo "anticomputer/flycheck-pkg-config"
+ :fetcher github)

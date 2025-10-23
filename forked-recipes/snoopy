@@ -1,0 +1,2 @@
+(snoopy :fetcher github
+        :repo "anticomputer/snoopy-mode")

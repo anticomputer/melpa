@@ -1,0 +1,1 @@
+(all-the-icons-ibuffer :repo "anticomputer/all-the-icons-ibuffer" :fetcher github)

@@ -1,0 +1,4 @@
+(sxiv
+ :fetcher codeberg
+ :repo "anticomputer/sxiv.el"
+ :branch "dev")

@@ -1,0 +1,2 @@
+(company-flx :repo "anticomputer/company-flx"
+             :fetcher github)

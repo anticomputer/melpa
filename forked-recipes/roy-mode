@@ -1,0 +1,1 @@
+(roy-mode :repo "anticomputer/roy-mode" :fetcher github)

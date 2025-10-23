@@ -1,0 +1,1 @@
+(dired-collapse :fetcher github :repo "anticomputer/dired-hacks" :files ("dired-collapse.el"))

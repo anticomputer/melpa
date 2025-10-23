@@ -1,0 +1,1 @@
+(gitolite-clone :repo "anticomputer/gitolite-clone" :fetcher github)

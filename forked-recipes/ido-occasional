@@ -1,0 +1,2 @@
+(ido-occasional :repo "anticomputer/ido-occasional"
+                :fetcher github)

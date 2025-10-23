@@ -1,0 +1,5 @@
+(rgb
+ :fetcher gitlab
+ :repo "anticomputer/rgb.el"
+ :files (:defaults
+         (:exclude "el-mock.el" "ert-expectations.el")))

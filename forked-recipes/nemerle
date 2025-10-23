@@ -1,0 +1,1 @@
+(nemerle :fetcher github :repo "anticomputer/nemerle" :files ("misc/nemerle.el"))

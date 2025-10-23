@@ -1,0 +1,3 @@
+(exec-in-buffer
+  :fetcher github
+  :repo "anticomputer/exec-in-buffer")

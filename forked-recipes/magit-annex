@@ -1,0 +1,1 @@
+(magit-annex :fetcher github :repo "anticomputer/magit-annex")

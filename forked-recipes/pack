@@ -1,0 +1,1 @@
+(pack :repo "anticomputer/pack-el" :fetcher github)

@@ -1,0 +1,3 @@
+(sink
+ :fetcher github
+ :repo "anticomputer/sink.el")

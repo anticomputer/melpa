@@ -1,0 +1,1 @@
+(haxor-mode :repo "anticomputer/haxor-mode" :fetcher github)

@@ -1,0 +1,1 @@
+(flymake-shell :repo "anticomputer/flymake-shell" :fetcher github)

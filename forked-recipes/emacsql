@@ -1,0 +1,4 @@
+(emacsql
+ :fetcher github
+ :repo "anticomputer/emacsql"
+ :files (:defaults "README.md" "sqlite"))

@@ -1,0 +1,3 @@
+(lux-mode :repo "anticomputer/lux"
+          :fetcher github
+          :files ("emacs/lux-mode.el"))

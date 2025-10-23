@@ -1,0 +1,1 @@
+(wat-ts-mode :repo "anticomputer/wat-ts-mode" :fetcher github)

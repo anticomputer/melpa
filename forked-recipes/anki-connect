@@ -1,0 +1,1 @@
+(anki-connect :fetcher github :repo "anticomputer/anki-connect.el")

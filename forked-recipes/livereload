@@ -1,0 +1,3 @@
+(livereload :repo "anticomputer/emacs-livereload"
+	    :fetcher github
+	    :files (:defaults "livereload.js"))

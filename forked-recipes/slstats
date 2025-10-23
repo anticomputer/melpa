@@ -1,0 +1,1 @@
+(slstats :fetcher github :repo "anticomputer/slstats.el")

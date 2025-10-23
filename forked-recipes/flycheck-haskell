@@ -1,0 +1,4 @@
+(flycheck-haskell
+ :fetcher github
+ :repo "anticomputer/flycheck-haskell"
+ :files (:defaults "*.hs"))

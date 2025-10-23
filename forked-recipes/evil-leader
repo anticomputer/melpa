@@ -1,0 +1,2 @@
+(evil-leader :repo "anticomputer/evil-leader" :fetcher github)
+

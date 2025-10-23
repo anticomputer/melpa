@@ -1,0 +1,4 @@
+(org-category-capture
+ :fetcher github
+ :repo "anticomputer/org-project-capture"
+ :files ("org-category-capture*.el"))

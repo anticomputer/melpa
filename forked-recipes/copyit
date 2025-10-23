@@ -1,0 +1,3 @@
+(copyit :repo "anticomputer/emacs-copyit"
+        :fetcher github
+        :files ("copyit.el"))

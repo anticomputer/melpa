@@ -1,0 +1,1 @@
+(flycheck-mmark :repo "anticomputer/flycheck-mmark" :fetcher github)

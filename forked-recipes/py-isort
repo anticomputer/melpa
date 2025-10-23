@@ -1,0 +1,3 @@
+(py-isort
+ :repo "anticomputer/py-isort.el"
+ :fetcher github)

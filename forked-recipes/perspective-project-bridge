@@ -1,0 +1,2 @@
+(perspective-project-bridge :repo "anticomputer/perspective-project-bridge"
+                            :fetcher github)

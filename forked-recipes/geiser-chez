@@ -1,0 +1,4 @@
+(geiser-chez
+ :fetcher gitlab
+ :repo "anticomputer/chez"
+ :files (:defaults ("src" "src/*")))

@@ -1,0 +1,1 @@
+(bitbake :fetcher github :repo "anticomputer/bitbake-el")

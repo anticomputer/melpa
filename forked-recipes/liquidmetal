@@ -1,0 +1,1 @@
+(liquidmetal :repo "anticomputer/liquidmetal" :fetcher github)

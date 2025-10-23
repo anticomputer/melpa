@@ -1,0 +1,1 @@
+(vdiff-magit :repo "anticomputer/emacs-vdiff-magit" :fetcher github)

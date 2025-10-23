@@ -1,0 +1,1 @@
+(constant-theme :fetcher github :repo "anticomputer/emacs-constant-theme")

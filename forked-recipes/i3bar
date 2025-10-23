@@ -1,0 +1,1 @@
+(i3bar :fetcher github :repo "anticomputer/i3bar.el")

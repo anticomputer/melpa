@@ -1,0 +1,2 @@
+(chezmoi :fetcher github
+         :repo "anticomputer/chezmoi.el")

@@ -1,0 +1,2 @@
+(greek-polytonic :fetcher github
+                 :repo "anticomputer/greek-polytonic")

@@ -1,0 +1,2 @@
+(objed :repo "anticomputer/objed"
+       :fetcher github)

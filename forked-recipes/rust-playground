@@ -1,0 +1,1 @@
+(rust-playground :repo "anticomputer/rust-playground" :fetcher github)

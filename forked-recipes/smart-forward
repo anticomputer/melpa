@@ -1,0 +1,1 @@
+(smart-forward :repo "anticomputer/smart-forward.el" :fetcher github)

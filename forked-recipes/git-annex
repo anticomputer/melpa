@@ -1,0 +1,1 @@
+(git-annex :fetcher github :repo "anticomputer/git-annex-el")

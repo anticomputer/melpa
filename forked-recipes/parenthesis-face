@@ -1,0 +1,5 @@
+(parenthesis-face
+ :fetcher github
+ :repo "anticomputer/paren-face"
+ :files ("parenthesis-face.el")
+ :version-regexp "use-header-instead")

@@ -1,0 +1,3 @@
+(evenok
+ :fetcher codeberg
+ :repo "anticomputer/evenok")

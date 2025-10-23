@@ -1,0 +1,4 @@
+(ghub
+ :fetcher github
+ :repo "anticomputer/ghub"
+ :files ("lisp/*.el" "docs/*.texi" ".dir-locals.el"))

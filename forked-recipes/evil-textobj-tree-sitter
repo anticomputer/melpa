@@ -1,0 +1,5 @@
+(evil-textobj-tree-sitter
+  :fetcher github
+  :repo "anticomputer/evil-textobj-tree-sitter"
+  :files (:defaults "queries" "treesit-queries")
+  :old-names (evil-textobj-treesitter))

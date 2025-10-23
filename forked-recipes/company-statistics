@@ -1,0 +1,1 @@
+(company-statistics :repo "anticomputer/company-statistics" :fetcher github)

@@ -1,0 +1,1 @@
+(web :fetcher github :repo "anticomputer/emacs-web" :files ("web.el"))

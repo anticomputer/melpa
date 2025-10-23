@@ -1,0 +1,1 @@
+(latex-extra :repo "anticomputer/latex-extra" :fetcher github)

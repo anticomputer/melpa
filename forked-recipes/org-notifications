@@ -1,0 +1,4 @@
+(org-notifications
+ :fetcher github
+ :repo "anticomputer/org-notifications"
+ :files (:defaults "sounds"))

@@ -1,0 +1,2 @@
+(editorconfig-generate :fetcher github
+                       :repo "anticomputer/editorconfig-generate-el")

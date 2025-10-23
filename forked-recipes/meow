@@ -1,0 +1,2 @@
+(meow :repo "anticomputer/meow"
+      :fetcher github)

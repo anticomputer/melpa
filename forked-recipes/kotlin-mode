@@ -1,0 +1,2 @@
+(kotlin-mode :repo "anticomputer/kotlin-mode"
+             :fetcher github)

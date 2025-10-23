@@ -1,0 +1,1 @@
+(code-cells :fetcher github :repo "anticomputer/code-cells.el")

@@ -1,0 +1,1 @@
+(grapnel :fetcher github :repo "anticomputer/grapnel" :files ("grapnel.el"))

@@ -1,0 +1,4 @@
+(symbols-outline :repo "anticomputer/symbols-outline.el"
+                 :fetcher github
+                 :files (:defaults
+                         "icons"))

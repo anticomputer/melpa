@@ -1,0 +1,4 @@
+(ptemplate-templates
+ :fetcher github
+ :repo "anticomputer/ptemplate-templates"
+ :files ("*.el" "rsc"))

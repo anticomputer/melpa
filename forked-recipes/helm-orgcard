@@ -1,0 +1,3 @@
+(helm-orgcard :repo "anticomputer/helm-orgcard"
+              :fetcher github)
+

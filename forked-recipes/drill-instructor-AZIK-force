@@ -1,0 +1,2 @@
+(drill-instructor-AZIK-force :repo "anticomputer/drill-instructor-AZIK-force.el" 
+                             :fetcher github)

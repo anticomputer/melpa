@@ -1,0 +1,1 @@
+(evil-colemak-basics :repo "anticomputer/emacs-evil-colemak-basics" :fetcher github)

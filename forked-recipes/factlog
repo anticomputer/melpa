@@ -1,0 +1,1 @@
+(factlog :repo "anticomputer/factlog" :fetcher github)

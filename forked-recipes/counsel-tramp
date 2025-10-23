@@ -1,0 +1,3 @@
+(counsel-tramp
+ :repo "anticomputer/emacs-counsel-tramp"
+ :fetcher github)

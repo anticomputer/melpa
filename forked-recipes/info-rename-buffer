@@ -1,0 +1,1 @@
+(info-rename-buffer :fetcher github :repo "anticomputer/info-rename-buffer")

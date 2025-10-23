@@ -1,0 +1,1 @@
+(assess :fetcher github :repo "anticomputer/assess" :old-names (sisyphus))

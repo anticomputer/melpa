@@ -1,0 +1,2 @@
+(trashed :repo "anticomputer/trashed"
+         :fetcher github)

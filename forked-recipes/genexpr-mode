@@ -1,0 +1,1 @@
+(genexpr-mode :fetcher github :repo "anticomputer/genexpr-mode")

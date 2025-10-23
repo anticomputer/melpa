@@ -1,0 +1,2 @@
+(weibo :repo "anticomputer/weibo.emacs"
+       :fetcher github)

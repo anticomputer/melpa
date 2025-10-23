@@ -1,0 +1,3 @@
+(gvariant
+ :fetcher github
+ :repo "anticomputer/emacs-gvariant")

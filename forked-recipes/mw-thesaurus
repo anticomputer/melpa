@@ -1,0 +1,3 @@
+(mw-thesaurus
+ :repo "anticomputer/mw-thesaurus.el"
+ :fetcher github)

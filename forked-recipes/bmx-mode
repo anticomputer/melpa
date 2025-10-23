@@ -1,0 +1,2 @@
+(bmx-mode :repo "anticomputer/bmx-mode" :fetcher github)
+

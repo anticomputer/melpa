@@ -1,0 +1,3 @@
+(perject
+ :repo "anticomputer/perject"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(duplicate-thing :repo "anticomputer/duplicate-thing" :fetcher github)

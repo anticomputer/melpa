@@ -1,0 +1,1 @@
+(transfer-sh :fetcher gitlab :repo "anticomputer/transfer-sh.el")

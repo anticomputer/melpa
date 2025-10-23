@@ -1,0 +1,1 @@
+(flycheck-rust :repo "anticomputer/flycheck-rust" :fetcher github)

@@ -1,0 +1,2 @@
+(nodemcu-mode :repo "anticomputer/nodemcu-mode"
+              :fetcher github)

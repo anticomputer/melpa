@@ -1,0 +1,2 @@
+(ivy-explorer :repo "anticomputer/ivy-explorer"
+              :fetcher github)

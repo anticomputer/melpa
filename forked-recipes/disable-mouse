@@ -1,0 +1,1 @@
+(disable-mouse :fetcher github :repo "anticomputer/disable-mouse")

@@ -1,0 +1,2 @@
+(org-mru-clock :fetcher github
+               :repo "anticomputer/org-mru-clock")

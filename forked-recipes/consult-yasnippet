@@ -1,0 +1,2 @@
+(consult-yasnippet :fetcher github
+                   :repo "anticomputer/consult-yasnippet")

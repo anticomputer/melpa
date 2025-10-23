@@ -1,0 +1,1 @@
+(auto-minor-mode :repo "anticomputer/auto-minor-mode" :fetcher github)

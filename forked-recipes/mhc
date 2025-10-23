@@ -1,0 +1,4 @@
+(mhc
+ :fetcher github
+ :repo "anticomputer/mhc"
+ :files ("emacs/mhc*.el"))

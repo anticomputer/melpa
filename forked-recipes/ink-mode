@@ -1,0 +1,4 @@
+(ink-mode
+ :repo "anticomputer/ink-mode"
+ :fetcher github
+ :files (:defaults "snippets"))

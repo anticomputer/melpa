@@ -1,0 +1,4 @@
+(emms-player-mpv-jp-radios
+ :fetcher github
+ :repo "anticomputer/emms-player-mpv-jp-radios"
+ :files (:defaults "*/*.el"))

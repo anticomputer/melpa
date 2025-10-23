@@ -1,0 +1,1 @@
+(mqr :repo "anticomputer/multi-replace" :fetcher github)

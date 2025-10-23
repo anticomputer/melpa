@@ -1,0 +1,3 @@
+(kubectx-mode
+ :fetcher github
+ :repo "anticomputer/emacs-kubectx-mode")

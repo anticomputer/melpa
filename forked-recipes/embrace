@@ -1,0 +1,2 @@
+(embrace :repo "anticomputer/embrace.el"
+         :fetcher github)

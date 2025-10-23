@@ -1,0 +1,1 @@
+(spaces :repo "anticomputer/chumpy-windows" :fetcher github :files ("spaces.el"))

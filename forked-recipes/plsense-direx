@@ -1,0 +1,2 @@
+(plsense-direx :repo "anticomputer/plsense-direx"
+               :fetcher github)

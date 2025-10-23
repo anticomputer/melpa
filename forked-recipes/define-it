@@ -1,0 +1,1 @@
+(define-it :repo "anticomputer/define-it" :fetcher github)

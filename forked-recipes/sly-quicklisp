@@ -1,0 +1,5 @@
+(sly-quicklisp :fetcher github
+               :repo "anticomputer/sly-quicklisp"
+               :files (:defaults
+                       "*.lisp"
+                       "*.asd"))

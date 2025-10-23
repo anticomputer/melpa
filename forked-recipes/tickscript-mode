@@ -1,0 +1,1 @@
+(tickscript-mode :fetcher github :repo "anticomputer/tickscript-mode")

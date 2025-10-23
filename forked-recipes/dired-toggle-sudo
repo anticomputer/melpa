@@ -1,0 +1,3 @@
+(dired-toggle-sudo
+ :fetcher github
+ :repo "anticomputer/dired-toggle-sudo")

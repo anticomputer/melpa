@@ -1,0 +1,4 @@
+(projection
+ :fetcher github
+ :repo "anticomputer/projection"
+ :files (:defaults "src/*.el"))

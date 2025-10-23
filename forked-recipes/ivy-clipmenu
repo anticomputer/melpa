@@ -1,0 +1,3 @@
+(ivy-clipmenu
+ :repo "anticomputer/ivy-clipmenu.el"
+ :fetcher github)

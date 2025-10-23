@@ -1,0 +1,4 @@
+(ewal-doom-themes
+ :fetcher github
+ :repo "anticomputer/ewal"
+ :files ("doom-themes/*.el"))

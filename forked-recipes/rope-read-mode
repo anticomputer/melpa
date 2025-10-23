@@ -1,0 +1,1 @@
+(rope-read-mode :fetcher gitlab :repo "anticomputer/rope-read-mode")

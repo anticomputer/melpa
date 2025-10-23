@@ -1,0 +1,4 @@
+(750words
+ :fetcher github
+ :repo "anticomputer/750words-client"
+ :files ("750words.el"))

@@ -1,0 +1,1 @@
+(org-sliced-images :fetcher github :repo "anticomputer/org-sliced-images")

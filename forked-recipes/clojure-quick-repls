@@ -1,0 +1,3 @@
+(clojure-quick-repls
+ :repo "anticomputer/clojure-quick-repls"
+ :fetcher github)

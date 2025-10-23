@@ -1,0 +1,3 @@
+(info-buffer
+ :fetcher gitlab
+ :repo "anticomputer/info-buffer")

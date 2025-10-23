@@ -1,0 +1,2 @@
+(move-mode :repo "anticomputer/move-mode"
+           :fetcher github)

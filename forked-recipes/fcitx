@@ -1,0 +1,2 @@
+(fcitx :repo "anticomputer/fcitx.el"
+       :fetcher github)

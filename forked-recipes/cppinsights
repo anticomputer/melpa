@@ -1,0 +1,2 @@
+(cppinsights :fetcher github
+             :repo "anticomputer/cppinsights.el")

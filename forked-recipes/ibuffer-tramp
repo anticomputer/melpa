@@ -1,0 +1,1 @@
+(ibuffer-tramp :repo "anticomputer/ibuffer-tramp" :fetcher github)

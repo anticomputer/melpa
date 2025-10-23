@@ -1,0 +1,2 @@
+(git-assembler-mode :repo "anticomputer/git-assembler-mode.el"
+                    :fetcher gitlab)

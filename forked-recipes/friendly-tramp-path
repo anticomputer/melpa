@@ -1,0 +1,2 @@
+(friendly-tramp-path :repo "anticomputer/friendly-tramp-path"
+                     :fetcher github)

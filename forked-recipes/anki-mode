@@ -1,0 +1,2 @@
+(anki-mode :repo "anticomputer/anki-mode"
+           :fetcher github)

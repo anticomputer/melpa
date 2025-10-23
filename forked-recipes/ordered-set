@@ -1,0 +1,1 @@
+(ordered-set :fetcher github :repo "anticomputer/ordered-set.el")

@@ -1,0 +1,1 @@
+(cpanfile-mode :repo "anticomputer/cpanfile-mode" :fetcher github)

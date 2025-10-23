@@ -1,0 +1,4 @@
+(projection-multi-embark
+ :fetcher github
+ :repo "anticomputer/projection"
+ :files ("src/projection-multi-embark/projection-multi-embark*.el"))

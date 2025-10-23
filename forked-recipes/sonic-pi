@@ -1,0 +1,1 @@
+(sonic-pi :repo "anticomputer/sonic-pi.el" :fetcher github)

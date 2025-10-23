@@ -1,0 +1,3 @@
+(ivy-hydra :repo "anticomputer/swiper"
+           :fetcher github
+           :files ("ivy-hydra.el"))

@@ -1,0 +1,3 @@
+(qwen-chat-shell
+ :repo "anticomputer/qwen-chat-shell"
+ :fetcher github)

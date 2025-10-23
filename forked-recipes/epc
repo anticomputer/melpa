@@ -1,0 +1,4 @@
+(epc
+  :repo "anticomputer/emacs-epc"
+  :fetcher github
+  :files ("epc.el" "epcs.el"))

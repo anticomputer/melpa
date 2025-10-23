@@ -1,0 +1,1 @@
+(flymake-hadolint :repo "anticomputer/flymake-hadolint" :fetcher github)

@@ -1,0 +1,3 @@
+(github-elpa :fetcher github
+             :repo "anticomputer/github-elpa"
+             :files (:defaults "bin"))

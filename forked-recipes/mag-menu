@@ -1,0 +1,1 @@
+(mag-menu :repo "anticomputer/mag-menu" :fetcher github)

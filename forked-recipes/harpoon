@@ -1,0 +1,1 @@
+(harpoon :repo "anticomputer/harpoon.el" :fetcher github)

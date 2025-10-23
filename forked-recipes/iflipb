@@ -1,0 +1,1 @@
+(iflipb :repo "anticomputer/iflipb" :fetcher github)

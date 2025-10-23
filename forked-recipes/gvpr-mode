@@ -1,0 +1,4 @@
+(gvpr-mode
+ :fetcher github
+ :repo "anticomputer/gvpr-lib"
+ :files ("extra/*.el"))

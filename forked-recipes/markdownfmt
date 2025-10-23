@@ -1,0 +1,1 @@
+(markdownfmt :fetcher github :repo "anticomputer/emacs-markdownfmt")

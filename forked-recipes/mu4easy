@@ -1,0 +1,1 @@
+(mu4easy :repo "anticomputer/mu4easy" :fetcher github)

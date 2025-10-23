@@ -1,0 +1,2 @@
+(kuronami-theme :repo "anticomputer/kuronami"
+                :fetcher github)

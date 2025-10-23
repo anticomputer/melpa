@@ -1,0 +1,4 @@
+(sl
+ :fetcher github
+ :repo "anticomputer/sl.el"
+ :files (:defaults "*.txt"))

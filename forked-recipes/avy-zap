@@ -1,0 +1,2 @@
+(avy-zap :repo "anticomputer/avy-zap"
+         :fetcher github)

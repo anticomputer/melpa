@@ -1,0 +1,2 @@
+(devdocs-browser :fetcher github
+                 :repo "anticomputer/emacs-devdocs-browser")

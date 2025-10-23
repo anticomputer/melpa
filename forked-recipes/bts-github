@@ -1,0 +1,2 @@
+(bts-github :repo "anticomputer/emacs-bts-github"
+            :fetcher github)

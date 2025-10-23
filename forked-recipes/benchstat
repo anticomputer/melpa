@@ -1,0 +1,1 @@
+(benchstat :repo "anticomputer/benchstat.el" :fetcher github)

@@ -1,0 +1,3 @@
+(ac-html-angular :fetcher github
+                 :repo "anticomputer/ac-html-angular"
+                 :files (:defaults "html-stuff"))

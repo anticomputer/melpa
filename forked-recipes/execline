@@ -1,0 +1,1 @@
+(execline :fetcher gitlab :repo "anticomputer/emacs-execline")

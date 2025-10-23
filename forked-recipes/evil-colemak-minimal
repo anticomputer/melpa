@@ -1,0 +1,2 @@
+(evil-colemak-minimal :fetcher github
+                      :repo "anticomputer/evil-colemak-minimal")

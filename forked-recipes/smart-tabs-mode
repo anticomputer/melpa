@@ -1,0 +1,1 @@
+(smart-tabs-mode :fetcher github :repo "anticomputer/smarttabs")

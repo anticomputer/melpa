@@ -1,0 +1,1 @@
+(egalgo :repo "anticomputer/egalgo" :fetcher github)

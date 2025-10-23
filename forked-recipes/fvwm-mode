@@ -1,0 +1,1 @@
+(fvwm-mode :fetcher github :repo "anticomputer/fvwm-mode")

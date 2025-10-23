@@ -1,0 +1,1 @@
+(fringe-helper :fetcher github :repo "anticomputer/fringe-helper.el")

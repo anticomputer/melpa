@@ -1,0 +1,1 @@
+(grizzl :repo "anticomputer/grizzl" :fetcher github)

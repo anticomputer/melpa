@@ -1,0 +1,4 @@
+(elm-mode
+ :fetcher github
+ :repo "anticomputer/elm-mode"
+ :files (:defaults "elm.tags"))

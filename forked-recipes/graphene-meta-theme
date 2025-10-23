@@ -1,0 +1,2 @@
+(graphene-meta-theme :fetcher github
+                     :repo "anticomputer/graphene-meta-theme")

@@ -1,0 +1,1 @@
+(sniem :repo "anticomputer/sniem" :fetcher github)

@@ -1,0 +1,1 @@
+(creole :fetcher github :repo "anticomputer/elwikicreole")

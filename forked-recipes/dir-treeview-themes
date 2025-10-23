@@ -1,0 +1,4 @@
+(dir-treeview-themes
+ :repo "anticomputer/emacs-dir-treeview-themes"
+ :fetcher github
+ :files (:defaults "icons"))

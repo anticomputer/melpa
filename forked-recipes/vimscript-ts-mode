@@ -1,0 +1,1 @@
+(vimscript-ts-mode :repo "anticomputer/vimscript-ts-mode" :fetcher github)

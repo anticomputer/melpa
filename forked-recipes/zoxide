@@ -1,0 +1,3 @@
+(zoxide
+ :fetcher sourcehut
+ :repo "anticomputer/zoxide.el")

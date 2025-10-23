@@ -1,0 +1,2 @@
+(parinfer-rust-mode :repo "anticomputer/parinfer-rust-mode"
+                    :fetcher github)

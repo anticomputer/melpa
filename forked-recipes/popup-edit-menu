@@ -1,0 +1,1 @@
+(popup-edit-menu :repo "anticomputer/popup-edit-menu" :fetcher github)

@@ -1,0 +1,2 @@
+(jira-markup-mode :repo "anticomputer/jira-markup-mode"
+                  :fetcher github)

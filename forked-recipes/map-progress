@@ -1,0 +1,1 @@
+(map-progress :repo "anticomputer/map-progress" :fetcher github)

@@ -1,0 +1,3 @@
+(package-lint :fetcher github
+              :repo "anticomputer/package-lint"
+              :files (:defaults "data" (:exclude "*flymake.el")))

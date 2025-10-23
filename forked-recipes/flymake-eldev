@@ -1,0 +1,2 @@
+(flymake-eldev :repo "anticomputer/flymake-eldev"
+               :fetcher github)

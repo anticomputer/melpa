@@ -1,0 +1,1 @@
+(dynamic-fonts :repo "anticomputer/dynamic-fonts" :fetcher github)

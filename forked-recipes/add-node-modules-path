@@ -1,0 +1,1 @@
+(add-node-modules-path :repo "anticomputer/add-node-modules-path" :fetcher github)

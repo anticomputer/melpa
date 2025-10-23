@@ -1,0 +1,2 @@
+(org-download :repo "anticomputer/org-download"
+              :fetcher github)

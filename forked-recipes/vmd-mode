@@ -1,0 +1,1 @@
+(vmd-mode :repo "anticomputer/vmd-mode" :fetcher github)

@@ -1,0 +1,1 @@
+(playerctl :repo "anticomputer/playerctl.el" :fetcher github)

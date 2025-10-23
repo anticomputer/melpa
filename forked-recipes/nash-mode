@@ -1,0 +1,1 @@
+(nash-mode :fetcher github :repo "anticomputer/nash-mode.el")

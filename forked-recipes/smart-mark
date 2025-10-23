@@ -1,0 +1,1 @@
+(smart-mark :repo "anticomputer/smart-mark" :fetcher github)

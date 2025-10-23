@@ -1,0 +1,3 @@
+(fountain-mode :fetcher github
+               :repo "anticomputer/fountain-mode"
+               :files (:defaults "contrib/*"))

@@ -1,0 +1,5 @@
+(realgud-jdb
+ :fetcher github
+ :repo "anticomputer/realgud-jdb"
+ :files (:defaults
+         ("realgud-jdb" "realgud-jdb/*.el")))

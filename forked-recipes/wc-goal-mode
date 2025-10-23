@@ -1,0 +1,1 @@
+(wc-goal-mode :repo "anticomputer/wc-goal-mode" :fetcher github)

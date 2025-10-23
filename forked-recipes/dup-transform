@@ -1,0 +1,4 @@
+(dup-transform
+ :fetcher github
+ :repo "anticomputer/dup-transform.el"
+)

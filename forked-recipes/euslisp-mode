@@ -1,0 +1,1 @@
+(euslisp-mode :fetcher github :repo "anticomputer/euslisp-mode")

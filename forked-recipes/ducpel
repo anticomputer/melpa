@@ -1,0 +1,4 @@
+(ducpel
+ :fetcher github
+ :repo "anticomputer/ducpel"
+ :files ("*.el" "*.info" "dir" "levels"))

@@ -1,0 +1,1 @@
+(rpn-calc :fetcher github :repo "anticomputer/rpn-calc")

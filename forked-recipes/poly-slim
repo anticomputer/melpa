@@ -1,0 +1,3 @@
+(poly-slim
+ :fetcher github
+ :repo "anticomputer/poly-slim")

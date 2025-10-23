@@ -1,0 +1,3 @@
+(tempel
+ :repo "anticomputer/tempel"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(default-font-presets
+ :fetcher codeberg
+ :repo "anticomputer/emacs-default-font-presets")

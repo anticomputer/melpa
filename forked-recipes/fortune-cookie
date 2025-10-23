@@ -1,0 +1,2 @@
+(fortune-cookie :repo "anticomputer/fortune-cookie" :fetcher github)
+

@@ -1,0 +1,1 @@
+(one :fetcher github :repo "anticomputer/one.el")

@@ -1,0 +1,2 @@
+(ac-skk :repo "anticomputer/ac-skk.el"
+        :fetcher github)

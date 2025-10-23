@@ -1,0 +1,1 @@
+(eshell-outline :fetcher github :repo "anticomputer/eshell-outline")

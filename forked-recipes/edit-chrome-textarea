@@ -1,0 +1,1 @@
+(edit-chrome-textarea :fetcher github :repo "anticomputer/edit-chrome-textarea.el")

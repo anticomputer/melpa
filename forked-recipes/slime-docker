@@ -1,0 +1,3 @@
+(slime-docker :repo "anticomputer/slime-docker"
+              :fetcher github
+              :files (:defaults "bin" "resources"))

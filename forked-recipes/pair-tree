@@ -1,0 +1,1 @@
+(pair-tree :repo "anticomputer/pair-tree.el" :fetcher github)

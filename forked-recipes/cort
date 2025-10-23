@@ -1,0 +1,1 @@
+(cort :fetcher github :repo "anticomputer/cort.el")

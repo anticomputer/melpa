@@ -1,0 +1,1 @@
+(moe-theme :fetcher github :repo "anticomputer/moe-theme.el")

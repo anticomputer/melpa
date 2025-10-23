@@ -1,0 +1,2 @@
+(pt :repo "anticomputer/pt.el" :fetcher github)
+

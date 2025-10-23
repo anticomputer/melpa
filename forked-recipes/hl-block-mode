@@ -1,0 +1,3 @@
+(hl-block-mode
+ :fetcher codeberg
+ :repo "anticomputer/emacs-hl-block-mode")

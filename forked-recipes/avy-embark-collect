@@ -1,0 +1,3 @@
+(avy-embark-collect :repo "anticomputer/embark"
+                    :fetcher github
+                    :files ("avy-embark-collect.el"))

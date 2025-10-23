@@ -1,0 +1,3 @@
+(helm-rage :repo "anticomputer/helm-rage"
+              :fetcher github
+              :files (:defaults "meme"))

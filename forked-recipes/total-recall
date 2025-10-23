@@ -1,0 +1,3 @@
+(total-recall
+ :fetcher github
+ :repo "anticomputer/total-recall")

@@ -1,0 +1,2 @@
+(bar-cursor :repo "anticomputer/bar-cursor"
+:fetcher github)

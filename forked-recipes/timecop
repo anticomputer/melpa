@@ -1,0 +1,4 @@
+(timecop
+ :repo "anticomputer/emacs-datetime"
+ :fetcher github
+ :files ("timecop.el"))

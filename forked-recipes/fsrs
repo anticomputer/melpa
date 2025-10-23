@@ -1,0 +1,1 @@
+(fsrs :fetcher github :repo "anticomputer/lisp-fsrs")

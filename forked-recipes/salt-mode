@@ -1,0 +1,1 @@
+(salt-mode :repo "anticomputer/salt-mode" :fetcher github)

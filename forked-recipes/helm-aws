@@ -1,0 +1,1 @@
+(helm-aws :fetcher github :repo "anticomputer/helm-aws")

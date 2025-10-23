@@ -1,0 +1,3 @@
+(consult-compile-multi
+ :fetcher github :repo "anticomputer/compile-multi"
+ :files ("extensions/consult-compile-multi/*.el"))

@@ -1,0 +1,1 @@
+(heroku :repo "anticomputer/heroku.el" :fetcher github)

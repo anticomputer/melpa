@@ -1,0 +1,2 @@
+(haml-mode :repo "anticomputer/haml-mode" :fetcher github)
+

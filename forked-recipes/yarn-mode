@@ -1,0 +1,1 @@
+(yarn-mode :fetcher github :repo "anticomputer/yarn-mode")

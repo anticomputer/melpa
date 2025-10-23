@@ -1,0 +1,1 @@
+(currency-convert :fetcher github :repo "anticomputer/emacs-currency-convert")

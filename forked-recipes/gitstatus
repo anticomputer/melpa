@@ -1,0 +1,2 @@
+(gitstatus :repo "anticomputer/gitstatus-el"
+           :fetcher github)

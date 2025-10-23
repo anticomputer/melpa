@@ -1,0 +1,1 @@
+(flycheck-grammarly :repo "anticomputer/flycheck-grammarly" :fetcher github)

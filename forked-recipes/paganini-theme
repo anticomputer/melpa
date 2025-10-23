@@ -1,0 +1,1 @@
+(paganini-theme :repo "anticomputer/paganini" :fetcher github)

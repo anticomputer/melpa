@@ -1,0 +1,3 @@
+(rime :repo "anticomputer/emacs-rime"
+      :files (:defaults "lib.c" "Makefile")
+      :fetcher github)

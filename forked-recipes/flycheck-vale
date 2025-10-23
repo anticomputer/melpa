@@ -1,0 +1,2 @@
+(flycheck-vale :fetcher github
+               :repo "anticomputer/flycheck-vale")

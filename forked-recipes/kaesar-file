@@ -1,0 +1,5 @@
+(kaesar-file
+ :fetcher github
+ :repo "anticomputer/Emacs-kaesar"
+ :files ("kaesar-file.el")
+ :version-regexp "file-%v")

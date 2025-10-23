@@ -1,0 +1,2 @@
+(persp-mode-projectile-bridge :repo "anticomputer/persp-mode-projectile-bridge.el"
+                              :fetcher github)

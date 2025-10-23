@@ -1,0 +1,3 @@
+(counsel-at-point
+ :fetcher codeberg
+ :repo "anticomputer/emacs-counsel-at-point")

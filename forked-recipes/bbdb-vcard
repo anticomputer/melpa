@@ -1,0 +1,2 @@
+(bbdb-vcard :repo "anticomputer/bbdb-vcard"
+            :fetcher github)

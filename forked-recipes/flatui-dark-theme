@@ -1,0 +1,1 @@
+(flatui-dark-theme :repo "anticomputer/flatui-dark-theme" :fetcher github)

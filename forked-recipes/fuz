@@ -1,0 +1,4 @@
+(fuz
+ :fetcher github
+ :repo "anticomputer/fuz.el"
+ :files ("fuz*.el" "Cargo.toml" "Cargo.lock" "src"))

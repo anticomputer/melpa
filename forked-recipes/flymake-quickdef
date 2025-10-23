@@ -1,0 +1,1 @@
+(flymake-quickdef :fetcher github :repo "anticomputer/flymake-quickdef")

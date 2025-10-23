@@ -1,0 +1,3 @@
+(kanagawa-themes
+ :fetcher github
+ :repo "anticomputer/kanagawa-emacs")

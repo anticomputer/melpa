@@ -1,0 +1,2 @@
+(blitzmax-mode :repo "anticomputer/blitzmax-mode"
+               :fetcher github)

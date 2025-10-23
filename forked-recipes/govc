@@ -1,0 +1,1 @@
+(govc :fetcher github :repo "anticomputer/govmomi" :files ("govc/emacs/*.el"))

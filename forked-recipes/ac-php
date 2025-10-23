@@ -1,0 +1,1 @@
+(ac-php :repo "anticomputer/ac-php" :fetcher github :files ("ac-php.el" ))

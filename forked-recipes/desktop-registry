@@ -1,0 +1,1 @@
+(desktop-registry :fetcher github :repo "anticomputer/desktop-registry")

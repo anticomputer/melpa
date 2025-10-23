@@ -1,0 +1,3 @@
+(auto-auto-indent
+ :repo "anticomputer/auto-auto-indent"
+ :fetcher github)

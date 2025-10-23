@@ -1,0 +1,3 @@
+(tree-sitter-indent
+ :fetcher codeberg
+ :repo "anticomputer/tree-sitter-indent.el")

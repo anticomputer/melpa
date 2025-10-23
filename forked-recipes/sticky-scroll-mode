@@ -1,0 +1,1 @@
+(sticky-scroll-mode :fetcher github :repo "anticomputer/sticky-scroll-mode")

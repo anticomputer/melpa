@@ -1,0 +1,2 @@
+(edit-server :repo "anticomputer/emacs_chrome" :fetcher github :files
+     ("servers/edit-server.el"))

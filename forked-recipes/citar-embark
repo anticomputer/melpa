@@ -1,0 +1,3 @@
+(citar-embark :repo "anticomputer/citar"
+       :fetcher github
+       :files ("citar-embark.el"))

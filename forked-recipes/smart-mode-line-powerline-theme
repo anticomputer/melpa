@@ -1,0 +1,3 @@
+(smart-mode-line-powerline-theme :repo "anticomputer/smart-mode-line"
+                                 :fetcher github
+                                 :files ("themes/*.el"))

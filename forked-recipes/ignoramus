@@ -1,0 +1,1 @@
+(ignoramus :repo "anticomputer/ignoramus" :fetcher github)

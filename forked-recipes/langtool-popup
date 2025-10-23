@@ -1,0 +1,5 @@
+(langtool-popup
+ :fetcher github
+ :repo "anticomputer/Emacs-langtool"
+ :files ("langtool-popup.el")
+ :version-regexp "popup-%v")

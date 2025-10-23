@@ -1,0 +1,2 @@
+(org-msg :repo "anticomputer/org-msg" :fetcher github)
+

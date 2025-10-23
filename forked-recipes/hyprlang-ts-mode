@@ -1,0 +1,3 @@
+(hyprlang-ts-mode
+ :fetcher github
+ :repo "anticomputer/hyprlang-ts-mode")

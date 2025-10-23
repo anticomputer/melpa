@@ -1,0 +1,1 @@
+(encrypt-region :repo "anticomputer/encrypt-region" :fetcher github)

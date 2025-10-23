@@ -1,0 +1,1 @@
+(fold-this :fetcher github :repo "anticomputer/fold-this.el")

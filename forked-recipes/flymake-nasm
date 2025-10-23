@@ -1,0 +1,3 @@
+(flymake-nasm
+ :fetcher github
+ :repo "anticomputer/flymake-nasm")

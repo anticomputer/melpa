@@ -1,0 +1,1 @@
+(cpp-auto-include :fetcher github :repo "anticomputer/cpp-auto-include")

@@ -1,0 +1,2 @@
+(lsp-sourcekit :repo "anticomputer/lsp-sourcekit"
+               :fetcher github)

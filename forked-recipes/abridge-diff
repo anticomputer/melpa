@@ -1,0 +1,1 @@
+(abridge-diff :repo "anticomputer/abridge-diff" :fetcher github)

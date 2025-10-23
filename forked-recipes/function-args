@@ -1,0 +1,2 @@
+(function-args :repo "anticomputer/function-args"
+               :fetcher github)

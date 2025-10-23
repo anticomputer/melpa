@@ -1,0 +1,3 @@
+(almost-mono-themes
+ :repo "anticomputer/almost-mono-themes"
+ :fetcher github)

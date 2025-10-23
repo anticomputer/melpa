@@ -1,0 +1,1 @@
+(recursive-narrow :fetcher github :repo "anticomputer/recursive-narrow")

@@ -1,0 +1,1 @@
+(commander :repo "anticomputer/commander.el" :fetcher github)

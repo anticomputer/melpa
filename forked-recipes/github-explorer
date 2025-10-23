@@ -1,0 +1,3 @@
+(github-explorer
+ :repo "anticomputer/github-explorer"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(literate-coffee-mode :fetcher github :repo "anticomputer/literate-coffee-mode")

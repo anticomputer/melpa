@@ -1,0 +1,3 @@
+(link :repo "anticomputer/dictionary-el"
+      :fetcher github
+      :files ("link.el"))

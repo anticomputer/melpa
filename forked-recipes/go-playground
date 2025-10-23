@@ -1,0 +1,1 @@
+(go-playground :repo "anticomputer/go-playground" :fetcher github)

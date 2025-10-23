@@ -1,0 +1,2 @@
+(helm-make :repo "anticomputer/helm-make"
+           :fetcher github)

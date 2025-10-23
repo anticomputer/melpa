@@ -1,0 +1,1 @@
+(ob-lfe :repo "anticomputer/ob-lfe" :fetcher github)

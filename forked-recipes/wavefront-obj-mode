@@ -1,0 +1,1 @@
+(wavefront-obj-mode :fetcher github :repo "anticomputer/wavefront-obj-mode")

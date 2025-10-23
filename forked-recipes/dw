@@ -1,0 +1,1 @@
+(dw :fetcher github :repo "anticomputer/dw-passphrase-generator")

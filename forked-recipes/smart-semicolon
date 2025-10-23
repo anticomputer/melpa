@@ -1,0 +1,1 @@
+(smart-semicolon :repo "anticomputer/smart-semicolon" :fetcher github)

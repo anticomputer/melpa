@@ -1,0 +1,3 @@
+(live-code-talks
+ :fetcher github
+ :repo "anticomputer/live-code-talks")

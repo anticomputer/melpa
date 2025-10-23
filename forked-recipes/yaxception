@@ -1,0 +1,2 @@
+(yaxception :repo "anticomputer/yaxception"
+            :fetcher github)

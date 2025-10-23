@@ -1,0 +1,4 @@
+(lua-mode
+ :repo "anticomputer/lua-mode"
+ :fetcher github
+ :files (:defaults (:exclude "init-tryout.el")))

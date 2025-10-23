@@ -1,0 +1,2 @@
+(sass-mode :repo "anticomputer/sass-mode" :fetcher github)
+

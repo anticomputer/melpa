@@ -1,0 +1,1 @@
+(pacdiff :fetcher github :repo "anticomputer/pacdiff.el")

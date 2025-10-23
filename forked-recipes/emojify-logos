@@ -1,0 +1,1 @@
+(emojify-logos :fetcher github :repo "anticomputer/emojify-logos" :files (:defaults "logos"))

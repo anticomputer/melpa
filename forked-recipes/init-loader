@@ -1,0 +1,4 @@
+(init-loader
+ :repo "anticomputer/init-loader"
+ :fetcher github
+ :files ("init-loader.el"))

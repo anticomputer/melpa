@@ -1,0 +1,2 @@
+(color-theme-sanityinc-tomorrow :repo "anticomputer/color-theme-sanityinc-tomorrow" :fetcher github)
+

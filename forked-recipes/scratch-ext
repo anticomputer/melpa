@@ -1,0 +1,1 @@
+(scratch-ext :fetcher github :repo "anticomputer/scratch-ext-el")

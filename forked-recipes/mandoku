@@ -1,0 +1,4 @@
+(mandoku
+ :fetcher github
+ :repo "anticomputer/mandoku"
+ :files (:defaults "lisp/*.org"))

@@ -1,0 +1,3 @@
+(svelte-mode
+ :fetcher github
+ :repo "anticomputer/svelte-mode")

@@ -1,0 +1,1 @@
+(zathura :fetcher codeberg :repo "anticomputer/zathura.el")

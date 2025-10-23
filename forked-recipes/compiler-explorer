@@ -1,0 +1,2 @@
+(compiler-explorer :fetcher github
+                   :repo "anticomputer/compiler-explorer.el")

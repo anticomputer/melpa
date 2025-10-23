@@ -1,0 +1,1 @@
+(org-clock-split :repo "anticomputer/org-clock-split" :fetcher github)

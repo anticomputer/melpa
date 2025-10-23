@@ -1,0 +1,2 @@
+(smyx-theme :fetcher github
+            :repo "anticomputer/smyx")

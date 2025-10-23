@@ -1,0 +1,1 @@
+(test-simple :fetcher github :repo "anticomputer/emacs-test-simple")

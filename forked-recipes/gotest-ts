@@ -1,0 +1,1 @@
+(gotest-ts :fetcher github :repo "anticomputer/gotest-ts.el")

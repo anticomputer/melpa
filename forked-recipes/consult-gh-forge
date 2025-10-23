@@ -1,0 +1,4 @@
+(consult-gh-forge
+ :fetcher github
+ :repo "anticomputer/consult-gh"
+ :files ("consult-gh-forge.el"))

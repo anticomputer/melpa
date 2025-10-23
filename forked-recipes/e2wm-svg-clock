@@ -1,0 +1,2 @@
+(e2wm-svg-clock :repo "anticomputer/e2wm-svg-clock.el"
+                :fetcher github)

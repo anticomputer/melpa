@@ -1,0 +1,4 @@
+(insert-kaomoji
+ :fetcher sourcehut
+ :repo "anticomputer/insert-kaomoji"
+ :files (:defaults "KAOMOJIS"))

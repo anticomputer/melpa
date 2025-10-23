@@ -1,0 +1,1 @@
+(remark-mode :fetcher github :repo "anticomputer/remark-mode.el" :files (:defaults "remark.html" "server.js"))

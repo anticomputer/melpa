@@ -1,0 +1,3 @@
+(forest-blue-theme
+ :fetcher github
+ :repo "anticomputer/forest-blue-emacs")

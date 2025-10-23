@@ -1,0 +1,1 @@
+(snow :fetcher github :repo "anticomputer/snow.el")

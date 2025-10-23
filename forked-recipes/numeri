@@ -1,0 +1,3 @@
+(numeri
+ :fetcher github
+ :repo "anticomputer/numeri")

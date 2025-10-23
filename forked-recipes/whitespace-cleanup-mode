@@ -1,0 +1,1 @@
+(whitespace-cleanup-mode :fetcher github :repo "anticomputer/whitespace-cleanup-mode")

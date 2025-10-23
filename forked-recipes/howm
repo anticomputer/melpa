@@ -1,0 +1,3 @@
+(howm
+ :fetcher github
+ :repo "anticomputer/howm")

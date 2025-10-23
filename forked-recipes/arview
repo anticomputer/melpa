@@ -1,0 +1,1 @@
+(arview :repo "anticomputer/arview" :fetcher github)

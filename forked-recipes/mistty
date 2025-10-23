@@ -1,0 +1,2 @@
+(mistty :fetcher github
+        :repo "anticomputer/mistty")

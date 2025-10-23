@@ -1,0 +1,2 @@
+(switch-buffer-functions :fetcher github
+                         :repo "anticomputer/switch-buffer-functions-el")

@@ -1,0 +1,1 @@
+(doxy-graph-mode :repo "anticomputer/doxy-graph-mode" :fetcher github)

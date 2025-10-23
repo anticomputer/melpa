@@ -1,0 +1,3 @@
+(highlight-parentheses
+ :fetcher sourcehut
+ :repo "anticomputer/highlight-parentheses.el")

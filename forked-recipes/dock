@@ -1,0 +1,3 @@
+(dock
+ :fetcher github
+ :repo "anticomputer/dock.el")

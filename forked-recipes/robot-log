@@ -1,0 +1,3 @@
+(robot-log
+ :fetcher sourcehut
+ :repo "anticomputer/emacs-robot-log")

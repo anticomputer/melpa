@@ -1,0 +1,1 @@
+(lice :fetcher github :repo "anticomputer/lice-el" :files ("*.el" "template"))

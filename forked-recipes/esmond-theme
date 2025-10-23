@@ -1,0 +1,2 @@
+(esmond-theme :repo "anticomputer/esmond-theme"
+              :fetcher github)

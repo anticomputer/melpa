@@ -1,0 +1,4 @@
+(ewal-evil-cursors
+ :fetcher github
+ :repo "anticomputer/ewal"
+ :files ("evil-cursors/*.el"))

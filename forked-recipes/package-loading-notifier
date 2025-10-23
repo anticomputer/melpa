@@ -1,0 +1,1 @@
+(package-loading-notifier :fetcher github :repo "anticomputer/package-loading-notifier")

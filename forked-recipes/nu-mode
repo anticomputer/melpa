@@ -1,0 +1,4 @@
+(nu-mode
+ :fetcher github
+ :repo "anticomputer/emacs-nu"
+ :files ("nu-mode/nu-*.el" "doc/nu-mode.info"))

@@ -1,0 +1,1 @@
+(org-mpv-notes :repo "anticomputer/org-mpv-notes" :fetcher github)

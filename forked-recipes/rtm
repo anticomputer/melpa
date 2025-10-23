@@ -1,0 +1,1 @@
+(rtm :repo "anticomputer/emacs-rtm" :fetcher github)

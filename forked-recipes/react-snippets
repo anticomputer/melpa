@@ -1,0 +1,4 @@
+(react-snippets
+ :fetcher github
+ :repo "anticomputer/react-snippets.el"
+ :files ("*.el" "snippets"))

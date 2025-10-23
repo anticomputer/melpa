@@ -1,0 +1,1 @@
+(time-block :fetcher sourcehut :repo "anticomputer/time-block-command")

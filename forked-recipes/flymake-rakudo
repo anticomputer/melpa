@@ -1,0 +1,1 @@
+(flymake-rakudo :fetcher github :repo "anticomputer/flymake-rakudo")

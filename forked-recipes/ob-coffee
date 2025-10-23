@@ -1,0 +1,3 @@
+(ob-coffee
+ :fetcher github :repo "anticomputer/ob-coffee"
+ :files (:defaults "repl.js"))

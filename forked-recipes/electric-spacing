@@ -1,0 +1,4 @@
+(electric-spacing
+ :fetcher github
+ :repo "anticomputer/electric-spacing"
+ :old-names (smart-operator))

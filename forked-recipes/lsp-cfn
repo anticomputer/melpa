@@ -1,0 +1,4 @@
+(lsp-cfn
+ :repo "anticomputer/lsp-cfn.el"
+ :fetcher github
+ :files (:defaults "snippets")))

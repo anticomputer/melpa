@@ -1,0 +1,1 @@
+(minimal-session-saver :repo "anticomputer/minimal-session-saver" :fetcher github)

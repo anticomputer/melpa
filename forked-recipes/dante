@@ -1,0 +1,2 @@
+(dante :repo "anticomputer/dante"
+       :fetcher github)

@@ -1,0 +1,1 @@
+(lsp-jedi :repo "anticomputer/lsp-jedi" :fetcher github )

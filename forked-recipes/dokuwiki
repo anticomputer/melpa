@@ -1,0 +1,3 @@
+(dokuwiki
+ :fetcher github
+ :repo "anticomputer/emacs-dokuwiki")

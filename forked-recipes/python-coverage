@@ -1,0 +1,3 @@
+(python-coverage
+ :fetcher github
+ :repo "anticomputer/emacs-python-coverage")

@@ -1,0 +1,3 @@
+(cern-ldap
+ :fetcher sourcehut
+ :repo "anticomputer/cern-ldap.el")

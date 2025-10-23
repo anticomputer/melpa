@@ -1,0 +1,5 @@
+(frimacs :repo "anticomputer/frimacs"
+         :fetcher github
+         :files ("*.el"
+                 ("data" "data/*.dat")
+                 (:exclude "frimacs-build-utils.el")))

@@ -1,0 +1,3 @@
+(consult-org-roam
+ :repo "anticomputer/consult-org-roam"
+ :fetcher github)

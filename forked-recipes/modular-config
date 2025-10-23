@@ -1,0 +1,1 @@
+(modular-config :fetcher github :repo "anticomputer/modular-config.el")

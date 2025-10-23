@@ -1,0 +1,3 @@
+(ido-complete-space-or-hyphen
+ :fetcher github
+ :repo "anticomputer/ido-complete-space-or-hyphen")

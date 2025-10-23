@@ -1,0 +1,2 @@
+(org-latex-impatient :repo "anticomputer/org-latex-impatient"
+                           :fetcher github)

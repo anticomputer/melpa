@@ -1,0 +1,1 @@
+(perlbrew :fetcher github :repo "anticomputer/perlbrew.el")

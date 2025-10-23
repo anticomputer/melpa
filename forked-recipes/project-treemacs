@@ -1,0 +1,1 @@
+(project-treemacs :repo "anticomputer/project-treemacs" :fetcher github)

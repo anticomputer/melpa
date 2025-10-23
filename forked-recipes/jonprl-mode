@@ -1,0 +1,4 @@
+(jonprl-mode
+ :fetcher github
+ :repo "anticomputer/jonprl-mode"
+ :files (:defaults "jonprl-icon.png"))

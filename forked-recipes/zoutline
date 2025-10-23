@@ -1,0 +1,2 @@
+(zoutline :repo "anticomputer/zoutline"
+          :fetcher github)

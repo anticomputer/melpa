@@ -1,0 +1,1 @@
+(buffer-wrap :repo "anticomputer/buffer-wrap" :fetcher github)

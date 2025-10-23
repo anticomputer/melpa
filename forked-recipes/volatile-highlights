@@ -1,0 +1,2 @@
+(volatile-highlights :repo "anticomputer/volatile-highlights.el" :fetcher github)
+

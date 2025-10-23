@@ -1,0 +1,4 @@
+(sclang-snippets
+ :fetcher github
+ :repo "anticomputer/sclang-snippets"
+ :files ("*.el" "snippets"))

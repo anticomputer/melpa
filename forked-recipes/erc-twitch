@@ -1,0 +1,2 @@
+
+(erc-twitch :repo "anticomputer/erc-twitch" :fetcher github)

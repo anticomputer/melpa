@@ -1,0 +1,4 @@
+(org-agenda-files-track
+ :fetcher sourcehut
+ :repo "anticomputer/org-agenda-files-track"
+ :files ("org-agenda-files-track.el"))

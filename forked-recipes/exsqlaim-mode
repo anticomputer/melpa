@@ -1,0 +1,3 @@
+(exsqlaim-mode
+ :repo "anticomputer/exsqlaim-mode"
+ :fetcher github)

@@ -1,0 +1,4 @@
+(flyspell-correct :repo "anticomputer/flyspell-correct"
+                  :fetcher github
+                  :files ("flyspell-correct.el"
+                          "flyspell-correct-ido.el"))

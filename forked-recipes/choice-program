@@ -1,0 +1,1 @@
+(choice-program :fetcher github :repo "anticomputer/choice-program")

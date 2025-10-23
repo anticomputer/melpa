@@ -1,0 +1,1 @@
+(ac-ispell :fetcher github :repo "anticomputer/ac-ispell")

@@ -1,0 +1,1 @@
+(exercism :repo "anticomputer/exercism.el" :fetcher github)

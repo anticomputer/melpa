@@ -1,0 +1,1 @@
+(android-mode :fetcher codeberg :repo "anticomputer/android-mode")

@@ -1,0 +1,2 @@
+(occurx-mode :repo "anticomputer/occurx-mode"
+             :fetcher github)

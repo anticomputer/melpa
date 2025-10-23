@@ -1,0 +1,2 @@
+(helm-w32-launcher :fetcher github :repo "anticomputer/helm-w32-launcher"
+                   :files (:defaults "helper-src" "license.txt"))

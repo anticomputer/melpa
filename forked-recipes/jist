@@ -1,0 +1,1 @@
+(jist :fetcher github :repo "anticomputer/jist.el")

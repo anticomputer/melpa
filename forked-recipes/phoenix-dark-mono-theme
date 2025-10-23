@@ -1,0 +1,3 @@
+(phoenix-dark-mono-theme
+ :repo "anticomputer/phoenix-dark-mono"
+ :fetcher sourcehut)

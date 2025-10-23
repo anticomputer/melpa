@@ -1,0 +1,1 @@
+(alsamixer :fetcher codeberg :repo "anticomputer/alsamixer-el")

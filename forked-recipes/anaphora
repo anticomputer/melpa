@@ -1,0 +1,1 @@
+(anaphora :repo "anticomputer/anaphora" :fetcher github)

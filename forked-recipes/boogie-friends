@@ -1,0 +1,4 @@
+(boogie-friends
+ :fetcher github
+ :repo "anticomputer/boogie-friends"
+ :files ("emacs/*.el" "emacs/etc"))

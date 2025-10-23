@@ -1,0 +1,1 @@
+(evil-quickscope :repo "anticomputer/evil-quickscope" :fetcher github)

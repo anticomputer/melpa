@@ -1,0 +1,2 @@
+(company-qml :repo "anticomputer/company-qml"
+             :fetcher github)

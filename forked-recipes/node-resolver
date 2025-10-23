@@ -1,0 +1,1 @@
+(node-resolver :fetcher github :repo "anticomputer/node-resolver.el")

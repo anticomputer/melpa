@@ -1,0 +1,1 @@
+(comint-intercept :repo "anticomputer/comint-intercept" :fetcher github)

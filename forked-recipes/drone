@@ -1,0 +1,3 @@
+(drone
+ :repo "anticomputer/emacs-drone"
+ :fetcher github)

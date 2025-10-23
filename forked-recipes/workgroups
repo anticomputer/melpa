@@ -1,0 +1,1 @@
+(workgroups :repo "anticomputer/workgroups.el" :fetcher github)

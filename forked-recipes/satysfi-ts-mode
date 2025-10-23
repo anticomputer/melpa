@@ -1,0 +1,1 @@
+(satysfi-ts-mode :repo "anticomputer/satysfi-ts-mode" :fetcher github)

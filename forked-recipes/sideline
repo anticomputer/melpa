@@ -1,0 +1,1 @@
+(sideline :repo "anticomputer/sideline" :fetcher github)

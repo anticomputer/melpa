@@ -1,0 +1,4 @@
+(ember-yasnippets
+ :fetcher github
+ :repo "anticomputer/ember-yasnippets.el"
+ :files (:defaults "snippets"))

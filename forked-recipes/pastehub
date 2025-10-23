@@ -1,0 +1,4 @@
+(pastehub :repo "anticomputer/pastehub"
+	  :fetcher github
+	  :files ("client/emacs/pastehub.el"))
+

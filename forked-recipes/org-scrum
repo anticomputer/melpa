@@ -1,0 +1,2 @@
+(org-scrum :repo "anticomputer/emacs-scrum"
+           :fetcher github)

@@ -1,0 +1,4 @@
+(haskell-snippets
+ :fetcher github
+ :repo "anticomputer/haskell-snippets"
+ :files ("*.el" "snippets"))

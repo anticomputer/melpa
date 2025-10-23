@@ -1,0 +1,1 @@
+(wn-mode :repo "anticomputer/wn-mode" :fetcher github)

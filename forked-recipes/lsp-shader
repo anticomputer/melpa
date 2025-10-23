@@ -1,0 +1,1 @@
+(lsp-shader :repo "anticomputer/lsp-shader" :fetcher github)

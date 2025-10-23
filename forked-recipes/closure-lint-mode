@@ -1,0 +1,1 @@
+(closure-lint-mode :fetcher github :repo "anticomputer/closure-lint-mode")

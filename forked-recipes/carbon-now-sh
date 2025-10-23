@@ -1,0 +1,1 @@
+(carbon-now-sh :repo "anticomputer/carbon-now-sh.el" :fetcher github)

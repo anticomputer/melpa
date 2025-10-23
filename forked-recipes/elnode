@@ -1,0 +1,5 @@
+(elnode
+ :fetcher github
+ :repo "anticomputer/elnode"
+ :branch "melpa"
+ :files ("default*" "elnode*"))

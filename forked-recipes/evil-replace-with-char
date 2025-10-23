@@ -1,0 +1,1 @@
+(evil-replace-with-char :repo "anticomputer/evil-replace-with-char" :fetcher github)

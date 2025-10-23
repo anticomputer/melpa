@@ -1,0 +1,2 @@
+(nnhackernews :repo "anticomputer/nnhackernews"
+              :fetcher github)

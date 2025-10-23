@@ -1,0 +1,1 @@
+(obsidian-theme :repo "anticomputer/obsidian-theme" :fetcher github)

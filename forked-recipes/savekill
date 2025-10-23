@@ -1,0 +1,1 @@
+(savekill :repo "anticomputer/savekill" :fetcher github)

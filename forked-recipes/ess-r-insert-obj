@@ -1,0 +1,3 @@
+(ess-r-insert-obj
+ :repo "anticomputer/ess-r-insert-obj"
+ :fetcher github)

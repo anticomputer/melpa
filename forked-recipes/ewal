@@ -1,0 +1,4 @@
+(ewal
+ :fetcher github
+ :repo "anticomputer/ewal"
+ :files ("ewal.el" "palettes"))

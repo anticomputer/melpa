@@ -1,0 +1,1 @@
+(yoficator :fetcher gitlab :repo "anticomputer/yoficator" :files (:defaults "yo.txt"))

@@ -1,0 +1,1 @@
+(skype :fetcher github :repo "anticomputer/emacs-skype" :files("*.el" "*.py"))

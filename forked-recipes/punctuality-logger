@@ -1,0 +1,1 @@
+(punctuality-logger :repo "anticomputer/punctuality-logger" :fetcher gitlab)

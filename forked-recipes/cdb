@@ -1,0 +1,3 @@
+(cdb :repo "anticomputer/ddskk"
+     :fetcher github
+     :files ("cdb.el"))

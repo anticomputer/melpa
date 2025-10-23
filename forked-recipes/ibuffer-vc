@@ -1,0 +1,1 @@
+(ibuffer-vc :repo "anticomputer/ibuffer-vc" :fetcher github)

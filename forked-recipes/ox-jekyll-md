@@ -1,0 +1,2 @@
+(ox-jekyll-md :repo "anticomputer/ox-jekyll-md"
+              :fetcher github)

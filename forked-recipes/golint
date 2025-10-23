@@ -1,0 +1,4 @@
+(golint
+ :fetcher github
+ :repo "anticomputer/lint"
+ :files ("misc/emacs/*.el"))

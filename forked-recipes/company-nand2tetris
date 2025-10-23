@@ -1,0 +1,3 @@
+(company-nand2tetris :fetcher github
+                     :repo "anticomputer/nand2tetris.el"
+                     :files ("company-nand2tetris.el"))

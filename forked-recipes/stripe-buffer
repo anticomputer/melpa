@@ -1,0 +1,1 @@
+(stripe-buffer :fetcher github :repo "anticomputer/stripe-buffer")

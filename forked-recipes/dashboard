@@ -1,0 +1,3 @@
+(dashboard :fetcher github
+	   :repo "anticomputer/emacs-dashboard"
+	   :files (:defaults "banners"))

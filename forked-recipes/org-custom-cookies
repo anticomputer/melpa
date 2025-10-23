@@ -1,0 +1,2 @@
+(org-custom-cookies :repo "anticomputer/org-custom-cookies"
+                    :fetcher github)

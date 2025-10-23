@@ -1,0 +1,5 @@
+(impatient-mode
+ :fetcher github
+ :repo "anticomputer/impatient-mode"
+ :files ("*.html" "*.js" "impatient-mode.el"))
+

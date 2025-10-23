@@ -1,0 +1,1 @@
+(show-eol :repo "anticomputer/show-eol" :fetcher github)

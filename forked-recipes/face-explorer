@@ -1,0 +1,1 @@
+(face-explorer :repo "anticomputer/face-explorer" :fetcher github)

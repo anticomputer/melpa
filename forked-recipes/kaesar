@@ -1,0 +1,4 @@
+(kaesar
+ :fetcher github
+ :repo "anticomputer/Emacs-kaesar"
+ :files ("kaesar.el"))

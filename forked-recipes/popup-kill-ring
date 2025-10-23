@@ -1,0 +1,1 @@
+(popup-kill-ring :repo "anticomputer/popup-kill-ring" :fetcher github)

@@ -1,0 +1,1 @@
+(litanize :repo "anticomputer/litanizer" :fetcher github)

@@ -1,0 +1,4 @@
+(osx-location
+ :fetcher github
+ :repo "anticomputer/osx-location"
+ :files ("*.el" "EmacsLocationHelper"))

@@ -1,0 +1,1 @@
+(org-transclusion-http :fetcher sourcehut :repo "anticomputer/org-transclusion-http")

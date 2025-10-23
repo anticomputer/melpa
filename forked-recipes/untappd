@@ -1,0 +1,1 @@
+(untappd :repo "anticomputer/untappd.el" :fetcher github)

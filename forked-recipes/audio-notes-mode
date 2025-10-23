@@ -1,0 +1,1 @@
+(audio-notes-mode :repo "anticomputer/audio-notes-mode" :fetcher github)

@@ -1,0 +1,3 @@
+(color-theme-modern
+ :repo "anticomputer/replace-colorthemes"
+ :fetcher github)

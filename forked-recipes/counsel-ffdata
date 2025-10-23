@@ -1,0 +1,1 @@
+(counsel-ffdata :repo "anticomputer/counsel-ffdata" :fetcher github)

@@ -1,0 +1,1 @@
+(imenu-extra :fetcher github :repo "anticomputer/imenu-extra")

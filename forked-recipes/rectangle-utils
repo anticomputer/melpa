@@ -1,0 +1,1 @@
+(rectangle-utils :fetcher github :repo "anticomputer/rectangle-utils")

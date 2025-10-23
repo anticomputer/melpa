@@ -1,0 +1,4 @@
+(cubicle-mode
+ :fetcher github
+ :repo "anticomputer/cubicle"
+ :files ("emacs/cubicle-mode.el"))

@@ -1,0 +1,1 @@
+(pomm :repo "anticomputer/pomm.el" :fetcher github :files (:defaults "resources"))

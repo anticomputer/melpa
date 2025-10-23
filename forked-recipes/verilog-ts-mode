@@ -1,0 +1,1 @@
+(verilog-ts-mode :repo "anticomputer/verilog-ts-mode" :fetcher github)

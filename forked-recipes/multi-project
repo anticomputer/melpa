@@ -1,0 +1,1 @@
+(multi-project :fetcher github :repo "anticomputer/multi-project")

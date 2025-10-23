@@ -1,0 +1,1 @@
+(with-simulated-input :repo "anticomputer/with-simulated-input" :fetcher github)

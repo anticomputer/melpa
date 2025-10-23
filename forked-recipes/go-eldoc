@@ -1,0 +1,1 @@
+(go-eldoc :repo "anticomputer/go-eldoc" :fetcher github)

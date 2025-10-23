@@ -1,0 +1,1 @@
+(all-ext :repo "anticomputer/all-ext" :fetcher github)

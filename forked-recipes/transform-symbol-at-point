@@ -1,0 +1,1 @@
+(transform-symbol-at-point :fetcher github :repo "anticomputer/transform-symbol-at-point")

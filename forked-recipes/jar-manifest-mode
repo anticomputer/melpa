@@ -1,0 +1,1 @@
+(jar-manifest-mode :fetcher github :repo "anticomputer/jar-manifest-mode")

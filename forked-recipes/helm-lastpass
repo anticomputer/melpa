@@ -1,0 +1,1 @@
+(helm-lastpass :fetcher github :repo "anticomputer/helm-lastpass")

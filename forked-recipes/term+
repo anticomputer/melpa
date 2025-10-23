@@ -1,0 +1,1 @@
+(term+ :repo "anticomputer/term-plus-el" :fetcher github)

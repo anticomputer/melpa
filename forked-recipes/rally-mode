@@ -1,0 +1,3 @@
+(rally-mode :repo "anticomputer/rally-mode" :fetcher github)
+
+

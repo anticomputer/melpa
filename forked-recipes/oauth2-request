@@ -1,0 +1,1 @@
+(oauth2-request :fetcher github :repo "anticomputer/oauth2-request.el")

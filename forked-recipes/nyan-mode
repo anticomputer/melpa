@@ -1,0 +1,4 @@
+(nyan-mode
+ :fetcher github
+ :repo "anticomputer/nyan-mode"
+ :files ("nyan-mode.el" "img" "mus"))

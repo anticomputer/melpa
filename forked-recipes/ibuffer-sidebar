@@ -1,0 +1,1 @@
+(ibuffer-sidebar :fetcher github :repo "anticomputer/ibuffer-sidebar")

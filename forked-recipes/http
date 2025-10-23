@@ -1,0 +1,1 @@
+(http :fetcher github :repo "anticomputer/http.el")

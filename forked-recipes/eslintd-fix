@@ -1,0 +1,1 @@
+(eslintd-fix :fetcher github :repo "anticomputer/eslintd-fix")

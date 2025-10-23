@@ -1,0 +1,2 @@
+(smithers :fetcher gitlab :repo "anticomputer/smithers.el"
+          :files (:defaults "source.org"))

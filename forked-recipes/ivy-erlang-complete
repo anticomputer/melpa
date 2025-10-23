@@ -1,0 +1,2 @@
+(ivy-erlang-complete :repo "anticomputer/ivy-erlang-complete" :fetcher github
+                     :files (:defaults "bin"))

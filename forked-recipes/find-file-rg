@@ -1,0 +1,1 @@
+(find-file-rg :fetcher github :repo "anticomputer/emacs-find-file-rg")

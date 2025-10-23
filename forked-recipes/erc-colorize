@@ -1,0 +1,1 @@
+(erc-colorize :fetcher github :repo "anticomputer/erc-colorize")

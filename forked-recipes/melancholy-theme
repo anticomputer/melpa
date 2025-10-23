@@ -1,0 +1,1 @@
+(melancholy-theme :repo "anticomputer/melancholy-theme" :fetcher gitlab)

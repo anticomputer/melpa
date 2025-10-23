@@ -1,0 +1,3 @@
+(oblivion-theme
+ :fetcher codeberg
+ :repo "anticomputer/emacs-theme-oblivion")

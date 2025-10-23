@@ -1,0 +1,1 @@
+(browse-url-dwim :repo "anticomputer/browse-url-dwim" :fetcher github)

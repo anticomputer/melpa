@@ -1,0 +1,1 @@
+(inf-elixir :fetcher github :repo "anticomputer/inf-elixir")

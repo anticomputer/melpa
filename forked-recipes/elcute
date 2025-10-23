@@ -1,0 +1,4 @@
+(elcute
+ :fetcher codeberg
+ :repo "anticomputer/slurpbarf-elcute"
+ :files ("elcute.el"))

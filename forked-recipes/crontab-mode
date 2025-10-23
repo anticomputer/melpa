@@ -1,0 +1,1 @@
+(crontab-mode :repo "anticomputer/crontab-mode" :fetcher github)

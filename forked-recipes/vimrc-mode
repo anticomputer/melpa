@@ -1,0 +1,1 @@
+(vimrc-mode :fetcher github :repo "anticomputer/vimrc-mode")

@@ -1,0 +1,1 @@
+(omni-scratch :fetcher github :repo "anticomputer/omni-scratch.el")

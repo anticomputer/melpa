@@ -1,0 +1,1 @@
+(xwiki-mode :fetcher github :repo "anticomputer/xwiki-mode")

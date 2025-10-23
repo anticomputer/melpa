@@ -1,0 +1,3 @@
+(nerd-icons-dired
+ :repo "anticomputer/nerd-icons-dired"
+ :fetcher github)

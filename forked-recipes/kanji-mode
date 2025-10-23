@@ -1,0 +1,4 @@
+(kanji-mode
+ :fetcher github
+ :repo "anticomputer/kanji-mode"
+ :files (:defaults "kanji"))

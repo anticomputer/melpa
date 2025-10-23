@@ -1,0 +1,4 @@
+(nameframe-project
+ :fetcher github
+ :repo "anticomputer/nameframe"
+ :files ("nameframe-project.el"))

@@ -1,0 +1,4 @@
+(aws-snippets
+ :repo "anticomputer/aws-snippets"
+ :fetcher github
+ :files (:defaults "snippets"))

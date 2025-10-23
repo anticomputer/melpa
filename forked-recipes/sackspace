@@ -1,0 +1,1 @@
+(sackspace :repo "anticomputer/sackspace.el" :fetcher github)

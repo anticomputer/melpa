@@ -1,0 +1,1 @@
+(osx-plist :fetcher github :repo "anticomputer/osx-plist")

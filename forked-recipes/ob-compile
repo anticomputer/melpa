@@ -1,0 +1,3 @@
+(ob-compile
+ :fetcher github
+ :repo "anticomputer/ob-compile")

@@ -1,0 +1,1 @@
+(dts-mode :repo "anticomputer/dts-mode" :fetcher github)

@@ -1,0 +1,1 @@
+(org-sql :repo "anticomputer/org-sql" :fetcher github)

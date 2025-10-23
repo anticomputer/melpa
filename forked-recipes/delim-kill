@@ -1,0 +1,2 @@
+(delim-kill :repo "anticomputer/delim-kill" :fetcher github)
+

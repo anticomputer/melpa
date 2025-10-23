@@ -1,0 +1,2 @@
+(org-if :repo "anticomputer/org-if"
+        :fetcher gitlab)

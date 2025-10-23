@@ -1,0 +1,1 @@
+(freeze-it :fetcher github :repo "anticomputer/freeze-it")

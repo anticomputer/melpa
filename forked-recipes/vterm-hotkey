@@ -1,0 +1,1 @@
+(vterm-hotkey :repo "anticomputer/vterm-hotkey" :fetcher github)

@@ -1,0 +1,1 @@
+(ciel :repo "anticomputer/ciel.el" :fetcher github)

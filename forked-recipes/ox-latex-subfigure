@@ -1,0 +1,1 @@
+(ox-latex-subfigure :repo "anticomputer/ox-latex-subfigure" :fetcher github)

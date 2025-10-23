@@ -1,0 +1,4 @@
+(readable-numbers
+ :fetcher github
+ :repo "anticomputer/cardano.el"
+ :files ("readable-numbers.el"))

@@ -1,0 +1,3 @@
+(zephir-mode
+ :repo "anticomputer/zephir-mode"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(webpaste :repo "anticomputer/webpaste.el" :fetcher github)

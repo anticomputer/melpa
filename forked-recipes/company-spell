@@ -1,0 +1,3 @@
+(company-spell
+ :fetcher github
+ :repo "anticomputer/company-spell")

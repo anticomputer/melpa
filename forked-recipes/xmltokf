@@ -1,0 +1,3 @@
+(xmltokf
+ :fetcher github
+ :repo "anticomputer/xmltokf.el")

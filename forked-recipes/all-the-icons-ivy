@@ -1,0 +1,2 @@
+(all-the-icons-ivy :repo "anticomputer/all-the-icons-ivy"
+                   :fetcher github)

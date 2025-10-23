@@ -1,0 +1,3 @@
+(macports
+ :repo "anticomputer/macports.el"
+ :fetcher github)

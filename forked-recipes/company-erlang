@@ -1,0 +1,3 @@
+(company-erlang
+ :fetcher github
+ :repo "anticomputer/company-erlang")

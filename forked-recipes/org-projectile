@@ -1,0 +1,4 @@
+(org-projectile
+ :repo "anticomputer/org-project-capture"
+ :fetcher github
+ :files ("org-projectile.el"))

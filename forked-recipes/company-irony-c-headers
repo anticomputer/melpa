@@ -1,0 +1,2 @@
+(company-irony-c-headers :fetcher github
+                         :repo "anticomputer/company-irony-c-headers")

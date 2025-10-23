@@ -1,0 +1,1 @@
+(helm-qiita :repo "anticomputer/emacs-helm-qiita" :fetcher github)

@@ -1,0 +1,3 @@
+(helm-evil-markers
+ :repo "anticomputer/helm-evil-markers"
+ :fetcher github)

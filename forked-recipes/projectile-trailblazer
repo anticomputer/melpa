@@ -1,0 +1,2 @@
+(projectile-trailblazer :repo "anticomputer/projectile-trailblazer"
+                  :fetcher github)

@@ -1,0 +1,1 @@
+(review-mode :fetcher github :repo "anticomputer/review-el")

@@ -1,0 +1,1 @@
+(ace-jump-buffer :repo "anticomputer/ace-jump-buffer" :fetcher github)

@@ -1,0 +1,1 @@
+(libmpdel :fetcher github :repo "anticomputer/libmpdel")

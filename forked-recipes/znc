@@ -1,0 +1,1 @@
+(znc :fetcher github :repo "anticomputer/ZNC.el")

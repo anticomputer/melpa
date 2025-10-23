@@ -1,0 +1,1 @@
+(rich-minority :repo "anticomputer/rich-minority" :fetcher github)

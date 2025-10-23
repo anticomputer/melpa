@@ -1,0 +1,1 @@
+(lsp-treemacs :repo "anticomputer/lsp-treemacs" :fetcher github :files (:defaults "icons"))

@@ -1,0 +1,4 @@
+(inflections :repo "anticomputer/jump.el"
+             :fetcher github
+             :files ("inflections.el"))
+

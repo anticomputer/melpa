@@ -1,0 +1,2 @@
+(mu4e-jump-to-list :repo "anticomputer/mu4e-jump-to-list.el"
+                   :fetcher gitlab)

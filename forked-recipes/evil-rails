@@ -1,0 +1,1 @@
+(evil-rails :repo "anticomputer/evil-rails" :fetcher github)

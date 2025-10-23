@@ -1,0 +1,2 @@
+(helm-org-multi-wiki :fetcher github :repo "anticomputer/org-multi-wiki"
+                     :files ("helm-org-multi-wiki.el"))

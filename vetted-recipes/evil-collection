@@ -1,3 +1,0 @@
-(evil-collection :fetcher github
-                 :repo "anticomputer/evil-collection"
-                 :files (:defaults "modes"))

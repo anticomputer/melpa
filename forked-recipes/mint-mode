@@ -1,0 +1,4 @@
+(mint-mode
+ :fetcher github
+ :repo "anticomputer/emacs-mint-mode"
+ :files (:defaults "tokens"))

@@ -1,0 +1,3 @@
+(flyspell-correct-popup :repo "anticomputer/flyspell-correct"
+                        :fetcher github
+                        :files ("flyspell-correct-popup.el"))

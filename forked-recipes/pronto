@@ -1,0 +1,1 @@
+(pronto :repo "anticomputer/pronto.el" :fetcher github)

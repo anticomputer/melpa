@@ -1,0 +1,3 @@
+(xhair
+ :fetcher github
+ :repo "anticomputer/emacs-xhair")

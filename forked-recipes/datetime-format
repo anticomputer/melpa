@@ -1,0 +1,4 @@
+(datetime-format
+ :repo "anticomputer/emacs-datetime"
+ :fetcher github
+ :files ("datetime-format.el"))

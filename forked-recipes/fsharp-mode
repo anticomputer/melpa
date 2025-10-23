@@ -1,0 +1,4 @@
+(fsharp-mode
+ :fetcher github
+ :repo "anticomputer/emacs-fsharp-mode"
+ :files (:defaults (:exclude "eglot-fsharp.el")))

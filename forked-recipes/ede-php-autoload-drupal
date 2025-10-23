@@ -1,0 +1,2 @@
+(ede-php-autoload-drupal :fetcher github
+                         :repo "anticomputer/ede-php-autoload-drupal")

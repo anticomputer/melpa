@@ -1,0 +1,1 @@
+(dispwatch :repo "anticomputer/dispwatch" :fetcher github)

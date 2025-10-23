@@ -1,0 +1,1 @@
+(wasp-mode :repo "anticomputer/wasp-mode" :fetcher github)

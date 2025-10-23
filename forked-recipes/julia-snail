@@ -1,0 +1,4 @@
+(julia-snail
+ :fetcher github
+ :repo "anticomputer/julia-snail"
+ :files (:defaults "*.jl" "*.toml" "extensions"))

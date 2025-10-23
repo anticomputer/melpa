@@ -1,0 +1,1 @@
+(tubestatus :repo "anticomputer/tubestatus.el" :fetcher github)

@@ -1,0 +1,1 @@
+(gf :fetcher github :repo "anticomputer/gf-emacs-mode")

@@ -1,0 +1,1 @@
+(cangjie :repo "anticomputer/cangjie.el" :fetcher github)

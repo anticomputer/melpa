@@ -1,0 +1,1 @@
+(silkworm-theme :repo "anticomputer/silkworm-theme" :fetcher github)

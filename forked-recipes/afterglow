@@ -1,0 +1,2 @@
+(afterglow :fetcher github
+           :repo "anticomputer/emacs-afterglow")

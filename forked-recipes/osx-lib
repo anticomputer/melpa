@@ -1,0 +1,1 @@
+(osx-lib :repo "anticomputer/osx-lib" :fetcher github)

@@ -1,0 +1,1 @@
+(company-go :repo "anticomputer/company-go" :fetcher github)

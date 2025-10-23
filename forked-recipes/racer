@@ -1,0 +1,2 @@
+(racer :repo "anticomputer/emacs-racer"
+       :fetcher github)

@@ -1,0 +1,2 @@
+(helm-switch-to-repl :fetcher github
+                     :repo "anticomputer/helm-switch-to-repl")

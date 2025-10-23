@@ -1,4 +1,0 @@
-(geiser
- :fetcher github
- :repo "anticomputer/geiser"
- :files ("elisp/*.el" "doc/dir" "doc/geiser.texi"))

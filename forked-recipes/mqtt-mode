@@ -1,0 +1,2 @@
+(mqtt-mode :repo "anticomputer/mqtt-mode"
+              :fetcher github)

@@ -1,0 +1,3 @@
+(osm
+ :repo "anticomputer/osm"
+ :fetcher github)

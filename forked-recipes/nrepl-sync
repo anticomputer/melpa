@@ -1,0 +1,4 @@
+(nrepl-sync
+   :fetcher github
+   :repo "anticomputer/lein-sync"
+   :files ("emacs/nrepl-sync.el"))

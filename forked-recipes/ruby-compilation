@@ -1,0 +1,4 @@
+(ruby-compilation :repo "anticomputer/rinari"
+                  :fetcher github
+                  :files ("util/ruby-compilation.el"))
+

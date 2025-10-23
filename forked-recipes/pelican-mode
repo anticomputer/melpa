@@ -1,0 +1,2 @@
+(pelican-mode :fetcher gitlab
+              :repo "anticomputer/pelican-mode")

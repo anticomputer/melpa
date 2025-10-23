@@ -1,0 +1,3 @@
+(jsfmt
+ :repo "anticomputer/jsfmt.el"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(replace-from-region :repo "anticomputer/replace-from-region" :fetcher github)

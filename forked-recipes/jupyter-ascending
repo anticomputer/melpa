@@ -1,0 +1,1 @@
+(jupyter-ascending :fetcher github :repo "anticomputer/jupyter-ascending")

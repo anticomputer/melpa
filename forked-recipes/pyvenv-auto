@@ -1,0 +1,1 @@
+(pyvenv-auto :repo "anticomputer/pyvenv-auto" :fetcher github)

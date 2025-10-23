@@ -1,0 +1,3 @@
+(le-thesaurus
+ :repo "anticomputer/le-thesaurus.el"
+ :fetcher github)

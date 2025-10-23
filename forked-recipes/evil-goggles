@@ -1,0 +1,1 @@
+(evil-goggles :repo "anticomputer/evil-goggles" :fetcher github)

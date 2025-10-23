@@ -1,0 +1,2 @@
+(auto-complete-pcmp :repo "anticomputer/auto-complete-pcmp"
+                    :fetcher github)

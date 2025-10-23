@@ -1,0 +1,1 @@
+(lsp-java :repo "anticomputer/lsp-java" :fetcher github :files (:defaults "icons"))

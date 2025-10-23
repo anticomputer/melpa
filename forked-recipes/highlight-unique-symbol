@@ -1,0 +1,1 @@
+(highlight-unique-symbol :fetcher github :repo "anticomputer/emacs-highlight-unique-symbol")

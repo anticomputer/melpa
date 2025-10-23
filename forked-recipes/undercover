@@ -1,0 +1,1 @@
+(undercover :fetcher github :repo "anticomputer/undercover.el")

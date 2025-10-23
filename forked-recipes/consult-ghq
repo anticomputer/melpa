@@ -1,0 +1,3 @@
+(consult-ghq
+ :repo "anticomputer/consult-ghq"
+ :fetcher github)

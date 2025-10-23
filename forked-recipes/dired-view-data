@@ -1,0 +1,3 @@
+(dired-view-data
+ :repo "anticomputer/dired-view-data"
+ :fetcher github)

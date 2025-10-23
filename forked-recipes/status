@@ -1,0 +1,4 @@
+(status
+ :fetcher github
+ :repo "anticomputer/emacs-status"
+ :files (:defaults "*.py" "*.png"))

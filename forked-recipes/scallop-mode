@@ -1,0 +1,1 @@
+(scallop-mode :fetcher github :repo "anticomputer/emacs-scallop-mode")

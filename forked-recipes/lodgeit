@@ -1,0 +1,2 @@
+(lodgeit :repo "anticomputer/lodgeit-el"
+	 :fetcher github)

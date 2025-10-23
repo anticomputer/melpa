@@ -1,0 +1,2 @@
+(rubocop :repo "anticomputer/rubocop-emacs"
+         :fetcher github)

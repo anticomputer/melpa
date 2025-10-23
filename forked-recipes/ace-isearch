@@ -1,0 +1,1 @@
+(ace-isearch :repo "anticomputer/ace-isearch" :fetcher github)

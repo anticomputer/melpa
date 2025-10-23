@@ -1,0 +1,1 @@
+(z3-mode :fetcher github :repo "anticomputer/z3-mode")

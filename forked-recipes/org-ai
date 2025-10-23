@@ -1,0 +1,3 @@
+(org-ai :fetcher github
+        :repo "anticomputer/org-ai"
+        :files (:defaults "snippets"))

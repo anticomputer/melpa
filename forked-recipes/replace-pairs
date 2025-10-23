@@ -1,0 +1,2 @@
+(replace-pairs :repo "anticomputer/replace-pairs"
+               :fetcher github)

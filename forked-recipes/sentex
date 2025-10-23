@@ -1,0 +1,2 @@
+(sentex :fetcher codeberg :repo "anticomputer/sentex"
+        :files (:defaults "*.eld"))

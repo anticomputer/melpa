@@ -1,0 +1,1 @@
+(srefactor :fetcher github :repo "anticomputer/semantic-refactor")

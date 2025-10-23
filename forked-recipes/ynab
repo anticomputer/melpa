@@ -1,0 +1,2 @@
+(ynab :repo "anticomputer/ynab.el"
+        :fetcher github)

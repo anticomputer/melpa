@@ -1,0 +1,1 @@
+(tokei :repo "anticomputer/tokei.el" :fetcher github)

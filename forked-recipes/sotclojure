@@ -1,0 +1,1 @@
+(sotclojure :repo "anticomputer/speed-of-thought-clojure" :fetcher github)

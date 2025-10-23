@@ -1,1 +1,0 @@
-(doom-themes :repo "anticomputer/emacs-doom-themes" :fetcher github :files (:defaults "themes/*.el"))

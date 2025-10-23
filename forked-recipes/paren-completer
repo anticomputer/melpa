@@ -1,0 +1,1 @@
+(paren-completer :repo "anticomputer/paren-completer" :fetcher github)

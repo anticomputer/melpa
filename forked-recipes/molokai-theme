@@ -1,0 +1,3 @@
+(molokai-theme :repo "anticomputer/color-theme-molokai"
+               :fetcher github
+               :files ("molokai-theme.el"))

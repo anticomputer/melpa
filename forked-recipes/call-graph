@@ -1,0 +1,1 @@
+(call-graph :fetcher github :repo "anticomputer/call-graph")

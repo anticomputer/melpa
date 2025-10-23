@@ -1,0 +1,3 @@
+(ob-coffeescript :repo "anticomputer/ob-coffeescript"
+                 :fetcher github
+                 :files ("ob-coffeescript.el"))

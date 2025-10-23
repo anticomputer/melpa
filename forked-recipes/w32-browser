@@ -1,0 +1,1 @@
+(w32-browser :fetcher github :repo "anticomputer/w32-browser")

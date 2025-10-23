@@ -1,0 +1,2 @@
+(crystal-point :fetcher github
+               :repo "anticomputer/crystal-point")

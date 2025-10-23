@@ -1,0 +1,1 @@
+(yuck-mode :fetcher github :repo "anticomputer/yuck-mode")

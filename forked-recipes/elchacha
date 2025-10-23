@@ -1,0 +1,3 @@
+(elchacha
+ :fetcher github
+ :repo "anticomputer/elchacha")

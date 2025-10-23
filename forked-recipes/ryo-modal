@@ -1,0 +1,1 @@
+(ryo-modal :repo "anticomputer/ryo-modal" :fetcher github)

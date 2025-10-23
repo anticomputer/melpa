@@ -1,0 +1,1 @@
+(jastadd-ast-mode :fetcher github :repo "anticomputer/jastadd-ast-mode")

@@ -1,0 +1,2 @@
+(magit-patch-changelog :repo "anticomputer/magit-patch-changelog"
+                       :fetcher github)

@@ -1,0 +1,2 @@
+(timp :repo "anticomputer/timp"
+      :fetcher github)

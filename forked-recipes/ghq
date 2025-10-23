@@ -1,0 +1,1 @@
+(ghq :repo "anticomputer/emacs-ghq" :fetcher github)

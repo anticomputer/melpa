@@ -1,0 +1,1 @@
+(hybrid-reverse-theme :repo "anticomputer/emacs-hybrid-reverse" :fetcher github)

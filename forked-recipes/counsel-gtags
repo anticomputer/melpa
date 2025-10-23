@@ -1,0 +1,1 @@
+(counsel-gtags :fetcher github :repo "anticomputer/emacs-counsel-gtags")

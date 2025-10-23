@@ -1,0 +1,3 @@
+(nerd-icons-xref
+ :fetcher github
+ :repo "anticomputer/nerd-icons-xref")

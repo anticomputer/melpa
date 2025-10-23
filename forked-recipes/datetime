@@ -1,0 +1,4 @@
+(datetime
+ :fetcher github
+ :repo "anticomputer/datetime"
+ :files (:defaults "*.extmap"))

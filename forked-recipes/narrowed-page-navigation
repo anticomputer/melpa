@@ -1,0 +1,3 @@
+(narrowed-page-navigation
+ :fetcher github
+ :repo "anticomputer/narrowed-page-navigation")

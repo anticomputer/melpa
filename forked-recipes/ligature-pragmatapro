@@ -1,0 +1,2 @@
+(ligature-pragmatapro :repo "anticomputer/ligature-pragmatapro.el"
+                      :fetcher gitlab)

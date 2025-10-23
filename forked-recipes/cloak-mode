@@ -1,0 +1,3 @@
+(cloak-mode
+  :fetcher github
+  :repo "anticomputer/cloak-mode")

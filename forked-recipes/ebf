@@ -1,0 +1,2 @@
+(ebf :fetcher github
+     :repo "anticomputer/ebf")

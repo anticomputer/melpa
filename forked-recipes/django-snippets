@@ -1,0 +1,4 @@
+(django-snippets
+ :fetcher github
+ :repo "anticomputer/django-mode"
+ :files ("django-snippets.el" "snippets"))

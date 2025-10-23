@@ -1,0 +1,1 @@
+(helm-perspeen :repo "anticomputer/helm-perspeen" :fetcher github)

@@ -1,0 +1,1 @@
+(simple-screen :repo "anticomputer/simple-screen" :fetcher github)

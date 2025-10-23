@@ -1,0 +1,3 @@
+(fast-scroll
+  :repo "anticomputer/fast-scroll"
+  :fetcher github)

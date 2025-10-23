@@ -1,0 +1,1 @@
+(exunit :fetcher github :repo "anticomputer/exunit.el")

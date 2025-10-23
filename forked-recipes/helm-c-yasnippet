@@ -1,0 +1,2 @@
+(helm-c-yasnippet :repo "anticomputer/helm-c-yasnippet"
+                  :fetcher github)

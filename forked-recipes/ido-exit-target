@@ -1,0 +1,1 @@
+(ido-exit-target :repo "anticomputer/ido-exit-target" :fetcher github)

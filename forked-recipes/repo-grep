@@ -1,0 +1,1 @@
+(repo-grep :fetcher github :repo "anticomputer/repo-grep")

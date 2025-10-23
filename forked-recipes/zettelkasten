@@ -1,0 +1,1 @@
+(zettelkasten :repo "anticomputer/emacs-zettelkasten" :fetcher github :files ("zettelkasten.el"))

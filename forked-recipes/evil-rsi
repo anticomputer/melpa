@@ -1,0 +1,1 @@
+(evil-rsi :repo "anticomputer/evil-rsi" :fetcher github)

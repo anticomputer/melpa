@@ -1,0 +1,1 @@
+(man-commands :fetcher github :repo "anticomputer/man-commands")

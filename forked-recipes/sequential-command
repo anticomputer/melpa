@@ -1,0 +1,1 @@
+(sequential-command :fetcher github :repo "anticomputer/sequential-command")

@@ -1,0 +1,3 @@
+(pache-dark-theme
+	:fetcher github
+	:repo "anticomputer/pache-dark-theme")

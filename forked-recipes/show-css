@@ -1,0 +1,1 @@
+(show-css :repo "anticomputer/showcss-mode" :fetcher github :old-names (showcss-mode))

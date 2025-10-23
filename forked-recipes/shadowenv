@@ -1,0 +1,2 @@
+(shadowenv :repo "anticomputer/shadowenv.el"
+           :fetcher github)

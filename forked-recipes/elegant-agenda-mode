@@ -1,0 +1,2 @@
+(elegant-agenda-mode :repo "anticomputer/elegant-agenda-mode"
+                     :fetcher github)

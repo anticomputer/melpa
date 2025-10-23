@@ -1,0 +1,5 @@
+(org-vcard
+ :fetcher github
+ :repo "anticomputer/org-vcard"
+ :files ("org-vcard.el"
+         "styles"))

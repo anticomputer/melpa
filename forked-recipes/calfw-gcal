@@ -1,0 +1,1 @@
+(calfw-gcal :fetcher github :repo "anticomputer/calfw-gcal.el" :files ("*.el" "*.py"))

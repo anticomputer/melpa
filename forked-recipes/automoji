@@ -1,0 +1,4 @@
+(automoji
+ :fetcher github
+ :repo "anticomputer/automoji-el"
+ :files (:defaults "generated.data"))

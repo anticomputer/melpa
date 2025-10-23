@@ -1,0 +1,3 @@
+(ctune :fetcher github
+       :repo "anticomputer/ctune"
+       :files (:defaults (:exclude "doclicense.texi" "docstyle.texi")))

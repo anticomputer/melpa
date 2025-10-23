@@ -1,0 +1,4 @@
+(company-coq
+ :repo "anticomputer/company-coq"
+ :fetcher github
+ :files (:defaults "refman"))

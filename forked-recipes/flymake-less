@@ -1,0 +1,1 @@
+(flymake-less :repo "anticomputer/flymake-less" :fetcher github)

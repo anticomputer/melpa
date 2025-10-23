@@ -1,0 +1,1 @@
+(synosaurus :repo "anticomputer/synosaurus" :fetcher github)

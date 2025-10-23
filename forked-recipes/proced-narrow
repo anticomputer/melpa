@@ -1,0 +1,3 @@
+(proced-narrow
+ :repo "anticomputer/proced-narrow"
+ :fetcher github)

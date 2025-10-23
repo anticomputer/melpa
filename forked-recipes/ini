@@ -1,0 +1,1 @@
+(ini :repo "anticomputer/ini.el" :fetcher github)

@@ -1,0 +1,1 @@
+(gnome-calendar :fetcher github :repo "anticomputer/gnome-calendar.el")

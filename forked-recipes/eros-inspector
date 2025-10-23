@@ -1,0 +1,1 @@
+(eros-inspector :repo "anticomputer/eros-inspector" :fetcher github)

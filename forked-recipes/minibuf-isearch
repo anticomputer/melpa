@@ -1,0 +1,2 @@
+(minibuf-isearch :repo "anticomputer/minibuf-isearch"
+                 :fetcher github)

@@ -1,0 +1,3 @@
+(ox-bibtex-chinese :fetcher github
+                   :repo "anticomputer/ox-bibtex-chinese"
+                   :files ("*.el" "bibtex-styles"))

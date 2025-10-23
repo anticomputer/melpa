@@ -1,0 +1,4 @@
+(block-nav
+ :fetcher github
+ :repo "anticomputer/block-nav.el")
+

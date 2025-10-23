@@ -1,0 +1,1 @@
+(vc-hgcmd :fetcher github :repo "anticomputer/emacs-vc-hgcmd")

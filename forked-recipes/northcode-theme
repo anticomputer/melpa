@@ -1,0 +1,1 @@
+(northcode-theme :repo "anticomputer/northcode-theme.el" :fetcher github)

@@ -1,0 +1,1 @@
+(bison-mode :repo "anticomputer/bison-mode" :fetcher github)

@@ -1,0 +1,3 @@
+(flower :repo "anticomputer/flower"
+        :files (:defaults "project.clj")
+        :fetcher github)

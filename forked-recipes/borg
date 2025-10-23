@@ -1,0 +1,4 @@
+(borg
+ :fetcher github
+ :repo "anticomputer/borg"
+ :files (:defaults "borg.mk"))

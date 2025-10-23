@@ -1,0 +1,1 @@
+(flycheck-yamllint :repo "anticomputer/flycheck-yamllint" :fetcher github)

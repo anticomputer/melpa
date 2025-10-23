@@ -1,5 +1,0 @@
-(ivy :repo "anticomputer/swiper"
-     :fetcher github
-     :files (:defaults
-             (:exclude "swiper.el" "counsel.el" "ivy-hydra.el")
-             "doc/ivy-help.org"))

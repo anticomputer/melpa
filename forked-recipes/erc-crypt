@@ -1,0 +1,1 @@
+(erc-crypt :repo "anticomputer/erc-crypt" :fetcher github)

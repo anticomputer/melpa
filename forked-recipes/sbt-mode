@@ -1,0 +1,2 @@
+(sbt-mode :fetcher github
+          :repo "anticomputer/emacs-sbt-mode")

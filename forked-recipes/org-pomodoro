@@ -1,0 +1,4 @@
+(org-pomodoro
+ :fetcher github
+ :repo "anticomputer/org-pomodoro"
+ :files (:defaults "resources"))

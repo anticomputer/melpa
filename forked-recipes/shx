@@ -1,0 +1,2 @@
+(shx :repo "anticomputer/shx-for-emacs"
+     :fetcher github)

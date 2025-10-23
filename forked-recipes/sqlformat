@@ -1,0 +1,1 @@
+(sqlformat :fetcher github :repo "anticomputer/sqlformat")

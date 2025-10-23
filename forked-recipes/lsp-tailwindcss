@@ -1,0 +1,1 @@
+(lsp-tailwindcss :repo "anticomputer/lsp-tailwindcss" :fetcher github)

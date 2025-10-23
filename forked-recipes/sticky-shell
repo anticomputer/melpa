@@ -1,0 +1,1 @@
+(sticky-shell :repo "anticomputer/sticky-shell" :fetcher github)

@@ -1,0 +1,1 @@
+(evil-ex-shell-command :fetcher github :repo "anticomputer/evil-ex-shell-command")

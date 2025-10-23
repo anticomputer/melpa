@@ -1,0 +1,1 @@
+(elisp-docstring-mode :fetcher github :repo "anticomputer/elisp-docstring-mode")

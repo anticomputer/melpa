@@ -1,0 +1,1 @@
+(debug-print :fetcher github :repo "anticomputer/debug-print")

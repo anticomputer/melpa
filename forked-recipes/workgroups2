@@ -1,0 +1,4 @@
+(workgroups2
+ :fetcher github
+ :repo "anticomputer/workgroups2"
+ :files ("src/*.el"))

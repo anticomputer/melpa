@@ -1,0 +1,2 @@
+(org-expose-emphasis-markers :fetcher github
+                             :repo "anticomputer/org-expose-emphasis-markers")

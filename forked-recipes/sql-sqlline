@@ -1,0 +1,4 @@
+(sql-sqlline
+ :fetcher gitlab
+ :repo "anticomputer/sql-sqlline"
+ :files ("artifacts/*.el"))

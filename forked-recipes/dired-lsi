@@ -1,0 +1,1 @@
+(dired-lsi :fetcher github :repo "anticomputer/dired-lsi.el")

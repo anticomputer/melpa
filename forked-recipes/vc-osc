@@ -1,0 +1,1 @@
+(vc-osc :fetcher github :repo "anticomputer/vc-osc")

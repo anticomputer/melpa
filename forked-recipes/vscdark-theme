@@ -1,0 +1,1 @@
+(vscdark-theme :repo "anticomputer/vscdark-theme" :fetcher github)

@@ -1,3 +1,0 @@
-(elpher
- :repo "anticomputer/elpher"
- :fetcher github)

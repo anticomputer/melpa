@@ -1,0 +1,2 @@
+(auto-highlight-symbol :repo "anticomputer/auto-highlight-symbol" :fetcher github)
+

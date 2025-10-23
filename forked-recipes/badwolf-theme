@@ -1,0 +1,1 @@
+(badwolf-theme :repo "anticomputer/badwolf-emacs" :fetcher github)

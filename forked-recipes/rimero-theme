@@ -1,0 +1,1 @@
+(rimero-theme :repo "anticomputer/emacs-rimero-theme" :fetcher github)

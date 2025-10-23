@@ -1,0 +1,2 @@
+(notmuch-bookmarks :repo "anticomputer/notmuch-bookmarks"
+                   :fetcher github)

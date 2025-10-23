@@ -1,0 +1,2 @@
+(clj-deps-new :fetcher github
+          :repo "anticomputer/emacs-clj-deps-new")

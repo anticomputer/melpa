@@ -1,0 +1,1 @@
+(smart-mode-line :repo "anticomputer/smart-mode-line" :fetcher github)

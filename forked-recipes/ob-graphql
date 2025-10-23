@@ -1,0 +1,1 @@
+(ob-graphql :fetcher github :repo "anticomputer/ob-graphql")

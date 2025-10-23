@@ -1,0 +1,1 @@
+(lsp-ivy :repo "anticomputer/lsp-ivy" :fetcher github)

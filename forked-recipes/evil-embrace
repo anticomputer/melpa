@@ -1,0 +1,2 @@
+(evil-embrace :repo "anticomputer/evil-embrace.el"
+              :fetcher github)

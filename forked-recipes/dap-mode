@@ -1,0 +1,1 @@
+(dap-mode :repo "anticomputer/dap-mode" :fetcher github :files (:defaults "icons"))

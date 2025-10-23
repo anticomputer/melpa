@@ -1,0 +1,4 @@
+(opencl-c-mode
+ :fetcher github
+ :repo "anticomputer/opencl-mode"
+ :old-names (opencl-mode))

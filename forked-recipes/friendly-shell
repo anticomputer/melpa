@@ -1,0 +1,5 @@
+(friendly-shell :repo "anticomputer/friendly-shell"
+                :fetcher github
+                :files (:defaults
+                        (:exclude "friendly-shell-command.el"
+                                  "friendly-remote-shell.el")))

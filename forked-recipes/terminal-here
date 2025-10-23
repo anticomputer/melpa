@@ -1,0 +1,2 @@
+(terminal-here :repo "anticomputer/terminal-here"
+               :fetcher github)

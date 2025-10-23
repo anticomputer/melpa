@@ -1,0 +1,1 @@
+(jmt-mode :repo "anticomputer/Java_Mode_Tamed" :fetcher github)

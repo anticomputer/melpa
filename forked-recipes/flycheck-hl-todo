@@ -1,0 +1,1 @@
+(flycheck-hl-todo :repo "anticomputer/flycheck-hl-todo" :fetcher github)

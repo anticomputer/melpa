@@ -1,0 +1,2 @@
+(sway-lang-mode :repo "anticomputer/sway-mode"
+                :fetcher github)

@@ -1,0 +1,1 @@
+(auto-complete-exuberant-ctags :repo "anticomputer/auto-complete-exuberant-ctags" :fetcher github)

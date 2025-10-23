@@ -1,0 +1,1 @@
+(fuo :repo "anticomputer/emacs-fuo" :fetcher github)

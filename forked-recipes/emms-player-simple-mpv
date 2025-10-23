@@ -1,0 +1,1 @@
+(emms-player-simple-mpv :fetcher github :repo "anticomputer/emms-player-simple-mpv")

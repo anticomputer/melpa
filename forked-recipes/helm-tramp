@@ -1,0 +1,3 @@
+(helm-tramp
+ :repo "anticomputer/emacs-helm-tramp"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(weather-metno :fetcher github :repo "anticomputer/weather-metno-el")

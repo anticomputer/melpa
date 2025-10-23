@@ -1,0 +1,1 @@
+(org-gcal :fetcher github :repo "anticomputer/org-gcal.el")

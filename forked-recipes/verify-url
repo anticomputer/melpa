@@ -1,0 +1,1 @@
+(verify-url :fetcher github :repo "anticomputer/verify-url")

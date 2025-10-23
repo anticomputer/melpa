@@ -1,0 +1,1 @@
+(font-lock-profiler :repo "anticomputer/font-lock-profiler" :fetcher github)

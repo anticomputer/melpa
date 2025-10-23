@@ -1,0 +1,1 @@
+(mmm-jinja2 :repo "anticomputer/mmm-jinja2" :fetcher github)

@@ -1,0 +1,1 @@
+(consult-vc-modified-files :fetcher github :repo "anticomputer/consult-vc-modified-files")

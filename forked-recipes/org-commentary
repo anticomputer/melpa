@@ -1,0 +1,3 @@
+(org-commentary :repo "anticomputer/org-commentary"
+                :fetcher github
+                :files (:defaults "bin"))

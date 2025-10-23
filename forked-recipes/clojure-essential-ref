@@ -1,0 +1,4 @@
+(clojure-essential-ref
+ :fetcher github
+ :repo "anticomputer/clojure-essential-ref"
+ :files (:defaults (:exclude "clojure-essential-ref-nov.el")))

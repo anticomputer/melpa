@@ -1,0 +1,3 @@
+(bbyac :fetcher github
+       :repo "anticomputer/bbyac"
+       :files (:defaults "*.bbyac"))

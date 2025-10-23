@@ -1,0 +1,1 @@
+(lsp-docker :repo "anticomputer/lsp-docker" :fetcher github)

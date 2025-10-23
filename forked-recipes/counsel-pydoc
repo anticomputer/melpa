@@ -1,0 +1,1 @@
+(counsel-pydoc :repo "anticomputer/pydoc_utils" :fetcher github)

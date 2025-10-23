@@ -1,0 +1,1 @@
+(smbc :repo "anticomputer/emacs-smbc" :fetcher github)

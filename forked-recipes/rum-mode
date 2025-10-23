@@ -1,0 +1,3 @@
+(rum-mode
+ :repo "anticomputer/rum-mode"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(embark-vc :fetcher github :repo "anticomputer/embark-vc")

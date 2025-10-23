@@ -1,0 +1,1 @@
+(flycheck-dmd-dub :repo "anticomputer/flycheck-dmd-dub" :fetcher github)

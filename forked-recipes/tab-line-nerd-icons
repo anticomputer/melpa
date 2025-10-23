@@ -1,0 +1,3 @@
+(tab-line-nerd-icons
+ :fetcher github
+ :repo "anticomputer/tab-line-nerd-icons")

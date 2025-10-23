@@ -1,0 +1,3 @@
+(sidecar-locals
+ :fetcher codeberg
+ :repo "anticomputer/emacs-sidecar-locals")

@@ -1,0 +1,2 @@
+(japanese-holidays :repo "anticomputer/japanese-holidays"
+                   :fetcher github)

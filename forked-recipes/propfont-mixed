@@ -1,0 +1,3 @@
+(propfont-mixed
+ :fetcher github
+ :repo "anticomputer/propfont-mixed")

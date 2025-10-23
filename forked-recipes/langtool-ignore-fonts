@@ -1,0 +1,4 @@
+(langtool-ignore-fonts
+ :fetcher github
+ :repo "anticomputer/langtool-ignore-fonts"
+ :files (:defaults (:exclude "doc/*")))

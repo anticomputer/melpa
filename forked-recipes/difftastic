@@ -1,0 +1,1 @@
+(difftastic :fetcher github :repo "anticomputer/difftastic.el")

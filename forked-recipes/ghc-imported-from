@@ -1,0 +1,3 @@
+(ghc-imported-from
+ :fetcher github
+ :repo "anticomputer/ghc-imported-from-el")

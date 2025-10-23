@@ -1,0 +1,2 @@
+(eclipse-theme :repo "anticomputer/eclipse-theme"
+               :fetcher github)

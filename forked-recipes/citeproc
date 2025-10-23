@@ -1,0 +1,1 @@
+(citeproc :fetcher github :repo "anticomputer/citeproc-el")

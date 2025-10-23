@@ -1,0 +1,1 @@
+(recently :repo "anticomputer/recently-el" :fetcher github)

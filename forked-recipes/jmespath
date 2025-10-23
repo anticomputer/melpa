@@ -1,0 +1,1 @@
+(jmespath :repo "anticomputer/jmespath" :fetcher github)

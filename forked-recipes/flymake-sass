@@ -1,0 +1,1 @@
+(flymake-sass :repo "anticomputer/flymake-sass" :fetcher github)

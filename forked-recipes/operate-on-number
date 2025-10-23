@@ -1,0 +1,3 @@
+(operate-on-number
+ :fetcher github
+ :repo "anticomputer/operate-on-number.el")

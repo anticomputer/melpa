@@ -1,0 +1,1 @@
+(teletext-yle :fetcher github :repo "anticomputer/emacs-teletext-yle")

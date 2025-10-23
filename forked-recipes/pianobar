@@ -1,0 +1,1 @@
+(pianobar :fetcher github :repo "anticomputer/pianobar.el")

@@ -1,0 +1,1 @@
+(adafruit-wisdom :fetcher github :repo "anticomputer/adafruit-wisdom.el")

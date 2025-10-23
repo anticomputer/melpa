@@ -1,0 +1,1 @@
+(discover :fetcher github :repo "anticomputer/discover.el")

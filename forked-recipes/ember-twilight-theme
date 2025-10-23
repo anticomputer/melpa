@@ -1,0 +1,5 @@
+(ember-twilight-theme
+ :fetcher github
+ :repo "anticomputer/unique-emacs-theme-pack" 
+ :files ("Themes/ember-twilight-theme.el"))
+

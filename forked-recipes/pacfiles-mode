@@ -1,0 +1,1 @@
+(pacfiles-mode :repo "anticomputer/pacfiles-mode" :fetcher github)

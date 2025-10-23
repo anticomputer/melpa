@@ -1,0 +1,1 @@
+(helm-project-persist :fetcher github :repo "anticomputer/helm-project-persist")

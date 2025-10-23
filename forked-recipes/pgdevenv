@@ -1,0 +1,1 @@
+(pgdevenv :repo "anticomputer/pgdevenv-el" :fetcher github)

@@ -1,0 +1,1 @@
+(atcoder-tools :repo "anticomputer/emacs-atcoder-tools" :fetcher github)

@@ -1,0 +1,3 @@
+(calfw :repo "anticomputer/emacs-calfw"
+       :fetcher github
+       :files ("calfw.el"))

@@ -1,0 +1,3 @@
+(ddp
+ :fetcher github
+ :repo "anticomputer/ddp.el")

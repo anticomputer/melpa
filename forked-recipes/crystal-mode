@@ -1,0 +1,3 @@
+(crystal-mode
+ :repo "anticomputer/emacs-crystal-mode"
+ :fetcher github :files ("crystal-mode.el"))

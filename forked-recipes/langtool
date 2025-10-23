@@ -1,0 +1,4 @@
+(langtool
+ :fetcher github
+ :repo "anticomputer/Emacs-langtool"
+ :files ("langtool.el"))

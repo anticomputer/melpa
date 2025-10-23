@@ -1,0 +1,1 @@
+(ruled-switch-buffer :repo "anticomputer/ruled-switch-buffer" :fetcher github)

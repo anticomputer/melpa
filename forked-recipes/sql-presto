@@ -1,0 +1,4 @@
+(sql-presto
+ :fetcher github
+ :repo "anticomputer/sql-prestodb"
+ :files ("artifacts/*.el"))

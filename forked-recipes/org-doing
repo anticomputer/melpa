@@ -1,0 +1,4 @@
+(org-doing
+ :fetcher github
+ :repo "anticomputer/org-doing"
+ :files (:defaults "bin"))

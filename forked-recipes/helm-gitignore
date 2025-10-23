@@ -1,0 +1,3 @@
+(helm-gitignore
+ :fetcher github
+ :repo "anticomputer/helm-gitignore")

@@ -1,0 +1,4 @@
+(bazel
+ :repo "anticomputer/emacs-bazel-mode"
+ :fetcher github
+ :old-names (bazel-mode))

@@ -1,0 +1,1 @@
+(org-generate :fetcher github :repo "anticomputer/org-generate.el")

@@ -1,0 +1,3 @@
+(pest-mode :repo "anticomputer/pest-mode"
+           :fetcher github
+           :files ("pest-mode.el"))

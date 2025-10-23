@@ -1,0 +1,3 @@
+(tabbar-ruler
+ :fetcher github
+ :repo "anticomputer/tabbar-ruler.el")

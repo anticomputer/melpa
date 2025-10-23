@@ -1,0 +1,1 @@
+(package+ :repo "anticomputer/package" :fetcher github)

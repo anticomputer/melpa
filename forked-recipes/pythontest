@@ -1,0 +1,3 @@
+(pythontest
+ :fetcher github
+ :repo "anticomputer/pythontest.el")

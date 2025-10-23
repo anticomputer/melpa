@@ -1,0 +1,4 @@
+(gpr-yasnippets
+ :fetcher github
+ :repo "anticomputer/gpr-yasnippets"
+ :files (:defaults "snippets"))

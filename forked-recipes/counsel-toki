@@ -1,0 +1,1 @@
+(counsel-toki :repo "anticomputer/counsel-toki" :fetcher github)

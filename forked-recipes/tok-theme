@@ -1,0 +1,4 @@
+(tok-theme
+ :fetcher github
+ :repo "anticomputer/tok-theme"
+ :old-names (brutal-theme))

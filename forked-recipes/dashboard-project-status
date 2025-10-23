@@ -1,0 +1,1 @@
+(dashboard-project-status :fetcher github :repo "anticomputer/dashboard-project-status")

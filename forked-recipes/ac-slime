@@ -1,0 +1,1 @@
+(ac-slime :repo "anticomputer/ac-slime" :fetcher github)

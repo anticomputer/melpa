@@ -1,0 +1,2 @@
+(logview :repo "anticomputer/logview"
+         :fetcher github)

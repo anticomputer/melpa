@@ -1,0 +1,1 @@
+(lsp-mssql :repo "anticomputer/lsp-mssql" :files (:defaults "images" "snippets") :fetcher github)

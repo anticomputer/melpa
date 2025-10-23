@@ -1,0 +1,4 @@
+(epkg
+ :fetcher github
+ :repo "anticomputer/epkg"
+ :files ("lisp/*.el" "docs/*.texi" ".dir-locals.el"))

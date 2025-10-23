@@ -1,0 +1,2 @@
+(flycheck-pyre :fetcher github :repo "anticomputer/flycheck-pyre"
+               :files (:defaults "bin"))

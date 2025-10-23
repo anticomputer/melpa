@@ -1,0 +1,4 @@
+(py-snippets
+ :repo "anticomputer/py-snippets"
+ :fetcher github
+ :files (:defaults "snippets"))

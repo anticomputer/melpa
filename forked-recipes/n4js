@@ -1,0 +1,1 @@
+(n4js :fetcher github :repo "anticomputer/n4js.el")

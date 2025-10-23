@@ -1,0 +1,1 @@
+(diredfd :repo "anticomputer/diredfd.el" :fetcher github)

@@ -1,0 +1,1 @@
+(dynamic-graphs :fetcher github :repo "anticomputer/dynamic-graphs")

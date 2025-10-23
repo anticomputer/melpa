@@ -1,0 +1,1 @@
+(dash-alfred :fetcher github :repo "anticomputer/dash-alfred.el")

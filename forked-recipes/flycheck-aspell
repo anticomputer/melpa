@@ -1,0 +1,3 @@
+(flycheck-aspell :fetcher github
+                 :repo "anticomputer/flycheck-aspell"
+                 :files ("flycheck-aspell.el"))

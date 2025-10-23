@@ -1,0 +1,4 @@
+(helm-pydoc
+ :fetcher github
+ :repo "anticomputer/helm-pydoc"
+ :files (:defaults "*.py"))

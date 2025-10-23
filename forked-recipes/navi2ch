@@ -1,0 +1,3 @@
+(navi2ch :fetcher github
+	 :repo "anticomputer/navi2ch"
+	 :files ("navi2ch*.el" "contrib/*.el" ("icons" "icons/*.xpm")))

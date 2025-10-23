@@ -1,0 +1,4 @@
+(farmhouse-themes
+ :fetcher github
+ :repo "anticomputer/farmhouse-themes"
+ :old-names (farmhouse-theme))

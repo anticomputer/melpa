@@ -1,0 +1,4 @@
+(elisp-demos
+ :fetcher github
+ :repo "anticomputer/elisp-demos"
+ :files (:defaults "*.org"))

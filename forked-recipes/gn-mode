@@ -1,0 +1,3 @@
+(gn-mode
+ :fetcher github
+ :repo "anticomputer/gn-mode")

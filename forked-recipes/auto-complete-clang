@@ -1,0 +1,3 @@
+(auto-complete-clang
+ :repo "anticomputer/auto-complete-clang"
+ :fetcher github)

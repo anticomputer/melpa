@@ -1,0 +1,1 @@
+(scf-mode :repo "anticomputer/scf-mode" :fetcher github)

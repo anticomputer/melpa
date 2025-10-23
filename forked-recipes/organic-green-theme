@@ -1,0 +1,2 @@
+(organic-green-theme :repo "anticomputer/organic-green-theme"
+                     :fetcher gitlab)

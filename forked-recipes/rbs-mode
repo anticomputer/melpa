@@ -1,0 +1,1 @@
+(rbs-mode :fetcher github :repo "anticomputer/rbs-mode")

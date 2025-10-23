@@ -1,0 +1,1 @@
+(flymake-vala :repo "anticomputer/flymake-vala" :fetcher github)

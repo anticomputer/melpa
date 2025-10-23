@@ -1,0 +1,1 @@
+(go-projectile :repo "anticomputer/go-projectile" :fetcher github)

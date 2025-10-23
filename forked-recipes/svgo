@@ -1,0 +1,1 @@
+(svgo :repo "anticomputer/svgo.el" :fetcher github)

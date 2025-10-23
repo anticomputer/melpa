@@ -1,0 +1,1 @@
+(auth-source-keytar :repo "anticomputer/auth-source-keytar" :fetcher github)

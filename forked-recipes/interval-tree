@@ -1,0 +1,1 @@
+(interval-tree :fetcher github :repo "anticomputer/interval-tree")

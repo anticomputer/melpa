@@ -1,0 +1,1 @@
+(start-menu :fetcher github :repo "anticomputer/el-start-menu")

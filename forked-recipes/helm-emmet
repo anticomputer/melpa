@@ -1,0 +1,1 @@
+(helm-emmet :repo "anticomputer/helm-emmet" :fetcher github)

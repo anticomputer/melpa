@@ -1,0 +1,1 @@
+(ukrainian-holidays :repo "anticomputer/ukrainian-holidays" :fetcher github)

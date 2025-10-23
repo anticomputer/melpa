@@ -1,0 +1,3 @@
+(pdf-meta-edit
+ :fetcher github
+ :repo "anticomputer/pdf-meta-edit")

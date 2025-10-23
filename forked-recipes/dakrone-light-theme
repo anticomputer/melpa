@@ -1,0 +1,3 @@
+(dakrone-light-theme
+ :fetcher github
+ :repo "anticomputer/dakrone-light-theme")

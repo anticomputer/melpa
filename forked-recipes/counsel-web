@@ -1,0 +1,1 @@
+(counsel-web :repo "anticomputer/counsel-web" :fetcher github)

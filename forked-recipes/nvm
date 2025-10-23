@@ -1,0 +1,1 @@
+(nvm :repo "anticomputer/nvm.el" :fetcher github)

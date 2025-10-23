@@ -1,0 +1,1 @@
+(hippie-namespace :repo "anticomputer/hippie-namespace" :fetcher github)

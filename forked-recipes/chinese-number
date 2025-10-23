@@ -1,0 +1,2 @@
+
+(chinese-number :repo "anticomputer/chinese-number" :fetcher github)

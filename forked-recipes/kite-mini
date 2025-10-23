@@ -1,0 +1,3 @@
+(kite-mini
+ :repo "anticomputer/kite-mini.el"
+ :fetcher github)

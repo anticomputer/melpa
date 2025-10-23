@@ -1,0 +1,2 @@
+(helm-tree-sitter :fetcher github
+                  :repo "anticomputer/helm-tree-sitter")

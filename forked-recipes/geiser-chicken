@@ -1,0 +1,4 @@
+(geiser-chicken
+ :fetcher gitlab
+ :repo "anticomputer/chicken"
+ :files (:defaults "src"))

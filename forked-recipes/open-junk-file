@@ -1,0 +1,1 @@
+(open-junk-file :repo "anticomputer/open-junk-file" :fetcher github)

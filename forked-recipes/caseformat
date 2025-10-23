@@ -1,0 +1,1 @@
+(caseformat :repo "anticomputer/caseformat" :fetcher github)

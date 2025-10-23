@@ -1,0 +1,1 @@
+(lxd-tramp :repo "anticomputer/lxd-tramp" :fetcher github)

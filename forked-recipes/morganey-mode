@@ -1,0 +1,2 @@
+(morganey-mode :repo "anticomputer/morganey-mode"
+               :fetcher github)

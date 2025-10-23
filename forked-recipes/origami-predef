@@ -1,0 +1,1 @@
+(origami-predef :repo "anticomputer/origami-predef" :fetcher github)

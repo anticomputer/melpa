@@ -1,0 +1,1 @@
+(pdfgrep :repo "anticomputer/pdfgrep" :fetcher github)

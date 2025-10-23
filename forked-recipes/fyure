@@ -1,0 +1,1 @@
+(fyure :repo "anticomputer/fyure" :fetcher github :files ("fyure.el" "fyure.py"))

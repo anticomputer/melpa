@@ -1,0 +1,1 @@
+(parse-it :repo "anticomputer/parse-it" :fetcher github :files (:defaults "langs/*.el"))

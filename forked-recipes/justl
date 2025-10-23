@@ -1,0 +1,3 @@
+(justl
+ :repo "anticomputer/justl.el"
+ :fetcher github)

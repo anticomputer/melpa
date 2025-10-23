@@ -1,0 +1,3 @@
+(flycheck-crystal :repo "anticomputer/emacs-crystal-mode"
+               :fetcher github
+               :files ("flycheck-crystal.el"))

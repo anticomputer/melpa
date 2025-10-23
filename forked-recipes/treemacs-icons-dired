@@ -1,0 +1,4 @@
+(treemacs-icons-dired
+ :fetcher github
+ :repo "anticomputer/treemacs"
+ :files ("src/extra/treemacs-icons-dired.el"))

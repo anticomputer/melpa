@@ -1,0 +1,1 @@
+(whole-line-or-region :fetcher github :repo "anticomputer/whole-line-or-region")

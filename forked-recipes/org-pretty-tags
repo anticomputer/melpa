@@ -1,0 +1,2 @@
+(org-pretty-tags :repo "anticomputer/org-pretty-tags"
+           :fetcher gitlab)

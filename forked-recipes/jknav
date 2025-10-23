@@ -1,0 +1,3 @@
+(jknav
+ :repo "anticomputer/jknav.el"
+ :fetcher github)

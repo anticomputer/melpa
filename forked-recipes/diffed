@@ -1,0 +1,4 @@
+(diffed
+ :fetcher github
+ :repo "anticomputer/diffed"
+ :old-names (diffsync))

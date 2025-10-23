@@ -1,0 +1,1 @@
+(bundler :repo "anticomputer/bundler.el" :fetcher github)

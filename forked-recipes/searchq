@@ -1,0 +1,4 @@
+(searchq
+ :fetcher github
+ :repo "anticomputer/searchq"
+ :files (:defaults ("images" "images/*.xpm" "images/*.png")))

@@ -1,0 +1,1 @@
+(key-quiz :repo "anticomputer/key-quiz" :fetcher github)

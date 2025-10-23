@@ -1,0 +1,1 @@
+(flymake-hledger :fetcher github :repo "anticomputer/flymake-hledger")

@@ -1,0 +1,2 @@
+(nnir-est :repo "anticomputer/nnir-est"
+          :fetcher github)

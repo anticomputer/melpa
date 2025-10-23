@@ -1,0 +1,1 @@
+(ob-applescript :repo "anticomputer/ob-applescript.el" :fetcher github)

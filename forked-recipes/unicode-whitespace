@@ -1,0 +1,1 @@
+(unicode-whitespace :repo "anticomputer/unicode-whitespace" :fetcher github)

@@ -1,0 +1,1 @@
+(todoist :repo "anticomputer/emacs-todoist" :fetcher github)

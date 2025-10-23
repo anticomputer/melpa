@@ -1,0 +1,1 @@
+(metronome :fetcher sourcehut :repo "anticomputer/metronome" :fetcher sourcehut :files (:defaults "sounds"))

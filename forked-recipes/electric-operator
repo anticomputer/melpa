@@ -1,0 +1,2 @@
+(electric-operator :repo "anticomputer/electric-operator"
+                   :fetcher github)

@@ -1,0 +1,4 @@
+(typit
+ :repo "anticomputer/typit"
+ :fetcher github
+ :files (:defaults "dict"))

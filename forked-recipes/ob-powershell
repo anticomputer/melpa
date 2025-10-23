@@ -1,0 +1,2 @@
+(ob-powershell :repo "anticomputer/ob-powershell"
+               :fetcher github)

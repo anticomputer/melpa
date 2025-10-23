@@ -1,0 +1,4 @@
+(edwina
+ :fetcher gitlab
+ :repo "anticomputer/edwina"
+ :old-names (edwin))

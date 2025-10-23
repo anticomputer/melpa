@@ -1,0 +1,2 @@
+(auto-complete-chunk :fetcher github :repo "anticomputer/auto-complete-chunk"
+                     :files ("auto-complete-chunk.el"))

@@ -1,1 +1,0 @@
-(twittering-mode :repo "anticomputer/twittering-mode" :fetcher github :branch "anticomputer-fixes")

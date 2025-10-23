@@ -1,0 +1,1 @@
+(unicode-escape :fetcher github :repo "anticomputer/unicode-escape.el")

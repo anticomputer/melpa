@@ -1,0 +1,4 @@
+(company-sourcekit
+  :repo "anticomputer/company-sourcekit"
+  :fetcher github
+  :files ("company-sourcekit.el"))

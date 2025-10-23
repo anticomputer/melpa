@@ -1,0 +1,3 @@
+(term-project :fetcher github
+              :repo "anticomputer/term-manager"
+              :files ("term-project.el"))

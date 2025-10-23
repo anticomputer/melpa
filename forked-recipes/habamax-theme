@@ -1,0 +1,2 @@
+(habamax-theme :repo "anticomputer/habamax-theme"
+               :fetcher github)

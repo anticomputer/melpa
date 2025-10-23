@@ -1,0 +1,2 @@
+(chinese-word-at-point :repo "anticomputer/chinese-word-at-point.el"
+                       :fetcher github)

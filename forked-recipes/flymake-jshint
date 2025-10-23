@@ -1,0 +1,1 @@
+(flymake-jshint :repo "anticomputer/flymake-jshint.el" :fetcher github)

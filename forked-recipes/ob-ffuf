@@ -1,0 +1,1 @@
+(ob-ffuf :repo "anticomputer/ob-ffuf" :fetcher github)

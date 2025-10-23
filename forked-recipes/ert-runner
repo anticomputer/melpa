@@ -1,0 +1,4 @@
+(ert-runner
+ :fetcher github
+ :repo "anticomputer/ert-runner.el"
+ :files ("*.el" "bin" "reporters"))

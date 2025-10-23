@@ -1,0 +1,1 @@
+(register-channel :fetcher github :repo "anticomputer/register-channel")

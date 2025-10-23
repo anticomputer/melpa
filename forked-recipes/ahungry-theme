@@ -1,0 +1,4 @@
+(ahungry-theme
+ :repo "anticomputer/color-theme-ahungry"
+ :files ("ahungry-theme.el")
+ :fetcher github)

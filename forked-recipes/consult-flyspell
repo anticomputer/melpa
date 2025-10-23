@@ -1,0 +1,3 @@
+(consult-flyspell
+ :repo "anticomputer/consult-flyspell"
+ :fetcher gitlab)

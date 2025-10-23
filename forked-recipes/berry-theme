@@ -1,0 +1,5 @@
+(berry-theme
+ :fetcher github
+ :repo "anticomputer/unique-emacs-theme-pack"
+ :files ("Themes/berry-theme.el"))
+

@@ -1,0 +1,2 @@
+(hal-mode :fetcher github :repo "anticomputer/hal-mode")
+

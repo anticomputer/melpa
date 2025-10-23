@@ -1,0 +1,2 @@
+(org-rtm :repo "anticomputer/org-rtm"
+	 :fetcher github)

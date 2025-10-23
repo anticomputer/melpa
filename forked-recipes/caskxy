@@ -1,0 +1,2 @@
+(caskxy :repo "anticomputer/caskxy"
+        :fetcher github)

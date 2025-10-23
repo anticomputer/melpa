@@ -1,0 +1,2 @@
+(shell-command-x :fetcher github
+                 :repo "anticomputer/shell-command-x.el")

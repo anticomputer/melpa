@@ -1,0 +1,1 @@
+(somafm :fetcher github :repo "anticomputer/somafm.el")

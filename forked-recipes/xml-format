@@ -1,0 +1,3 @@
+(xml-format
+ :fetcher github
+ :repo "anticomputer/emacs-xml-format")

@@ -1,0 +1,1 @@
+(basic-c-compile :repo "anticomputer/basic-c-compile" :fetcher github)

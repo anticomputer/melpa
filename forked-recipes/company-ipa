@@ -1,0 +1,2 @@
+(company-ipa :repo "anticomputer/company-ipa"
+             :fetcher gitlab)

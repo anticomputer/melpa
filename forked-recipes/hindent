@@ -1,0 +1,1 @@
+(hindent :fetcher github :repo "anticomputer/hindent" :files ("elisp/*.el"))

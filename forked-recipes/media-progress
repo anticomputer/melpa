@@ -1,0 +1,4 @@
+(media-progress
+ :repo "anticomputer/media-progress"
+ :fetcher github
+ :files ("media-progress.el"))

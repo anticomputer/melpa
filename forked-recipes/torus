@@ -1,0 +1,2 @@
+(torus :repo "anticomputer/torus"
+       :fetcher github)

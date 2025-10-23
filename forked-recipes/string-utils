@@ -1,0 +1,1 @@
+(string-utils :repo "anticomputer/string-utils" :fetcher github)

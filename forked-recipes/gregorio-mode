@@ -1,0 +1,1 @@
+(gregorio-mode :fetcher github :repo "anticomputer/gregorio-mode")

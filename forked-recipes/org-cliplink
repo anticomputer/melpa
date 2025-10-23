@@ -1,0 +1,2 @@
+(org-cliplink :repo "anticomputer/org-cliplink"
+              :fetcher github)

@@ -1,0 +1,1 @@
+(soria-theme :repo "anticomputer/soria" :fetcher github)

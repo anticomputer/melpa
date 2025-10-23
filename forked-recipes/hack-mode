@@ -1,0 +1,2 @@
+(hack-mode :repo "anticomputer/hack-mode"
+           :fetcher github)

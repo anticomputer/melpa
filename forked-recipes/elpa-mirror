@@ -1,0 +1,1 @@
+(elpa-mirror :fetcher github :repo "anticomputer/elpa-mirror")

@@ -1,0 +1,1 @@
+(async-status :repo "anticomputer/async-status" :fetcher github)

@@ -1,0 +1,2 @@
+(csgo-conf-mode :fetcher github
+                :repo "anticomputer/emacs-csgo-conf-mode")

@@ -1,0 +1,3 @@
+(zeno-theme
+ :repo "anticomputer/zeno-theme"
+ :fetcher github)

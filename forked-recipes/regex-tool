@@ -1,0 +1,1 @@
+(regex-tool :fetcher github :repo "anticomputer/regex-tool")

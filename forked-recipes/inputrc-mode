@@ -1,0 +1,1 @@
+(inputrc-mode :repo "anticomputer/inputrc-mode" :fetcher github)

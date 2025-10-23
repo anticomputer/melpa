@@ -1,0 +1,2 @@
+(lpy :repo "anticomputer/lpy"
+     :fetcher github)

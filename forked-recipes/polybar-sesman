@@ -1,0 +1,2 @@
+(polybar-sesman :fetcher github
+             :repo "anticomputer/polybar-sesman.el")

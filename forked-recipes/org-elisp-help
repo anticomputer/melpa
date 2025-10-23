@@ -1,0 +1,1 @@
+(org-elisp-help :repo "anticomputer/org-elisp-help" :fetcher github)

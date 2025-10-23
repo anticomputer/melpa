@@ -1,0 +1,6 @@
+(purescript-mode
+ :repo "anticomputer/purescript-mode"
+ :fetcher github
+ :files (:defaults
+         "NEWS"
+         "snippets"))

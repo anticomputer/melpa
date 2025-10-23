@@ -1,0 +1,1 @@
+(wispjs-mode :fetcher github :repo "anticomputer/wispjs-mode")

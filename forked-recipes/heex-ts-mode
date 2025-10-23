@@ -1,0 +1,2 @@
+(heex-ts-mode :repo "anticomputer/heex-ts-mode"
+              :fetcher github)

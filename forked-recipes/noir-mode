@@ -1,0 +1,2 @@
+(noir-mode :repo "anticomputer/noir-mode"
+                :fetcher github)

@@ -1,0 +1,3 @@
+(kubel :fetcher github
+       :repo "anticomputer/kubel"
+       :files (:defaults (:exclude "kubel-evil.el")))

@@ -1,0 +1,2 @@
+(google-maps :fetcher github :repo "anticomputer/google-maps.el")
+

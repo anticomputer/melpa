@@ -1,0 +1,1 @@
+(jquery-doc :fetcher github :repo "anticomputer/jquery-doc.el")

@@ -1,0 +1,3 @@
+(hl-prog-extra
+ :fetcher codeberg
+ :repo "anticomputer/emacs-hl-prog-extra")

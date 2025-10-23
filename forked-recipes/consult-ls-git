@@ -1,0 +1,3 @@
+(consult-ls-git
+ :repo "anticomputer/consult-ls-git"
+ :fetcher github)

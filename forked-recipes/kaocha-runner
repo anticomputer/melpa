@@ -1,0 +1,1 @@
+(kaocha-runner :fetcher github :repo "anticomputer/kaocha-runner.el")

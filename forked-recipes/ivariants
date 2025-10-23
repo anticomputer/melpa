@@ -1,0 +1,4 @@
+(ivariants
+ :fetcher github
+ :repo "anticomputer/emacs-ivariants"
+ :files ("ivariants*.el" "tables"))

@@ -1,0 +1,1 @@
+(immersive-translate :repo "anticomputer/emacs-immersive-translate" :fetcher github)

@@ -1,0 +1,6 @@
+(dkl
+ :fetcher github
+ :repo "anticomputer/dkl"
+ :files (:defaults
+         "keyboards"
+         "layouts"))

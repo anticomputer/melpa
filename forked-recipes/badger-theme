@@ -1,0 +1,3 @@
+(badger-theme
+ :repo "anticomputer/badger-theme"
+ :fetcher github)

@@ -1,0 +1,1 @@
+(edit-server-htmlize :repo "anticomputer/edit-server-htmlize" :fetcher github)

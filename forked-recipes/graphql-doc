@@ -1,0 +1,1 @@
+(graphql-doc :repo "anticomputer/graphql-doc.el" :fetcher github)

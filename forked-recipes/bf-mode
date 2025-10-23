@@ -1,0 +1,2 @@
+(bf-mode :repo "anticomputer/bf-mode"
+         :fetcher github)

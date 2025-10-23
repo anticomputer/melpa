@@ -1,0 +1,1 @@
+(persist-text-scale :fetcher github :repo "anticomputer/persist-text-scale.el")

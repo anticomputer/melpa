@@ -1,0 +1,1 @@
+(ac-dcd :repo "anticomputer/ac-dcd" :fetcher github)

@@ -1,0 +1,4 @@
+(js-react-redux-yasnippets
+ :fetcher github
+ :repo "anticomputer/js-react-redux-yasnippets"
+ :files ("*.el" "snippets"))

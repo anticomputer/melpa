@@ -1,0 +1,1 @@
+(hamlet-mode :fetcher github :repo "anticomputer/hamlet-mode")

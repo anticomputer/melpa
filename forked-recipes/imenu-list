@@ -1,0 +1,2 @@
+(imenu-list :repo "anticomputer/imenu-list"
+	    :fetcher github)

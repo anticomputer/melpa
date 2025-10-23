@@ -1,0 +1,2 @@
+(tmsu :repo "anticomputer/tmsu.el" :fetcher github
+      :files (:defaults (:exclude "ol-tmsu.el")))

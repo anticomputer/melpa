@@ -1,0 +1,1 @@
+(sprunge :fetcher github :repo "anticomputer/sprunge.el")

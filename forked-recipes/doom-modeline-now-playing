@@ -1,0 +1,3 @@
+(doom-modeline-now-playing
+ :fetcher github
+ :repo "anticomputer/doom-modeline-now-playing") 

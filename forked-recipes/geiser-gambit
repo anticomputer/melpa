@@ -1,0 +1,4 @@
+(geiser-gambit
+ :fetcher gitlab
+ :repo "anticomputer/gambit"
+ :files (:defaults ("src" "src/*")))

@@ -1,0 +1,1 @@
+(use-ttf :repo "anticomputer/use-ttf" :fetcher github)

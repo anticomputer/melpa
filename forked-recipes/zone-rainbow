@@ -1,0 +1,2 @@
+(zone-rainbow :repo "anticomputer/zone-rainbow"
+              :fetcher github)

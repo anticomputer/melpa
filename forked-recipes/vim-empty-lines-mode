@@ -1,0 +1,2 @@
+(vim-empty-lines-mode :fetcher github 
+                      :repo "anticomputer/vim-empty-lines-mode")

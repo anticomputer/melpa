@@ -1,0 +1,1 @@
+(ido-flex-with-migemo :repo "anticomputer/ido-flex-with-migemo" :fetcher github)

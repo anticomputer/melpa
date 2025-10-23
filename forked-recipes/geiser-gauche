@@ -1,0 +1,3 @@
+(geiser-gauche :repo "anticomputer/gauche"
+	       :fetcher gitlab
+	       :files (:defaults "geiser-gauche.scm"))

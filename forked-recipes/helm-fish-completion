@@ -1,0 +1,3 @@
+(helm-fish-completion
+ :repo "anticomputer/helm-fish-completion"
+ :fetcher github)

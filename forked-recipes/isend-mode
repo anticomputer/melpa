@@ -1,0 +1,1 @@
+(isend-mode :fetcher github :repo "anticomputer/isend-mode.el")

@@ -1,0 +1,4 @@
+(rbtagger
+ :fetcher github
+ :repo "anticomputer/rbtagger"
+ :files (:defaults "bin"))

@@ -1,0 +1,2 @@
+(zk-luhmann :repo "anticomputer/zk-luhmann"
+            :fetcher github)

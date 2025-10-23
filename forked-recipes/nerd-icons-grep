@@ -1,0 +1,3 @@
+(nerd-icons-grep
+ :fetcher github
+ :repo "anticomputer/nerd-icons-grep")

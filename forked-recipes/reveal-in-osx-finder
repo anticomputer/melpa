@@ -1,0 +1,3 @@
+(reveal-in-osx-finder :repo "anticomputer/reveal-in-osx-finder"
+                      :fetcher github
+                      :old-names (reveal-in-finder))

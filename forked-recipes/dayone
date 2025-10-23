@@ -1,0 +1,4 @@
+(dayone
+ :fetcher github
+ :repo "anticomputer/emacs-dayone"
+ :files ("*.el" "*.mustache"))

@@ -1,0 +1,1 @@
+(dashboard-ls :repo "anticomputer/dashboard-ls" :fetcher github)

@@ -1,0 +1,1 @@
+(robots-txt-mode :fetcher github :repo "anticomputer/robots-txt-mode")

@@ -1,0 +1,1 @@
+(haste :fetcher github :repo "anticomputer/emacs-haste-client")

@@ -1,0 +1,4 @@
+(apdl-mode
+:fetcher github
+:repo "anticomputer/apdl-mode"
+:files (:defaults "matlib" "template"))

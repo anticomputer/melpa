@@ -1,0 +1,1 @@
+(curry-on-theme :repo "anticomputer/Curry-On-theme" :fetcher github)

@@ -1,0 +1,3 @@
+(shift-text
+ :repo "anticomputer/shift-text"
+ :fetcher github)

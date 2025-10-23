@@ -1,0 +1,1 @@
+(muban :repo "anticomputer/muban.el" :fetcher github)

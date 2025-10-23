@@ -1,0 +1,1 @@
+(yahtzee :repo "anticomputer/yahtzee" :fetcher github)

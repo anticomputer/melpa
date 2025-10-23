@@ -1,0 +1,1 @@
+(habitica :repo "anticomputer/emacs-habitica" :fetcher github)

@@ -1,0 +1,1 @@
+(hyperkitty :fetcher github :repo "anticomputer/hyperkitty.el")

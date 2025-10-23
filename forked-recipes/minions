@@ -1,0 +1,1 @@
+(minions :fetcher github :repo "anticomputer/minions")

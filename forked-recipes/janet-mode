@@ -1,0 +1,1 @@
+(janet-mode :repo "anticomputer/janet-mode" :fetcher github)

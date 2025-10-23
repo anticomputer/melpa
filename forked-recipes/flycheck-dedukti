@@ -1,0 +1,1 @@
+(flycheck-dedukti :fetcher github :repo "anticomputer/flycheck-dedukti")

@@ -1,0 +1,2 @@
+(scala-mode :fetcher github
+            :repo "anticomputer/emacs-scala-mode")

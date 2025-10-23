@@ -1,0 +1,4 @@
+(processing-mode
+ :repo "anticomputer/processing2-emacs"
+ :fetcher github
+ :files ("processing-mode.el"))

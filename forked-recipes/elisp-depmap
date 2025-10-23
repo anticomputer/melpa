@@ -1,0 +1,1 @@
+(elisp-depmap :fetcher github :repo "anticomputer/elisp-depmap.el" )

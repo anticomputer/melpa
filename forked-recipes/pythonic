@@ -1,0 +1,3 @@
+(pythonic
+ :fetcher github
+ :repo "anticomputer/pythonic")

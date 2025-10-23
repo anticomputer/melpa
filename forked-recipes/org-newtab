@@ -1,0 +1,1 @@
+(org-newtab :repo "anticomputer/org-newtab" :fetcher github)

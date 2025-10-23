@@ -1,0 +1,1 @@
+(indicators :fetcher github :repo "anticomputer/indicators.el")

@@ -1,0 +1,2 @@
+(helm-prosjekt :fetcher github :repo "anticomputer/prosjekt"
+               :files ("prosjekt/ext/helm/helm-prosjekt.el"))

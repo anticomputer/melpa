@@ -1,0 +1,3 @@
+(vue3-mode
+ :fetcher github
+ :repo "anticomputer/vue3-mode")

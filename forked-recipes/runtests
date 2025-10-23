@@ -1,0 +1,1 @@
+(runtests :fetcher github :repo "anticomputer/emacs-runtests")

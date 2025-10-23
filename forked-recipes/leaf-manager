@@ -1,0 +1,1 @@
+(leaf-manager :fetcher github :repo "anticomputer/leaf-manager.el")

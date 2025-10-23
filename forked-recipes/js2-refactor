@@ -1,0 +1,1 @@
+(js2-refactor :repo "anticomputer/js2-refactor.el" :fetcher github)

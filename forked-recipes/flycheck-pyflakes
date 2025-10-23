@@ -1,0 +1,1 @@
+(flycheck-pyflakes :repo "anticomputer/flycheck-pyflakes" :fetcher github)

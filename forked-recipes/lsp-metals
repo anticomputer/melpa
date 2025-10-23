@@ -1,0 +1,1 @@
+(lsp-metals :repo "anticomputer/lsp-metals" :fetcher github :files (:defaults "icons"))

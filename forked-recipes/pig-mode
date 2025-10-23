@@ -1,0 +1,2 @@
+(pig-mode :repo "anticomputer/pig-mode" :fetcher github :files ("pig-mode.el"))
+

@@ -1,0 +1,1 @@
+(prassee-theme :repo "anticomputer/prassee-emacs-theme" :fetcher github)

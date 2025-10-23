@@ -1,0 +1,1 @@
+(texfrag :repo "anticomputer/texfrag" :fetcher github)

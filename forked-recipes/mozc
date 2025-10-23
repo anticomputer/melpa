@@ -1,0 +1,4 @@
+(mozc
+ :fetcher github
+ :repo "anticomputer/mozc"
+ :files ("src/unix/emacs/mozc.el"))

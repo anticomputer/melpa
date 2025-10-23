@@ -1,0 +1,1 @@
+(flymake-phpcs :repo "anticomputer/flymake-phpcs" :fetcher github)

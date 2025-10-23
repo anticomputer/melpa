@@ -1,0 +1,3 @@
+(mark-multiple
+ :fetcher github
+ :repo "anticomputer/mark-multiple.el")

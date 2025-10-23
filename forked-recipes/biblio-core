@@ -1,0 +1,4 @@
+(biblio-core
+ :repo "anticomputer/biblio.el"
+ :fetcher github
+ :files ("biblio-core.el"))

@@ -1,0 +1,2 @@
+(mu4e-overview :fetcher github
+               :repo "anticomputer/mu4e-overview")

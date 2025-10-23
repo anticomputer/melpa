@@ -1,0 +1,3 @@
+(test-case-mode
+ :fetcher codeberg
+ :repo "anticomputer/test-case-mode")

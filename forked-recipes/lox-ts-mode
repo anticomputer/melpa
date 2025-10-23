@@ -1,0 +1,1 @@
+(lox-ts-mode :repo "anticomputer/lox-ts-mode" :fetcher github)

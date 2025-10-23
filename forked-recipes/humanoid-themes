@@ -1,0 +1,2 @@
+(humanoid-themes :repo "anticomputer/emacs-humanoid-themes"
+                 :fetcher github)

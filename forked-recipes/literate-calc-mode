@@ -1,0 +1,1 @@
+(literate-calc-mode :fetcher github :repo "anticomputer/literate-calc-mode.el")

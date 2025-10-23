@@ -1,0 +1,1 @@
+(erc-track-score :fetcher github :repo "anticomputer/erc-track-score.el")

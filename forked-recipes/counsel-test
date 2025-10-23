@@ -1,0 +1,4 @@
+(counsel-test
+ :repo "anticomputer/counsel-test"
+ :fetcher github
+ :files ("counsel-test*.el"))

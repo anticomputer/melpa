@@ -1,0 +1,1 @@
+(modern-fringes :repo "anticomputer/emacs-modern-fringes" :fetcher github)

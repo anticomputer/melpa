@@ -1,0 +1,3 @@
+(atom-dark-theme
+ :fetcher github
+ :repo "anticomputer/atom-dark-theme-emacs")

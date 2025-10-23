@@ -1,0 +1,1 @@
+(pixiv-novel-mode :fetcher github :repo "anticomputer/pixiv-novel-mode.el")

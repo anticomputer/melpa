@@ -1,0 +1,2 @@
+(org-toodledo :repo "anticomputer/org-toodledo"
+              :fetcher github)

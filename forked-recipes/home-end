@@ -1,0 +1,3 @@
+(home-end
+  :fetcher github
+  :repo "anticomputer/emacs-home-end")

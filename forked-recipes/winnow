@@ -1,0 +1,1 @@
+(winnow :fetcher github :repo "anticomputer/winnow.el")

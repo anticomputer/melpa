@@ -1,0 +1,1 @@
+(stripspace :fetcher github :repo "anticomputer/stripspace.el")

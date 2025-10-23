@@ -1,0 +1,2 @@
+(magrant :repo "anticomputer/magrant"
+         :fetcher github)

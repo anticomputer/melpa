@@ -1,0 +1,4 @@
+(clomacs
+ :fetcher github
+ :repo "anticomputer/clomacs"
+ :files ("src/elisp/*.el"))

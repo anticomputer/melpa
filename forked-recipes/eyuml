@@ -1,0 +1,2 @@
+(eyuml :fetcher github
+             :repo "anticomputer/eyuml")

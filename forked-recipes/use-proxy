@@ -1,0 +1,1 @@
+(use-proxy :repo "anticomputer/use-proxy" :fetcher github)

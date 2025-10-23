@@ -1,5 +1,0 @@
-(tree-sitter-langs :repo "anticomputer/tree-sitter-langs-1"
-                   :fetcher github
-                   :branch "anticomputer-ql"
-                   :files (:defaults
-                           "queries"))

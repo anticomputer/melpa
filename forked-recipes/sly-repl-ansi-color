@@ -1,0 +1,3 @@
+(sly-repl-ansi-color
+ :fetcher github
+ :repo "anticomputer/sly-repl-ansi-color")

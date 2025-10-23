@@ -1,0 +1,3 @@
+(org-roam-ui :fetcher github
+             :repo "anticomputer/org-roam-ui"
+             :files (:defaults "out"))

@@ -1,0 +1,4 @@
+(org-attach-screenshot
+ :fetcher github
+ :repo "anticomputer/org-screenshot"
+ :old-names (org-screenshot))

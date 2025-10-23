@@ -1,0 +1,3 @@
+(major-mode-hydra :repo "anticomputer/major-mode-hydra.el"
+                  :fetcher github
+                  :files ("major-mode-hydra.el"))

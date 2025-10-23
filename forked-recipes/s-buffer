@@ -1,0 +1,1 @@
+(s-buffer :fetcher github :repo "anticomputer/emacs-s-buffer")

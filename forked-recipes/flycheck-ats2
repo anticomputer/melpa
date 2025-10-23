@@ -1,0 +1,1 @@
+(flycheck-ats2 :repo "anticomputer/flycheck-ats2" :fetcher github)

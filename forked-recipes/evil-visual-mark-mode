@@ -1,0 +1,1 @@
+(evil-visual-mark-mode :repo "anticomputer/evil-visual-mark-mode" :fetcher github)

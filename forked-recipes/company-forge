@@ -1,0 +1,3 @@
+(company-forge :fetcher github
+               :repo "anticomputer/company-forge.el"
+               :files (:defaults "icons"))

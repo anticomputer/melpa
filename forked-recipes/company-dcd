@@ -1,0 +1,1 @@
+(company-dcd :repo "anticomputer/company-dcd"  :fetcher github)

@@ -1,0 +1,1 @@
+(ob-rust :fetcher github :repo "anticomputer/ob-rust")

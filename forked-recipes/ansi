@@ -1,0 +1,2 @@
+(ansi :repo "anticomputer/ansi.el" :fetcher github)
+

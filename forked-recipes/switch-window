@@ -1,0 +1,1 @@
+(switch-window :repo "anticomputer/switch-window" :fetcher github)

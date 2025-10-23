@@ -1,0 +1,3 @@
+(py-yapf
+ :repo "anticomputer/py-yapf.el"
+ :fetcher github)

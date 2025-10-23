@@ -1,0 +1,2 @@
+(popup-switcher :repo "anticomputer/popup-switcher"
+                :fetcher gitlab)

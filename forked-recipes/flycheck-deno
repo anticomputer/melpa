@@ -1,0 +1,1 @@
+(flycheck-deno :repo "anticomputer/flycheck-deno" :fetcher github)

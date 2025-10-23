@@ -1,0 +1,1 @@
+(airplay :fetcher github :repo "anticomputer/airplay-el")

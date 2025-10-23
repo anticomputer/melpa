@@ -1,0 +1,1 @@
+(walkclj :repo "anticomputer/walkclj" :fetcher github)

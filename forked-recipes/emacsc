@@ -1,0 +1,4 @@
+(emacsc
+ :fetcher github
+ :repo "anticomputer/emacsc"
+ :files (:defaults "bin"))

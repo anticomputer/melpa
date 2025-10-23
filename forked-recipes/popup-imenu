@@ -1,0 +1,3 @@
+(popup-imenu
+ :repo "anticomputer/popup-imenu"
+ :fetcher github)

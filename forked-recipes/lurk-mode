@@ -1,0 +1,4 @@
+(lurk-mode
+ :fetcher github
+ :repo "anticomputer/lurk-emacs"
+ :files ("lurk-mode.el"))

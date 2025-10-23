@@ -1,0 +1,1 @@
+(hamburger-menu :repo "anticomputer/hamburger-menu-mode" :fetcher gitlab)

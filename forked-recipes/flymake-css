@@ -1,0 +1,1 @@
+(flymake-css :repo "anticomputer/flymake-css" :fetcher github)

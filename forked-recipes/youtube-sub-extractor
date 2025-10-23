@@ -1,0 +1,1 @@
+(youtube-sub-extractor :repo "anticomputer/youtube-sub-extractor.el" :fetcher github)

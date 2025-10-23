@@ -1,0 +1,1 @@
+(company-emoji :repo "anticomputer/company-emoji" :fetcher codeberg)

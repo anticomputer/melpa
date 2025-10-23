@@ -1,0 +1,4 @@
+(es-mode
+ :fetcher github
+ :repo "anticomputer/es-mode"
+ :files ("*.el" "snippets"))

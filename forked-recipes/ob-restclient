@@ -1,0 +1,2 @@
+(ob-restclient :repo "anticomputer/ob-restclient.el"
+               :fetcher github)

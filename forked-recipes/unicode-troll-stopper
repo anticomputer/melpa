@@ -1,0 +1,2 @@
+(unicode-troll-stopper :fetcher github
+                       :repo "anticomputer/emacs-unicode-troll-stopper")

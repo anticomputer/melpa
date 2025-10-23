@@ -1,0 +1,4 @@
+(fortpy
+ :fetcher github
+ :repo "anticomputer/fortpy-el"
+ :files ("fortpy*" "Makefile" "setup.py"))

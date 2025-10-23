@@ -1,0 +1,1 @@
+(helm-dash :repo "anticomputer/helm-dash" :fetcher github)

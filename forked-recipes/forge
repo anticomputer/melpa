@@ -1,0 +1,4 @@
+(forge
+ :fetcher github
+ :repo "anticomputer/forge"
+ :files ("lisp/*.el" "docs/*.texi" ".dir-locals.el"))

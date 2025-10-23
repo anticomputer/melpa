@@ -1,0 +1,1 @@
+(ruby-tools :repo "anticomputer/ruby-tools.el" :fetcher github)

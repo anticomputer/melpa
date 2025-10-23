@@ -1,0 +1,4 @@
+(boxes
+ :fetcher github
+ :repo "anticomputer/boxes"
+ :files ("doc/*.el"))

@@ -1,0 +1,1 @@
+(el-spice :repo "anticomputer/el-spice" :fetcher github)

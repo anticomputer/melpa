@@ -1,0 +1,4 @@
+(go-gen-test
+ :fetcher github
+ :repo "anticomputer/go-gen-test"
+ :files ("go-gen-test.el"))

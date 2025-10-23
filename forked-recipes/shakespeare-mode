@@ -1,0 +1,1 @@
+(shakespeare-mode :fetcher github :repo "anticomputer/shakespeare-mode")

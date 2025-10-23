@@ -1,0 +1,1 @@
+(command-log-mode :fetcher github :repo "anticomputer/command-log-mode")

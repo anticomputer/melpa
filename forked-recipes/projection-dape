@@ -1,0 +1,4 @@
+(projection-dape
+ :fetcher github
+ :repo "anticomputer/projection"
+ :files ("src/projection-dape/projection-dape*.el"))

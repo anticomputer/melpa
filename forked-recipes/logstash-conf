@@ -1,0 +1,1 @@
+(logstash-conf :repo "anticomputer/logstash-conf.el" :fetcher github)

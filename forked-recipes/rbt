@@ -1,0 +1,1 @@
+(rbt :fetcher github :repo "anticomputer/rbt.el")

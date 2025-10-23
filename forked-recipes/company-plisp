@@ -1,0 +1,1 @@
+(company-plisp  :fetcher gitlab :repo "anticomputer/company-plisp" :files ("company-plisp.el" "company-plisp.l"))

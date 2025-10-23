@@ -1,0 +1,1 @@
+(flymake-eslint :repo "anticomputer/flymake-eslint" :fetcher github)

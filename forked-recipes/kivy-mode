@@ -1,0 +1,1 @@
+(kivy-mode :repo "anticomputer/kivy" :fetcher github :files ("kivy/tools/highlight/kivy-mode.el"))

@@ -1,0 +1,2 @@
+(elf-mode :repo "anticomputer/elf-mode"
+          :fetcher github)

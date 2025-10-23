@@ -1,0 +1,1 @@
+(demap :fetcher gitlab :repo "anticomputer/demap.el")

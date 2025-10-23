@@ -1,0 +1,4 @@
+(consult-gh-embark
+ :fetcher github
+ :repo "anticomputer/consult-gh"
+ :files ("consult-gh-embark.el"))

@@ -1,0 +1,1 @@
+(auth-source-gopass :fetcher github :repo "anticomputer/auth-source-gopass")

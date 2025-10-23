@@ -1,0 +1,2 @@
+(orgnav :repo "anticomputer/orgnav"
+      :fetcher github)

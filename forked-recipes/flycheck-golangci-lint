@@ -1,0 +1,1 @@
+(flycheck-golangci-lint :repo "anticomputer/flycheck-golangci-lint" :fetcher github)

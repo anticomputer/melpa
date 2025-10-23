@@ -1,0 +1,2 @@
+(all-the-icons-gnus :repo "anticomputer/all-the-icons-gnus"
+                   :fetcher github)

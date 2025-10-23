@@ -1,0 +1,1 @@
+(reverse-im :repo "anticomputer/reverse-im.el" :fetcher github)

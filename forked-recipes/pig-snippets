@@ -1,0 +1,4 @@
+(pig-snippets
+ :fetcher github
+ :repo "anticomputer/pig-mode"
+ :files ("pig-snippets*.el" "snippets"))

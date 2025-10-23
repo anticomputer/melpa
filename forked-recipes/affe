@@ -1,0 +1,3 @@
+(affe
+ :repo "anticomputer/affe"
+ :fetcher github)

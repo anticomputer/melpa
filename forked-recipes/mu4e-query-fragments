@@ -1,0 +1,2 @@
+(mu4e-query-fragments :repo "anticomputer/mu4e-query-fragments.el"
+                      :fetcher gitlab)

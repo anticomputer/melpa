@@ -1,0 +1,3 @@
+(gpx :fetcher github
+     :repo "anticomputer/gpx-mode"
+     :files (:defaults "*.py"))

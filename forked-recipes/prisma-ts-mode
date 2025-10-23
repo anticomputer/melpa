@@ -1,0 +1,1 @@
+(prisma-ts-mode :repo "anticomputer/prisma-ts-mode" :fetcher github)

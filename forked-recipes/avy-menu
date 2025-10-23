@@ -1,0 +1,1 @@
+(avy-menu :repo "anticomputer/avy-menu" :fetcher github)

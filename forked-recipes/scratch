@@ -1,0 +1,4 @@
+(scratch
+ :fetcher codeberg
+ :repo "anticomputer/scratch"
+ :files ("scratch.el"))

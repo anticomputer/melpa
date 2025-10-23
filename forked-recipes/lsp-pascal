@@ -1,0 +1,3 @@
+(lsp-pascal
+ :fetcher github
+ :repo "anticomputer/lsp-pascal")

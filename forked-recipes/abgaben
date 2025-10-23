@@ -1,0 +1,1 @@
+(abgaben :repo "anticomputer/abgaben" :fetcher gitlab)

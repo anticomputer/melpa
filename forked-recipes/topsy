@@ -1,0 +1,1 @@
+(topsy :fetcher github :repo "anticomputer/topsy.el")

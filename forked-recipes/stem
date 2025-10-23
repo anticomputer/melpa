@@ -1,0 +1,2 @@
+(stem :repo "anticomputer/stem"
+      :fetcher github)

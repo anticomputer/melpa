@@ -1,0 +1,4 @@
+(docstr
+ :fetcher github
+ :repo "anticomputer/docstr"
+ :files (:defaults "langs/*.el"))

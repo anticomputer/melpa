@@ -1,0 +1,1 @@
+(elfeed-autotag :repo "anticomputer/elfeed-autotag" :fetcher github)

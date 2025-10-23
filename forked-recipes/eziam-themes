@@ -1,0 +1,4 @@
+(eziam-themes
+ :fetcher github
+ :repo "anticomputer/eziam-theme-emacs"
+ :old-names (eziam-theme))

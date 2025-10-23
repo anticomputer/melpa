@@ -1,0 +1,1 @@
+(hcl-mode :repo "anticomputer/hcl-mode" :fetcher github)

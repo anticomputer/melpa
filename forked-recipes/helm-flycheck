@@ -1,0 +1,1 @@
+(helm-flycheck :fetcher github :repo "anticomputer/helm-flycheck")

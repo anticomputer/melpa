@@ -1,0 +1,6 @@
+(pygn-mode
+ :fetcher github
+ :repo "anticomputer/pygn-mode"
+ :files (:defaults
+         "pygn_server.py"
+         "lib"))

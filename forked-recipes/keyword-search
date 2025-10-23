@@ -1,0 +1,1 @@
+(keyword-search :repo "anticomputer/keyword-search" :fetcher github)

@@ -1,0 +1,2 @@
+(nclip :fetcher github :repo "anticomputer/nclip.el"
+       :files ("nclip.el" "nclip.rb" "nclip.py"))

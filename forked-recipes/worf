@@ -1,0 +1,2 @@
+(worf :repo "anticomputer/worf"
+      :fetcher github)

@@ -1,0 +1,2 @@
+(evil-visualstar :repo "anticomputer/evil-visualstar" :fetcher github)
+

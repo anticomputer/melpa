@@ -1,0 +1,1 @@
+(flycheck-prospector :repo "anticomputer/flycheck-prospector" :fetcher github)

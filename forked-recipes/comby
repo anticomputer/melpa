@@ -1,0 +1,1 @@
+(comby :repo "anticomputer/comby.el" :fetcher github)

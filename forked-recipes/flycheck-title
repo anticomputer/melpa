@@ -1,0 +1,2 @@
+(flycheck-title :repo "anticomputer/flycheck-title"
+                :fetcher github)

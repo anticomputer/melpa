@@ -1,0 +1,3 @@
+(gnus-alias
+ :fetcher github
+ :repo "anticomputer/gnus-alias")

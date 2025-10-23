@@ -1,0 +1,1 @@
+(ob-julia-vterm :repo "anticomputer/ob-julia-vterm.el" :fetcher github)

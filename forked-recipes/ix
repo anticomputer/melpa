@@ -1,0 +1,1 @@
+(ix :repo "anticomputer/ix.el" :fetcher github)

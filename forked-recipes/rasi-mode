@@ -1,0 +1,1 @@
+(rasi-mode :fetcher github :repo "anticomputer/emacs-rasi-mode")

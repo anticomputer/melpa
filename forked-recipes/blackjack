@@ -1,0 +1,3 @@
+(blackjack
+ :fetcher github
+ :repo "anticomputer/blackjack-el")

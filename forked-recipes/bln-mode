@@ -1,0 +1,3 @@
+(bln-mode
+ :repo "anticomputer/bln-mode"
+ :fetcher github)

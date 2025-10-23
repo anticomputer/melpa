@@ -1,0 +1,3 @@
+(org-table-comment
+ :fetcher github
+ :repo "anticomputer/org-table-comment.el")

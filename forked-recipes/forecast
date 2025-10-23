@@ -1,0 +1,4 @@
+(forecast
+ :fetcher codeberg
+ :repo "anticomputer/elisp"
+ :files ("forecast.el"))

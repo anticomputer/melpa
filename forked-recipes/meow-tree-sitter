@@ -1,0 +1,4 @@
+(meow-tree-sitter
+ :fetcher github
+ :repo "anticomputer/meow-tree-sitter"
+ :files (:defaults "queries"))

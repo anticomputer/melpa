@@ -1,0 +1,4 @@
+(restclient
+ :fetcher github
+ :repo "anticomputer/restclient"
+ :files ("restclient.el"))

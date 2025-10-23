@@ -1,0 +1,3 @@
+(sumibi
+ :fetcher github
+ :repo "anticomputer/Sumibi")

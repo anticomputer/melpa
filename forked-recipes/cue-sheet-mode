@@ -1,0 +1,1 @@
+(cue-sheet-mode :repo "anticomputer/cue-sheet-mode" :fetcher github)

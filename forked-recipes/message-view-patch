@@ -1,0 +1,1 @@
+(message-view-patch :repo "anticomputer/message-view-patch" :fetcher github)

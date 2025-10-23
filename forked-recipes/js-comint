@@ -1,0 +1,3 @@
+(js-comint
+ :repo "anticomputer/js-comint"
+ :fetcher github)

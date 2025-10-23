@@ -1,0 +1,1 @@
+(fuzzy-finder :repo "anticomputer/fuzzy-finder-el" :fetcher github)

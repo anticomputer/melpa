@@ -1,0 +1,4 @@
+(jinx
+ :repo "anticomputer/jinx"
+ :files (:defaults "jinx-mod.c" "emacs-module.h")
+ :fetcher github)

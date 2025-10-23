@@ -1,0 +1,2 @@
+(usage-memo :fetcher github :repo "anticomputer/usage-memo"
+    	    :files (:defaults (:exclude "test-usage-memo.el")))

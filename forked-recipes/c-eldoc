@@ -1,0 +1,2 @@
+(c-eldoc :repo "anticomputer/c-eldoc" :fetcher github)
+

@@ -1,0 +1,4 @@
+(esqlite-helm
+ :fetcher github
+ :repo "anticomputer/Emacs-esqlite"
+ :files ("esqlite-helm.el"))

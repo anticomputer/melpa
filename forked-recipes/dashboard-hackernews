@@ -1,0 +1,1 @@
+(dashboard-hackernews :fetcher github :repo "anticomputer/emacs-dashboard-hackernews")

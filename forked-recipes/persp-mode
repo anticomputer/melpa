@@ -1,0 +1,1 @@
+(persp-mode :repo "anticomputer/persp-mode.el" :fetcher github)

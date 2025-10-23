@@ -1,0 +1,1 @@
+(awscli-capf :repo "anticomputer/awscli-capf" :fetcher github)

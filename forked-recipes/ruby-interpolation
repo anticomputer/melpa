@@ -1,0 +1,3 @@
+(ruby-interpolation
+ :repo "anticomputer/ruby-interpolation.el"
+ :fetcher github)

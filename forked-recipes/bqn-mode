@@ -1,0 +1,3 @@
+(bqn-mode
+ :fetcher github
+ :repo "anticomputer/bqn-mode")

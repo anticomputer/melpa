@@ -1,0 +1,4 @@
+(rjsx-mode
+ :fetcher github
+ :repo "anticomputer/rjsx-mode")
+ 

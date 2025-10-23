@@ -1,0 +1,1 @@
+(robot-mode :fetcher github :repo "anticomputer/robot-mode")

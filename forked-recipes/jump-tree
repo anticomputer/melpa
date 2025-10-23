@@ -1,0 +1,1 @@
+(jump-tree :repo "anticomputer/jump-tree" :fetcher github)

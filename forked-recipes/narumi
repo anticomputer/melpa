@@ -1,0 +1,1 @@
+(narumi :repo "anticomputer/narumi" :fetcher github)

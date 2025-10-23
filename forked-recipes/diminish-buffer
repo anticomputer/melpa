@@ -1,0 +1,1 @@
+(diminish-buffer :repo "anticomputer/diminish-buffer" :fetcher github)

@@ -1,0 +1,1 @@
+(wordel :repo "anticomputer/wordel" :fetcher github :files (:defaults "words"))

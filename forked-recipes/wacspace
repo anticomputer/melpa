@@ -1,0 +1,3 @@
+(wacspace
+ :fetcher github
+ :repo "anticomputer/wacspace.el")

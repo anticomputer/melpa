@@ -1,0 +1,1 @@
+(prompt-text :repo "anticomputer/prompt-text-el" :fetcher github)

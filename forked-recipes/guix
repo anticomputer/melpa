@@ -1,0 +1,8 @@
+(guix
+ :fetcher codeberg
+ :repo "anticomputer/emacs-guix"
+ :files ("elisp/*.el"
+         "doc/*.texi"
+         ("images" "images/*.svg")
+         ("scheme" "scheme/*")
+         (:exclude "scheme/Makefile.am")))

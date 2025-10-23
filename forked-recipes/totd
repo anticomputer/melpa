@@ -1,0 +1,2 @@
+(totd :fetcher gitlab
+      :repo "anticomputer/emacs-totd")

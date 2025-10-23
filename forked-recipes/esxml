@@ -1,0 +1,1 @@
+(esxml :fetcher github :repo "anticomputer/esxml" :files ("esxml.el" "esxml-query.el"))

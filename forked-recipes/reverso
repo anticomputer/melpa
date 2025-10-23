@@ -1,0 +1,1 @@
+(reverso :repo "anticomputer/reverso.el" :fetcher github)

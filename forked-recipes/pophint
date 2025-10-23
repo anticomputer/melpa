@@ -1,0 +1,2 @@
+(pophint :repo "anticomputer/emacs-pophint"
+         :fetcher github)

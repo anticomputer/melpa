@@ -1,0 +1,1 @@
+(monotropic-theme :repo "anticomputer/monotropic-theme" :fetcher github)

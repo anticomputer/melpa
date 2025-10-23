@@ -1,0 +1,3 @@
+(elscreen
+ :repo "anticomputer/elscreen"
+ :fetcher github)

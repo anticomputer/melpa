@@ -1,0 +1,1 @@
+(my-repo-pins :fetcher github :repo "anticomputer/my-repo-pins")

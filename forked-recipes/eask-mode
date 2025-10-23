@@ -1,0 +1,1 @@
+(eask-mode :repo "anticomputer/eask-mode" :fetcher github)

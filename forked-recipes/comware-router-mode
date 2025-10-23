@@ -1,0 +1,1 @@
+(comware-router-mode :repo "anticomputer/comware-router-mode" :fetcher github)

@@ -1,0 +1,3 @@
+(lsp-pyright
+  :repo "anticomputer/lsp-pyright"
+  :fetcher github)
